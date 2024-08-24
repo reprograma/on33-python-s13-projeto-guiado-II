@@ -1,11 +1,30 @@
 # Exercício de Casa 🏠 
 
-## Nome do Exercicio
+## Projeto II
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
----
+Explicação do exercício:
+- Use o dataset proposto em aula ou busque um de sua preferência no [Kaggle](https://www.kaggle.com/).<br>
+- Faça uma introdução explicando os dados e por que você escolheu o dataset.<br>
+- Fale sobre o motivo de escolha dos dados: pq esses dados me chamaram a atenção ao ponto de achar que teríamos bons insights? O que eu vi de relevante nesses dados?
+- Faça a instalação das bibliotecas necessárias para tratamento de dados, sendo necessário usar pandas e numpy.<br>
+- Utilize a biblioteca Matplotlib ou Seaborn para construir novos gráficos.<br>
+- Crie visualizações de gráficos com pandas, sendo no mínimo 4 gráficos.<br>
+- Faça  consultas em sql.<br>
+- Utilize a biblioteca Matplotlib ou Seaborn para construir novos gráficos.<br>
+- Faça um teste de hipótese.<br> 
+
+Arquivos que devem ser submetidos:
+
+- arquivo.csv (ou similar: json, exe, etc) utilizado
+- arquivo .db com entradas de interesse
+- arquivo .ipynb com relatório contendo gráficos e insights sobre dados utilizados.
+- código de criação e edição em sql (.py ou .ipynb)
+- readme.md com todas a documentação das analises.
+
+## Extra
+
+Crie uma função que, a partir do dataset escolhido, crie um DataFrame, faça o tratamento dos dados e, por fim, exiba uma visualização gráfica.
+Crie duas amostras e faça consultas com elas usando a operação merge.
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
 
