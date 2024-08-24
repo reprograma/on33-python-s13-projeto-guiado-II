@@ -2,16 +2,29 @@
 
 ## Projeto II
 
-Explicação do exercício:
-- Use o dataset proposto em aula ou busque um de sua preferência no [Kaggle](https://www.kaggle.com/).<br>
-- Faça uma introdução explicando os dados e por que você escolheu o dataset.<br>
-- Fale sobre o motivo de escolha dos dados: pq esses dados me chamaram a atenção ao ponto de achar que teríamos bons insights? O que eu vi de relevante nesses dados?
-- Faça a instalação das bibliotecas necessárias para tratamento de dados, sendo necessário usar pandas e numpy.<br>
-- Utilize a biblioteca Matplotlib ou Seaborn para construir novos gráficos.<br>
-- Crie visualizações de gráficos com pandas, sendo no mínimo 4 gráficos.<br>
-- Faça  consultas em sql.<br>
-- Utilize a biblioteca Matplotlib ou Seaborn para construir novos gráficos.<br>
-- Faça um teste de hipótese.<br> 
+### Explicação do Exercício
+1 - Escolha do Dataset:
+- Utilize o dataset proposto em aula ou selecione um de sua preferência no Kaggle.
+- Faça uma introdução explicando os dados e o motivo da escolha do dataset.
+- Explique o que chamou sua atenção nesses dados e por que você acredita que eles podem gerar bons insights. Quais aspectos relevantes você identificou?
+<br>
+
+2 - Instalação de Bibliotecas:
+- Instale as bibliotecas necessárias para o tratamento de dados, incluindo Pandas e Numpy.
+<br>
+
+3 - Visualizações Gráficas:
+
+- Utilize as bibliotecas Matplotlib ou Seaborn para construir gráficos adicionais.
+- Crie no mínimo 4 visualizações gráficas com Pandas.
+<br>
+
+4 - Consultas SQL:
+- Realize consultas SQL nos dados.
+<br>
+
+5 - Teste de Hipótese:
+- Conduza um teste de hipótese com base nos dados.
 
 Arquivos que devem ser submetidos:
 
