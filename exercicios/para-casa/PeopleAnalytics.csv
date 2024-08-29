@@ -1,0 +1,1474 @@
+EmpID,AgeGroup,Department,EducationField,EnvironmentSatisfaction,Gender,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MonthlyIncome,SalarySlab,NumCompaniesWorked,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,TotalWorkingYears,TrainingTimesLastYear,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion
+RM297,18-25,Research & Development,Life Sciences,3,Male,3,1,Laboratory Technician,3,1420,Upto 5k,1,13,3,3,0,2,0,0,0
+RM302,18-25,Sales,Medical,4,Female,2,1,Sales Representative,3,1200,Upto 5k,1,12,3,1,0,2,0,0,0
+RM458,18-25,Sales,Marketing,2,Male,3,1,Sales Representative,2,1878,Upto 5k,1,14,3,4,0,3,0,0,0
+RM728,18-25,Research & Development,Life Sciences,2,Male,3,1,Research Scientist,4,1051,Upto 5k,1,15,3,4,0,2,0,0,0
+RM829,18-25,Research & Development,Medical,3,Male,3,1,Laboratory Technician,3,1904,Upto 5k,1,12,3,4,0,0,0,0,0
+RM973,18-25,Research & Development,Life Sciences,4,Female,3,1,Laboratory Technician,4,1611,Upto 5k,1,15,3,3,0,5,0,0,0
+RM1154,18-25,Sales,Medical,2,Female,3,1,Sales Representative,4,1569,Upto 5k,1,12,3,3,0,2,0,0,0
+RM1312,18-25,Research & Development,Medical,2,Female,3,1,Research Scientist,3,1514,Upto 5k,1,16,3,3,0,4,0,0,0
+RM128,18-25,Sales,Marketing,4,Male,3,1,Sales Representative,3,1675,Upto 5k,1,19,3,4,0,2,0,0,0
+RM150,18-25,Research & Development,Medical,2,Female,3,1,Laboratory Technician,2,1483,Upto 5k,1,14,3,4,1,3,1,0,0
+RM172,18-25,Sales,Technical Degree,3,Female,1,1,Sales Representative,1,2325,Upto 5k,0,21,4,1,1,5,0,0,0
+RM178,18-25,Research & Development,Life Sciences,2,Male,2,1,Laboratory Technician,4,1102,Upto 5k,1,22,4,3,1,3,1,0,1
+RM423,18-25,Human Resources,Technical Degree,1,Male,2,1,Human Resources,4,2564,Upto 5k,1,12,3,3,1,3,1,0,0
+RM689,18-25,Sales,Other,4,Male,2,1,Sales Representative,2,2121,Upto 5k,1,13,3,2,1,3,1,0,0
+RM854,18-25,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,1,2552,Upto 5k,1,25,4,3,1,4,1,1,0
+RM893,18-25,Research & Development,Medical,1,Female,2,1,Research Scientist,2,1859,Upto 5k,1,25,4,2,1,2,1,1,0
+RM910,18-25,Research & Development,Life Sciences,2,Female,4,1,Research Scientist,4,2994,Upto 5k,1,12,3,4,1,2,1,0,0
+RM103,18-25,Research & Development,Life Sciences,4,Female,2,1,Laboratory Technician,4,2926,Upto 5k,1,18,3,2,1,5,1,0,1
+RM488,18-25,Research & Development,Life Sciences,4,Female,2,1,Research Scientist,2,2836,Upto 5k,1,13,3,4,1,0,1,0,0
+RM514,18-25,Research & Development,Medical,4,Male,3,1,Research Scientist,3,1009,Upto 5k,1,11,3,4,1,5,1,0,1
+RM663,18-25,Sales,Medical,3,Female,2,1,Sales Representative,3,2044,Upto 5k,1,13,3,4,2,3,2,2,0
+RM690,18-25,Research & Development,Technical Degree,1,Male,3,1,Laboratory Technician,1,2973,Upto 5k,1,19,3,2,1,2,1,0,0
+RM732,18-25,Research & Development,Medical,4,Female,2,1,Research Scientist,1,2600,Upto 5k,1,15,3,1,1,2,1,0,0
+RM777,18-25,Sales,Marketing,4,Female,3,1,Sales Representative,4,2323,Upto 5k,1,14,3,2,2,3,2,2,0
+RM857,18-25,Research & Development,Life Sciences,1,Male,2,1,Laboratory Technician,3,3033,Upto 5k,1,12,3,1,2,2,2,2,1
+RM877,18-25,Sales,Marketing,3,Male,4,1,Sales Representative,4,2678,Upto 5k,1,17,3,4,2,2,2,1,2
+RM1179,18-25,Sales,Medical,3,Female,3,1,Sales Representative,3,2783,Upto 5k,1,19,3,1,2,3,2,2,2
+RM1198,18-25,Sales,Life Sciences,4,Male,3,1,Sales Representative,1,2728,Upto 5k,1,11,3,1,2,3,2,2,0
+RM024,18-25,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,4,1232,Upto 5k,1,14,3,4,0,6,0,0,0
+RM275,18-25,Research & Development,Medical,4,Male,2,1,Research Scientist,3,3230,Upto 5k,1,17,3,1,3,4,3,2,1
+RM358,18-25,Sales,Technical Degree,1,Female,2,1,Sales Representative,2,2174,Upto 5k,1,11,3,3,3,3,3,2,1
+RM363,18-25,Sales,Medical,1,Male,3,1,Sales Representative,4,2610,Upto 5k,1,24,4,3,3,3,3,2,2
+RM371,18-25,Sales,Life Sciences,3,Female,4,1,Sales Representative,2,2716,Upto 5k,1,15,3,4,1,0,1,0,0
+RM497,18-25,Sales,Technical Degree,3,Male,3,1,Sales Representative,3,3447,Upto 5k,1,11,3,3,3,2,3,2,1
+RM664,18-25,Research & Development,Other,4,Female,3,1,Research Scientist,4,2693,Upto 5k,1,19,3,1,1,3,1,0,0
+RM778,18-25,Research & Development,Life Sciences,3,Female,2,1,Laboratory Technician,1,1416,Upto 5k,1,13,3,1,1,6,1,0,1
+RM816,18-25,Research & Development,Technical Degree,4,Female,2,1,Research Scientist,2,2070,Upto 5k,1,11,3,3,2,6,2,2,2
+RM916,18-25,Research & Development,Life Sciences,1,Female,2,1,Laboratory Technician,3,2625,Upto 5k,1,20,4,3,2,2,2,2,2
+RM1153,18-25,Research & Development,Medical,3,Male,3,1,Research Scientist,4,3117,Upto 5k,1,18,3,3,3,2,2,2,2
+RM1272,18-25,Sales,Marketing,2,Male,3,1,Sales Representative,2,2679,Upto 5k,1,13,3,2,1,3,1,0,1
+RM1437,18-25,Sales,Medical,3,Male,3,1,Sales Representative,1,2380,Upto 5k,1,11,3,4,2,6,2,2,1
+RM018,18-25,Research & Development,Medical,4,Male,4,1,Laboratory Technician,4,2935,Upto 5k,1,13,3,2,1,2,1,0,0
+RM110,18-25,Research & Development,Medical,2,Female,3,1,Laboratory Technician,4,2871,Upto 5k,1,15,3,3,1,5,0,0,0
+RM129,18-25,Research & Development,Technical Degree,3,Male,3,1,Laboratory Technician,4,2523,Upto 5k,0,14,3,3,3,2,2,1,2
+RM161,18-25,Research & Development,Medical,3,Male,3,1,Research Scientist,4,2323,Upto 5k,1,24,4,1,2,6,2,2,2
+RM207,18-25,Research & Development,Life Sciences,4,Male,4,1,Research Scientist,2,2328,Upto 5k,1,16,3,1,4,2,4,2,2
+RM384,18-25,Research & Development,Medical,1,Female,3,1,Research Scientist,2,2244,Upto 5k,1,13,3,4,2,1,2,1,1
+RM444,18-25,Research & Development,Technical Degree,3,Male,2,1,Laboratory Technician,3,3894,Upto 5k,5,16,3,3,4,3,2,2,1
+RM499,18-25,Research & Development,Medical,1,Male,3,1,Research Scientist,3,2773,Upto 5k,0,20,4,4,3,3,2,2,2
+RM631,18-25,Research & Development,Life Sciences,4,Male,2,2,Manufacturing Director,4,4775,Upto 5k,6,22,4,1,4,2,2,2,2
+RM667,18-25,Research & Development,Life Sciences,2,Female,3,2,Manufacturing Director,3,4171,Upto 5k,0,19,3,1,4,3,3,2,0
+RM735,18-25,Research & Development,Life Sciences,2,Male,1,1,Laboratory Technician,1,2451,Upto 5k,1,15,3,1,4,3,4,3,1
+RM861,18-25,Research & Development,Life Sciences,3,Male,2,1,Research Scientist,4,2853,Upto 5k,0,11,3,2,1,5,0,0,0
+RM1138,18-25,Research & Development,Other,2,Female,2,1,Research Scientist,3,2814,Upto 5k,1,14,3,2,4,2,4,2,1
+RM1274,18-25,Research & Development,Medical,3,Female,3,1,Laboratory Technician,1,2398,Upto 5k,1,17,3,3,1,6,1,0,0
+RM1340,18-25,Research & Development,Life Sciences,4,Male,3,1,Research Scientist,2,2472,Upto 5k,1,23,4,1,1,2,1,0,0
+RM1424,18-25,Research & Development,Life Sciences,4,Male,3,1,Research Scientist,3,3375,Upto 5k,0,12,3,4,4,2,3,2,1
+RM087,18-25,Sales,Technical Degree,3,Male,3,1,Sales Representative,1,2322,Upto 5k,3,13,3,3,3,3,0,0,0
+RM346,18-25,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,4,2904,Upto 5k,1,12,3,3,4,2,4,2,0
+RM517,18-25,Research & Development,Medical,1,Male,4,1,Research Scientist,1,2819,Upto 5k,2,16,3,1,5,3,3,2,0
+RM551,18-25,Research & Development,Medical,2,Male,3,1,Laboratory Technician,1,2500,Upto 5k,1,14,3,4,5,2,4,3,0
+RM566,18-25,Research & Development,Medical,1,Male,4,1,Research Scientist,3,3505,Upto 5k,1,18,3,4,2,3,2,2,0
+RM586,18-25,Research & Development,Life Sciences,3,Male,4,1,Laboratory Technician,1,1601,Upto 5k,1,21,4,3,1,2,0,0,0
+RM911,18-25,Research & Development,Life Sciences,4,Male,3,1,Research Scientist,3,1223,Upto 5k,1,22,4,4,1,2,1,0,0
+RM1083,18-25,Research & Development,Life Sciences,1,Male,3,2,Laboratory Technician,3,2272,Upto 5k,0,14,3,2,5,2,4,3,1
+RM1128,18-25,Research & Development,Technical Degree,4,Male,4,1,Research Scientist,3,2073,Upto 5k,2,16,3,4,4,2,2,2,2
+RM1202,18-25,Research & Development,Medical,4,Male,2,1,Laboratory Technician,3,3989,Upto 5k,1,11,3,1,5,2,5,4,1
+RM1214,18-25,Sales,Life Sciences,3,Male,3,1,Sales Representative,4,2275,Upto 5k,1,21,4,2,3,2,3,2,0
+RM1239,18-25,Research & Development,Medical,3,Female,3,1,Laboratory Technician,2,3295,Upto 5k,1,13,3,3,3,3,3,2,1
+RM1409,18-25,Research & Development,Other,4,Male,3,1,Laboratory Technician,4,2647,Upto 5k,1,13,3,3,5,6,5,2,1
+RM1439,18-25,Sales,Marketing,4,Male,3,1,Sales Representative,1,1790,Upto 5k,1,19,3,1,1,3,1,0,1
+RM021,18-25,Research & Development,Other,1,Female,4,2,Manufacturing Director,3,4011,Upto 5k,0,18,3,4,5,5,4,2,1
+RM035,18-25,Research & Development,Medical,2,Male,3,1,Research Scientist,4,2293,Upto 5k,2,16,3,1,6,2,2,0,2
+RM097,18-25,Sales,Other,1,Female,3,2,Sales Executive,3,4999,Upto 5k,0,21,4,1,4,2,3,2,0
+RM114,18-25,Research & Development,Life Sciences,2,Male,3,1,Laboratory Technician,3,2774,Upto 5k,0,12,3,3,6,2,5,3,1
+RM381,18-25,Sales,Marketing,4,Female,3,2,Sales Executive,3,4260,Upto 5k,1,12,3,4,5,2,5,2,0
+RM415,18-25,Sales,Technical Degree,1,Female,3,1,Sales Representative,2,3202,Upto 5k,1,16,3,2,6,4,5,3,1
+RM471,18-25,Sales,Medical,4,Male,3,1,Sales Representative,4,2400,Upto 5k,0,13,3,3,3,3,2,2,2
+RM475,18-25,Research & Development,Medical,2,Male,4,1,Research Scientist,4,2725,Upto 5k,1,11,3,2,6,3,6,5,1
+RM477,18-25,Research & Development,Other,4,Male,2,1,Laboratory Technician,2,2127,Upto 5k,1,21,4,4,1,2,1,0,0
+RM480,18-25,Research & Development,Life Sciences,1,Female,3,1,Laboratory Technician,3,2886,Upto 5k,1,16,3,4,6,4,6,3,1
+RM526,18-25,Sales,Life Sciences,1,Female,3,2,Sales Executive,3,4577,Upto 5k,9,14,3,1,4,3,2,2,2
+RM587,18-25,Research & Development,Life Sciences,3,Male,2,1,Laboratory Technician,2,2694,Upto 5k,1,11,3,3,1,4,1,0,0
+RM641,18-25,Research & Development,Life Sciences,1,Male,2,1,Laboratory Technician,4,3162,Upto 5k,0,17,3,4,6,2,5,2,3
+RM725,18-25,Research & Development,Medical,4,Female,2,2,Manufacturing Director,3,4377,Upto 5k,1,15,3,2,5,6,4,2,3
+RM842,18-25,Research & Development,Medical,4,Male,3,1,Laboratory Technician,2,3597,Upto 5k,8,22,4,4,6,2,4,3,1
+RM872,18-25,Research & Development,Life Sciences,4,Female,3,1,Laboratory Technician,2,2210,Upto 5k,1,13,3,1,1,3,1,0,0
+RM1026,18-25,Sales,Medical,4,Female,3,2,Sales Executive,3,4162,Upto 5k,1,12,3,3,5,3,5,4,0
+RM1061,18-25,Research & Development,Medical,2,Male,3,1,Laboratory Technician,1,3172,Upto 5k,2,11,3,3,4,2,0,0,0
+RM1062,18-25,Sales,Life Sciences,4,Female,3,1,Sales Representative,2,2033,Upto 5k,1,13,3,3,1,2,1,0,0
+RM1098,18-25,Research & Development,Technical Degree,3,Male,2,1,Laboratory Technician,1,2296,Upto 5k,0,14,3,2,2,3,1,1,0
+RM1169,18-25,Research & Development,Technical Degree,1,Female,3,1,Research Scientist,4,3760,Upto 5k,1,13,3,3,6,2,6,3,1
+RM1218,18-25,Research & Development,Medical,3,Male,4,1,Research Scientist,3,4401,Upto 5k,1,16,3,4,5,1,5,3,0
+RM1223,18-25,Human Resources,Human Resources,4,Male,1,1,Human Resources,3,1555,Upto 5k,1,11,3,3,1,2,1,0,0
+RM1231,18-25,Research & Development,Medical,2,Male,3,1,Laboratory Technician,1,3907,Upto 5k,1,13,3,2,6,2,6,2,1
+RM1246,18-25,Human Resources,Medical,1,Male,3,1,Human Resources,4,2145,Upto 5k,0,14,3,4,3,2,2,2,2
+RM1408,18-25,Research & Development,Life Sciences,2,Male,2,2,Healthcare Representative,3,4617,Upto 5k,1,12,3,2,4,2,4,3,1
+RM108,18-25,Sales,Marketing,3,Male,2,2,Sales Executive,3,5744,5k-10k,1,11,3,4,6,1,6,4,0
+RM109,18-25,Research & Development,Medical,4,Male,2,1,Research Scientist,4,2889,Upto 5k,1,11,3,3,2,2,2,2,2
+RM139,18-25,Sales,Life Sciences,1,Male,2,2,Sales Executive,3,8639,5k-10k,2,18,3,4,6,3,2,2,2
+RM256,18-25,Research & Development,Life Sciences,1,Female,3,2,Manufacturing Director,3,4898,Upto 5k,0,12,3,4,5,3,4,2,1
+RM268,18-25,Research & Development,Life Sciences,2,Male,4,2,Healthcare Representative,1,4000,Upto 5k,1,12,3,4,6,2,6,3,1
+RM398,18-25,Sales,Life Sciences,2,Female,2,2,Sales Executive,4,4487,Upto 5k,1,11,3,2,5,3,5,4,1
+RM406,18-25,Research & Development,Medical,1,Male,3,1,Laboratory Technician,1,4031,Upto 5k,5,13,3,3,6,5,2,2,0
+RM479,18-25,Sales,Medical,2,Male,3,1,Sales Representative,3,2096,Upto 5k,1,11,3,3,7,1,7,4,0
+RM518,18-25,Sales,Life Sciences,4,Male,4,2,Sales Executive,2,4851,Upto 5k,0,22,4,3,4,4,3,2,1
+RM564,18-25,Sales,Medical,3,Female,3,2,Sales Executive,4,6180,5k-10k,1,23,4,2,6,5,6,5,1
+RM619,18-25,Research & Development,Medical,1,Male,4,1,Research Scientist,1,3424,Upto 5k,7,13,3,3,6,3,4,3,0
+RM635,18-25,Sales,Other,3,Male,3,2,Sales Executive,1,4194,Upto 5k,1,18,3,4,5,3,5,3,0
+RM639,18-25,Sales,Marketing,3,Male,2,2,Sales Executive,1,4256,Upto 5k,1,12,3,1,5,1,5,2,0
+RM684,18-25,Sales,Marketing,3,Male,2,1,Sales Representative,2,2413,Upto 5k,1,18,3,3,1,2,1,0,0
+RM797,18-25,Research & Development,Technical Degree,4,Male,3,1,Laboratory Technician,4,3691,Upto 5k,1,15,3,2,7,3,7,7,5
+RM886,18-25,Sales,Life Sciences,3,Male,3,2,Sales Executive,4,4950,Upto 5k,0,14,3,2,5,4,4,3,1
+RM912,18-25,Sales,Life Sciences,3,Male,1,1,Sales Representative,4,1118,Upto 5k,1,14,3,4,1,4,1,0,1
+RM935,18-25,Research & Development,Medical,4,Female,3,1,Research Scientist,2,2096,Upto 5k,1,18,3,4,2,3,2,2,2
+RM966,18-25,Research & Development,Medical,4,Male,3,1,Laboratory Technician,4,3669,Upto 5k,3,11,3,3,7,6,3,2,1
+RM994,18-25,Sales,Life Sciences,1,Male,4,2,Sales Executive,3,6232,5k-10k,2,11,3,2,6,3,3,2,1
+RM1004,18-25,Research & Development,Technical Degree,1,Male,3,1,Laboratory Technician,4,3229,Upto 5k,4,11,3,2,7,2,3,2,0
+RM1022,18-25,Sales,Life Sciences,1,Male,2,1,Sales Representative,1,4400,Upto 5k,3,12,3,1,6,2,3,2,2
+RM1175,18-25,Research & Development,Life Sciences,4,Male,4,2,Manufacturing Director,3,5206,5k-10k,1,17,3,3,7,6,7,7,0
+RM1412,18-25,Human Resources,Human Resources,3,Female,3,1,Human Resources,2,2187,Upto 5k,4,14,3,3,6,3,2,0,1
+RM1414,18-25,Research & Development,Other,4,Male,3,1,Laboratory Technician,3,3977,Upto 5k,6,19,3,3,7,2,2,2,0
+RM1434,18-25,Sales,Other,1,Female,3,2,Sales Executive,3,4907,Upto 5k,0,22,4,2,6,3,5,3,0
+RM043,26-35,Research & Development,Life Sciences,1,Male,1,1,Laboratory Technician,3,2293,Upto 5k,1,12,3,3,1,2,1,0,0
+RM055,26-35,Sales,Marketing,3,Female,2,2,Sales Executive,4,4157,Upto 5k,7,19,3,3,5,2,2,2,0
+RM126,26-35,Research & Development,Other,3,Female,2,1,Research Scientist,2,2368,Upto 5k,1,19,3,3,5,3,5,4,4
+RM135,26-35,Human Resources,Life Sciences,3,Female,3,1,Human Resources,3,2942,Upto 5k,1,23,4,4,8,3,8,7,5
+RM279,26-35,Research & Development,Life Sciences,3,Female,3,2,Manufacturing Director,2,6397,5k-10k,1,20,4,1,6,6,6,5,1
+RM285,26-35,Research & Development,Medical,1,Male,3,2,Healthcare Representative,1,4741,Upto 5k,1,13,3,3,5,3,5,3,3
+RM289,26-35,Research & Development,Medical,1,Male,3,1,Laboratory Technician,2,2373,Upto 5k,2,13,3,4,5,2,3,2,0
+RM294,26-35,Sales,Marketing,4,Male,2,2,Sales Executive,4,5828,5k-10k,1,12,3,2,8,0,8,7,7
+RM356,26-35,Sales,Life Sciences,3,Male,3,2,Sales Executive,3,5296,5k-10k,1,17,3,2,8,3,8,7,7
+RM383,26-35,Research & Development,Technical Degree,3,Male,3,1,Research Scientist,1,3102,Upto 5k,0,22,4,3,7,2,6,4,0
+RM419,26-35,Research & Development,Life Sciences,1,Female,3,1,Research Scientist,4,2886,Upto 5k,1,22,4,2,3,3,3,2,0
+RM454,26-35,Human Resources,Life Sciences,2,Female,3,1,Human Resources,3,2741,Upto 5k,0,11,3,2,8,2,7,7,1
+RM461,26-35,Sales,Medical,1,Male,3,2,Sales Executive,3,4306,Upto 5k,5,12,3,1,8,5,0,0,0
+RM464,26-35,Research & Development,Technical Degree,3,Male,1,1,Laboratory Technician,4,2340,Upto 5k,1,18,3,2,1,3,1,0,0
+RM476,26-35,Sales,Marketing,1,Male,3,2,Sales Executive,2,6272,5k-10k,1,20,4,4,6,5,5,3,1
+RM506,26-35,Research & Development,Life Sciences,3,Female,3,1,Laboratory Technician,4,2659,Upto 5k,1,13,3,3,3,2,3,2,0
+RM572,26-35,Research & Development,Life Sciences,1,Female,1,1,Laboratory Technician,4,4364,Upto 5k,3,14,3,1,5,2,2,2,2
+RM574,26-35,Sales,Technical Degree,4,Male,2,2,Sales Executive,1,5326,5k-10k,6,17,3,3,6,2,4,3,1
+RM615,26-35,Research & Development,Medical,3,Female,2,1,Research Scientist,3,2366,Upto 5k,1,14,3,1,8,2,8,7,1
+RM686,26-35,Sales,Medical,3,Male,2,2,Sales Executive,1,4294,Upto 5k,1,12,3,2,7,2,7,7,0
+RM734,26-35,Research & Development,Medical,4,Male,4,2,Manufacturing Director,4,5472,5k-10k,1,12,3,2,8,2,8,7,1
+RM749,26-35,Sales,Medical,2,Male,1,2,Sales Executive,1,4969,Upto 5k,8,18,3,4,7,6,2,2,2
+RM763,26-35,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,1,2042,Upto 5k,6,14,3,2,6,2,3,2,1
+RM770,26-35,Research & Development,Medical,1,Female,2,1,Research Scientist,3,2007,Upto 5k,1,13,3,3,5,5,5,3,1
+RM782,26-35,Research & Development,Medical,1,Male,2,1,Laboratory Technician,1,3955,Upto 5k,1,16,3,1,6,2,5,3,1
+RM798,26-35,Research & Development,Medical,1,Male,3,1,Laboratory Technician,3,2377,Upto 5k,1,20,4,3,1,0,1,1,0
+RM844,26-35,Research & Development,Medical,1,Male,4,1,Laboratory Technician,4,4420,Upto 5k,1,22,4,2,8,2,8,7,0
+RM913,26-35,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,4,2875,Upto 5k,1,20,4,2,8,2,8,5,2
+RM999,26-35,Research & Development,Medical,1,Male,2,1,Research Scientist,4,3904,Upto 5k,0,12,3,4,5,2,4,3,1
+RM1005,26-35,Research & Development,Other,3,Male,4,1,Laboratory Technician,1,3578,Upto 5k,0,12,3,4,8,2,7,7,0
+RM1119,26-35,Research & Development,Life Sciences,1,Female,3,1,Research Scientist,4,2061,Upto 5k,1,21,4,1,1,5,1,0,0
+RM1207,26-35,Research & Development,Medical,4,Male,3,1,Laboratory Technician,4,2570,Upto 5k,1,20,4,3,7,5,7,7,5
+RM1225,26-35,Research & Development,Medical,4,Male,1,1,Laboratory Technician,3,2305,Upto 5k,1,15,3,3,3,3,3,2,0
+RM1298,26-35,Human Resources,Medical,4,Female,3,1,Human Resources,2,2148,Upto 5k,0,11,3,3,6,3,5,1,1
+RM1310,26-35,Sales,Medical,3,Male,3,2,Sales Executive,4,4684,Upto 5k,1,13,3,1,5,4,5,3,1
+RM1350,26-35,Research & Development,Life Sciences,2,Female,2,1,Research Scientist,3,2933,Upto 5k,1,13,3,3,1,3,1,0,1
+RM1362,26-35,Research & Development,Other,3,Male,4,1,Laboratory Technician,4,2544,Upto 5k,0,18,3,1,8,3,7,7,7
+RM1387,26-35,Research & Development,Medical,3,Male,3,1,Laboratory Technician,1,2867,Upto 5k,0,13,3,4,8,6,7,7,7
+RM1465,26-35,Sales,Other,4,Female,2,1,Sales Representative,3,2966,Upto 5k,0,18,3,4,5,2,4,2,0
+RM1465,26-35,Sales,Other,4,Female,2,1,Sales Representative,3,2966,Upto 5k,0,18,3,4,5,2,4,2,0
+RM005,26-35,Research & Development,Medical,1,Male,3,1,Laboratory Technician,2,3468,Upto 5k,9,12,3,4,6,3,2,2,2
+RM042,26-35,Research & Development,Life Sciences,4,Female,3,1,Laboratory Technician,1,2341,Upto 5k,1,13,3,4,1,6,1,0,0
+RM044,26-35,Sales,Life Sciences,4,Male,3,3,Sales Executive,3,8726,5k-10k,1,15,3,4,9,0,9,8,1
+RM162,26-35,Research & Development,Medical,4,Male,3,1,Research Scientist,2,2024,Upto 5k,6,18,3,4,6,1,2,2,2
+RM165,26-35,Research & Development,Medical,3,Male,2,1,Research Scientist,3,2566,Upto 5k,1,15,3,4,1,2,1,1,0
+RM171,26-35,Research & Development,Technical Degree,3,Male,3,1,Research Scientist,2,3058,Upto 5k,0,16,3,4,6,3,5,2,1
+RM192,26-35,Research & Development,Medical,4,Female,3,1,Research Scientist,2,2279,Upto 5k,1,16,3,4,7,2,7,7,0
+RM201,26-35,Research & Development,Technical Degree,3,Male,2,2,Manufacturing Director,1,4298,Upto 5k,5,19,3,3,6,1,2,2,2
+RM213,26-35,Sales,Life Sciences,4,Female,3,2,Sales Executive,3,9981,5k-10k,1,14,3,4,7,2,7,7,0
+RM319,26-35,Research & Development,Life Sciences,3,Female,3,1,Research Scientist,2,2478,Upto 5k,1,12,3,2,4,2,4,3,1
+RM321,26-35,Sales,Life Sciences,4,Male,3,2,Sales Executive,3,4478,Upto 5k,1,11,3,1,5,3,5,4,0
+RM332,26-35,Sales,Marketing,3,Male,3,2,Sales Executive,2,6349,5k-10k,0,13,3,4,6,0,5,4,1
+RM340,26-35,Sales,Marketing,2,Female,3,2,Sales Executive,2,6214,5k-10k,1,18,3,1,8,3,8,7,0
+RM374,26-35,Research & Development,Medical,4,Male,3,1,Laboratory Technician,2,3816,Upto 5k,1,11,3,2,5,2,5,2,0
+RM486,26-35,Research & Development,Medical,1,Female,2,1,Research Scientist,3,2187,Upto 5k,0,12,3,3,6,5,5,3,0
+RM496,26-35,Sales,Marketing,3,Male,3,1,Sales Representative,1,3041,Upto 5k,0,11,3,2,5,3,4,3,0
+RM513,26-35,Research & Development,Medical,1,Male,2,1,Research Scientist,4,2045,Upto 5k,0,13,3,4,5,0,4,2,1
+RM522,26-35,Sales,Medical,4,Female,4,2,Sales Executive,4,4647,Upto 5k,1,20,4,2,6,3,6,5,0
+RM531,26-35,Research & Development,Life Sciences,3,Female,3,3,Manufacturing Director,1,7412,5k-10k,1,11,3,4,9,3,9,7,0
+RM538,26-35,Research & Development,Life Sciences,4,Male,3,3,Manufacturing Director,1,8793,5k-10k,1,21,4,3,9,4,9,7,1
+RM555,26-35,Research & Development,Medical,4,Female,2,2,Healthcare Representative,1,6811,5k-10k,8,19,3,1,9,2,7,6,0
+RM577,26-35,Sales,Marketing,3,Male,3,2,Sales Executive,4,4342,Upto 5k,0,19,3,2,5,3,4,2,1
+RM611,26-35,Research & Development,Technical Degree,3,Male,2,3,Research Director,4,12808,10k-15k,1,16,3,2,9,3,9,8,0
+RM616,26-35,Research & Development,Medical,4,Male,3,1,Research Scientist,4,1706,Upto 5k,1,11,3,3,0,6,0,0,0
+RM671,26-35,Research & Development,Life Sciences,2,Female,3,1,Research Scientist,3,2318,Upto 5k,1,19,3,3,1,2,1,1,0
+RM718,26-35,Research & Development,Technical Degree,3,Female,3,1,Laboratory Technician,2,2811,Upto 5k,9,14,3,2,4,2,2,2,2
+RM740,26-35,Research & Development,Life Sciences,1,Female,3,2,Manufacturing Director,4,4227,Upto 5k,0,18,3,2,4,2,3,2,2
+RM787,26-35,Research & Development,Life Sciences,1,Male,1,1,Laboratory Technician,3,4621,Upto 5k,1,19,3,4,3,4,3,2,1
+RM834,26-35,Research & Development,Life Sciences,4,Male,2,1,Research Scientist,3,2539,Upto 5k,1,13,3,3,4,0,4,2,2
+RM890,26-35,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,1,2235,Upto 5k,1,14,3,4,9,3,9,7,6
+RM903,26-35,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,3,2517,Upto 5k,1,11,3,2,5,2,5,3,0
+RM971,26-35,Sales,Medical,3,Female,4,1,Sales Representative,4,2534,Upto 5k,8,14,3,2,5,4,1,0,0
+RM975,26-35,Sales,Life Sciences,4,Male,1,2,Sales Executive,4,5071,5k-10k,3,20,4,2,8,3,6,2,0
+RM997,26-35,Sales,Marketing,4,Female,2,2,Sales Executive,4,5769,5k-10k,1,11,3,4,6,3,6,2,4
+RM998,26-35,Research & Development,Life Sciences,4,Female,3,1,Research Scientist,3,2394,Upto 5k,1,13,3,4,8,2,8,2,7
+RM1018,26-35,Research & Development,Life Sciences,2,Male,3,1,Laboratory Technician,1,2099,Upto 5k,0,14,3,2,6,3,5,0,1
+RM1150,26-35,Research & Development,Other,4,Male,2,1,Laboratory Technician,1,4066,Upto 5k,1,11,3,1,7,3,7,7,0
+RM1170,26-35,Research & Development,Medical,2,Female,4,1,Research Scientist,3,3517,Upto 5k,7,17,3,1,5,0,3,2,0
+RM1171,26-35,Research & Development,Medical,4,Male,3,1,Research Scientist,4,2580,Upto 5k,2,13,3,3,6,0,4,2,1
+RM1249,26-35,Research & Development,Medical,3,Female,3,1,Research Scientist,4,3445,Upto 5k,1,11,3,3,6,5,6,2,1
+RM1318,26-35,Research & Development,Life Sciences,4,Female,3,1,Laboratory Technician,4,2379,Upto 5k,0,14,3,3,6,3,5,4,0
+RM1329,26-35,Sales,Medical,2,Female,2,2,Sales Representative,3,3540,Upto 5k,1,21,4,4,9,5,9,8,5
+RM1335,26-35,Research & Development,Life Sciences,4,Female,2,1,Research Scientist,1,4774,Upto 5k,0,19,3,4,8,2,7,6,7
+RM1351,26-35,Sales,Medical,1,Female,4,2,Sales Executive,3,6500,5k-10k,0,14,3,2,9,5,8,7,0
+RM1368,26-35,Research & Development,Technical Degree,2,Male,3,1,Research Scientist,2,2226,Upto 5k,1,11,3,3,6,3,5,3,1
+RM1380,26-35,Human Resources,Human Resources,1,Female,2,1,Human Resources,2,2863,Upto 5k,1,12,3,1,1,2,1,0,0
+RM1394,26-35,Sales,Marketing,4,Male,3,2,Sales Executive,4,4105,Upto 5k,1,14,3,1,7,5,7,7,0
+RM1468,26-35,Research & Development,Life Sciences,2,Male,4,2,Manufacturing Director,2,6142,5k-10k,1,20,4,2,6,0,6,2,0
+RM015,26-35,Research & Development,Life Sciences,3,Male,2,1,Laboratory Technician,3,2028,Upto 5k,5,14,3,2,6,4,4,2,0
+RM052,26-35,Research & Development,Technical Degree,3,Male,3,1,Laboratory Technician,3,3441,Upto 5k,1,13,3,3,2,3,2,2,2
+RM098,26-35,Sales,Medical,2,Male,3,2,Sales Executive,3,4221,Upto 5k,1,15,3,2,5,3,5,4,0
+RM163,26-35,Research & Development,Medical,3,Male,3,1,Research Scientist,4,2713,Upto 5k,1,11,3,3,5,2,5,2,0
+RM265,26-35,Research & Development,Life Sciences,1,Male,3,1,Laboratory Technician,3,3485,Upto 5k,2,11,3,3,5,5,0,0,0
+RM273,26-35,Research & Development,Medical,4,Male,3,1,Research Scientist,4,2070,Upto 5k,1,23,4,4,5,3,5,2,0
+RM290,26-35,Research & Development,Life Sciences,4,Female,3,1,Research Scientist,4,3310,Upto 5k,1,21,4,4,5,3,5,3,0
+RM303,26-35,Research & Development,Medical,2,Male,4,2,Healthcare Representative,1,5661,5k-10k,0,19,3,3,9,2,8,3,0
+RM324,26-35,Research & Development,Medical,1,Male,1,1,Research Scientist,4,3464,Upto 5k,5,13,3,4,5,4,3,2,2
+RM375,26-35,Sales,Life Sciences,2,Male,3,2,Sales Executive,4,5253,5k-10k,1,16,3,4,7,1,7,5,0
+RM405,26-35,Research & Development,Medical,3,Male,3,2,Laboratory Technician,1,4558,Upto 5k,1,12,3,4,10,2,10,0,1
+RM541,26-35,Research & Development,Life Sciences,1,Female,1,1,Research Scientist,2,2216,Upto 5k,7,13,3,4,10,4,7,7,3
+RM599,26-35,Research & Development,Medical,3,Male,3,1,Research Scientist,3,4382,Upto 5k,6,17,3,4,5,3,2,2,2
+RM613,26-35,Sales,Marketing,2,Female,3,2,Sales Executive,2,4779,Upto 5k,1,20,4,1,8,2,8,7,7
+RM630,26-35,Human Resources,Medical,2,Male,2,1,Human Resources,4,4936,Upto 5k,1,13,3,4,6,6,5,1,0
+RM660,26-35,Sales,Medical,1,Male,3,2,Sales Executive,4,4908,Upto 5k,1,14,3,2,4,3,4,2,0
+RM669,26-35,Research & Development,Medical,3,Female,3,1,Research Scientist,3,2377,Upto 5k,5,18,3,2,6,2,2,2,2
+RM765,26-35,Sales,Medical,4,Male,3,1,Sales Representative,2,1052,Upto 5k,1,22,4,2,1,5,1,0,0
+RM781,26-35,Research & Development,Technical Degree,2,Male,2,3,Healthcare Representative,1,8722,5k-10k,1,12,3,1,10,2,10,7,1
+RM789,26-35,Research & Development,Other,3,Female,3,2,Research Scientist,3,3660,Upto 5k,3,13,3,4,10,4,8,7,1
+RM794,26-35,Research & Development,Life Sciences,1,Male,3,1,Laboratory Technician,3,2207,Upto 5k,1,16,3,4,4,5,4,2,2
+RM801,26-35,Research & Development,Medical,1,Male,2,1,Laboratory Technician,2,2596,Upto 5k,1,15,3,1,1,2,1,0,0
+RM810,26-35,Research & Development,Medical,4,Female,3,3,Manufacturing Director,2,7655,5k-10k,0,17,3,2,10,3,9,7,1
+RM820,26-35,Research & Development,Life Sciences,1,Male,2,1,Research Scientist,2,3201,Upto 5k,0,17,3,1,6,2,5,3,0
+RM828,26-35,Research & Development,Life Sciences,3,Male,2,1,Research Scientist,3,2703,Upto 5k,1,14,3,4,3,2,3,1,0
+RM843,26-35,Research & Development,Life Sciences,3,Female,3,1,Laboratory Technician,4,2515,Upto 5k,1,11,3,4,1,4,1,1,0
+RM869,26-35,Research & Development,Medical,4,Male,2,1,Laboratory Technician,1,3196,Upto 5k,1,12,3,3,6,2,6,5,3
+RM922,26-35,Research & Development,Medical,4,Male,3,1,Laboratory Technician,3,2154,Upto 5k,0,11,3,3,5,2,4,2,0
+RM930,26-35,Research & Development,Life Sciences,4,Male,2,1,Laboratory Technician,4,3867,Upto 5k,1,12,3,2,2,2,2,2,2
+RM934,26-35,Research & Development,Technical Degree,4,Male,3,1,Research Scientist,1,2080,Upto 5k,2,11,3,2,5,2,3,2,1
+RM945,26-35,Research & Development,Life Sciences,3,Female,1,2,Laboratory Technician,4,6674,5k-10k,0,11,3,1,10,6,9,8,7
+RM985,26-35,Sales,Life Sciences,3,Male,2,2,Sales Executive,1,4724,Upto 5k,1,11,3,3,5,0,5,3,0
+RM1042,26-35,Sales,Medical,4,Male,3,2,Sales Executive,1,8463,5k-10k,0,18,3,4,6,4,5,4,1
+RM1057,26-35,Sales,Technical Degree,1,Male,3,1,Sales Representative,3,2909,Upto 5k,3,15,3,4,5,3,3,2,1
+RM1069,26-35,Research & Development,Medical,3,Male,2,1,Laboratory Technician,1,2561,Upto 5k,7,11,3,3,8,2,0,0,0
+RM1070,26-35,Research & Development,Life Sciences,1,Male,2,1,Research Scientist,3,1563,Upto 5k,1,14,3,4,1,2,1,0,0
+RM1071,26-35,Sales,Life Sciences,3,Male,3,2,Sales Executive,1,4898,Upto 5k,0,14,3,4,5,5,4,2,1
+RM1074,26-35,Research & Development,Life Sciences,3,Male,1,2,Manufacturing Director,2,6549,5k-10k,1,14,3,2,8,2,8,6,1
+RM1137,26-35,Research & Development,Medical,3,Male,3,1,Laboratory Technician,2,2408,Upto 5k,1,17,3,3,1,3,1,1,0
+RM1152,26-35,Research & Development,Medical,2,Female,1,2,Manufacturing Director,1,4877,Upto 5k,0,21,4,2,6,5,5,3,0
+RM1284,26-35,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,4,2044,Upto 5k,1,11,3,3,5,6,5,3,0
+RM1308,26-35,Research & Development,Medical,3,Female,3,1,Research Scientist,1,3591,Upto 5k,1,25,4,3,3,3,3,2,1
+RM1324,26-35,Human Resources,Life Sciences,3,Male,3,1,Human Resources,4,2706,Upto 5k,1,15,3,2,3,2,3,2,2
+RM1338,26-35,Sales,Medical,2,Female,3,1,Sales Representative,2,2856,Upto 5k,1,19,3,4,1,3,1,0,0
+RM1365,26-35,Sales,Life Sciences,3,Male,2,2,Sales Executive,4,6834,5k-10k,1,12,3,3,7,2,7,7,0
+RM1370,26-35,Sales,Marketing,4,Female,3,2,Sales Executive,3,9854,5k-10k,3,11,3,4,6,0,2,0,2
+RM1382,26-35,Research & Development,Medical,3,Male,3,1,Research Scientist,3,2144,Upto 5k,1,14,3,3,5,3,5,3,1
+RM1391,26-35,Research & Development,Technical Degree,3,Male,2,1,Laboratory Technician,4,2367,Upto 5k,5,12,3,1,6,2,4,1,0
+RM012,26-35,Research & Development,Life Sciences,4,Female,2,2,Laboratory Technician,3,4193,Upto 5k,0,12,3,4,10,3,9,5,0
+RM016,26-35,Research & Development,Life Sciences,2,Female,4,3,Manufacturing Director,1,9980,5k-10k,1,11,3,3,10,1,10,9,8
+RM072,26-35,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,2,2703,Upto 5k,0,23,4,4,6,3,5,4,0
+RM156,26-35,Research & Development,Technical Degree,4,Male,3,2,Manufacturing Director,3,4319,Upto 5k,1,13,3,1,10,1,10,7,0
+RM206,26-35,Sales,Marketing,2,Female,3,3,Sales Executive,4,7639,5k-10k,1,22,4,4,10,3,10,4,1
+RM218,26-35,Research & Development,Technical Degree,3,Male,3,1,Research Scientist,3,2058,Upto 5k,0,14,3,4,7,1,6,2,1
+RM228,26-35,Sales,Medical,2,Female,3,3,Sales Executive,4,7918,5k-10k,1,14,3,4,11,5,11,10,4
+RM230,26-35,Research & Development,Medical,3,Male,2,1,Research Scientist,4,2389,Upto 5k,1,13,3,3,4,3,4,3,0
+RM253,26-35,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,4,2340,Upto 5k,1,19,3,1,6,1,6,5,1
+RM255,26-35,Sales,Marketing,4,Male,3,2,Sales Executive,4,6931,5k-10k,2,14,3,4,10,2,3,2,0
+RM266,26-35,Sales,Medical,1,Male,2,2,Sales Executive,2,6644,5k-10k,2,19,3,2,10,2,0,0,0
+RM283,26-35,Sales,Life Sciences,2,Male,3,2,Sales Executive,4,4554,Upto 5k,1,18,3,1,10,3,10,7,0
+RM337,26-35,Research & Development,Other,2,Male,1,1,Laboratory Technician,1,2119,Upto 5k,1,11,3,4,7,4,7,7,0
+RM338,26-35,Research & Development,Other,2,Male,2,1,Laboratory Technician,4,3983,Upto 5k,0,17,3,3,4,2,3,2,2
+RM344,26-35,Sales,Marketing,4,Female,2,2,Sales Executive,2,8268,5k-10k,1,14,3,1,7,2,7,7,1
+RM350,26-35,Sales,Life Sciences,4,Male,3,2,Sales Executive,3,4649,Upto 5k,1,14,3,1,4,3,4,3,0
+RM372,26-35,Research & Development,Life Sciences,4,Male,3,1,Research Scientist,4,2201,Upto 5k,9,16,3,4,6,4,3,2,1
+RM421,26-35,Research & Development,Medical,2,Male,2,3,Research Director,3,11935,10k-15k,1,18,3,3,10,2,10,2,0
+RM422,26-35,Research & Development,Technical Degree,3,Female,2,1,Research Scientist,2,2546,Upto 5k,5,16,3,2,6,2,2,2,1
+RM455,26-35,Research & Development,Technical Degree,4,Male,3,2,Manufacturing Director,4,4262,Upto 5k,4,12,3,2,8,2,3,2,1
+RM508,26-35,Sales,Medical,2,Female,3,2,Sales Executive,3,5561,5k-10k,1,14,3,1,6,5,6,0,1
+RM520,26-35,Research & Development,Life Sciences,2,Male,1,1,Research Scientist,4,2720,Upto 5k,1,18,3,4,10,5,10,7,2
+RM547,26-35,Sales,Life Sciences,3,Male,3,1,Sales Representative,3,2642,Upto 5k,1,11,3,3,1,6,1,0,0
+RM556,26-35,Sales,Marketing,4,Male,3,1,Sales Representative,2,2297,Upto 5k,1,14,3,4,2,2,2,2,2
+RM573,26-35,Research & Development,Medical,2,Female,3,2,Healthcare Representative,3,4335,Upto 5k,4,12,3,1,11,3,8,7,1
+RM590,26-35,Research & Development,Life Sciences,2,Female,2,1,Laboratory Technician,1,2319,Upto 5k,1,11,3,4,1,1,1,0,0
+RM595,26-35,Research & Development,Life Sciences,3,Male,4,1,Research Scientist,3,2700,Upto 5k,1,24,4,3,10,3,10,7,0
+RM646,26-35,Sales,Medical,2,Female,2,1,Sales Representative,3,2800,Upto 5k,6,19,3,3,5,3,3,2,0
+RM658,26-35,Research & Development,Medical,1,Female,2,1,Laboratory Technician,4,2532,Upto 5k,6,14,3,3,8,5,4,3,0
+RM698,26-35,Sales,Technical Degree,3,Female,3,1,Sales Representative,4,2157,Upto 5k,1,15,3,2,3,5,3,1,0
+RM712,26-35,Research & Development,Life Sciences,4,Female,2,1,Research Scientist,1,2404,Upto 5k,6,20,4,3,3,5,0,0,0
+RM809,26-35,Research & Development,Life Sciences,3,Female,3,1,Research Scientist,4,2514,Upto 5k,4,22,4,1,11,1,7,5,1
+RM824,26-35,Research & Development,Life Sciences,4,Female,3,1,Research Scientist,2,3291,Upto 5k,0,14,3,4,8,2,7,5,1
+RM826,26-35,Research & Development,Medical,2,Male,2,2,Manufacturing Director,4,5056,5k-10k,1,15,3,3,10,2,10,7,1
+RM837,26-35,Sales,Life Sciences,4,Female,2,3,Sales Executive,1,7336,5k-10k,1,13,3,1,11,3,11,8,3
+RM853,26-35,Research & Development,Medical,2,Female,3,1,Laboratory Technician,4,3131,Upto 5k,1,13,3,1,10,5,10,8,0
+RM860,26-35,Research & Development,Life Sciences,2,Female,1,1,Research Scientist,4,2168,Upto 5k,0,18,3,1,6,2,5,4,1
+RM894,26-35,Research & Development,Life Sciences,1,Female,3,1,Research Scientist,4,3760,Upto 5k,1,15,3,1,3,5,3,2,1
+RM904,26-35,Research & Development,Life Sciences,3,Male,3,2,Healthcare Representative,4,6623,5k-10k,1,11,3,2,6,2,6,0,1
+RM906,26-35,Research & Development,Life Sciences,4,Female,2,4,Research Director,4,16124,15k+,3,14,3,2,9,2,7,7,1
+RM933,26-35,Research & Development,Technical Degree,2,Female,3,1,Laboratory Technician,3,3339,Upto 5k,3,13,3,1,10,2,7,7,7
+RM1006,26-35,Human Resources,Other,2,Male,2,3,Human Resources,1,7988,5k-10k,1,13,3,1,10,3,10,9,0
+RM1008,26-35,Research & Development,Other,3,Female,3,3,Healthcare Representative,4,7553,5k-10k,0,12,3,1,9,1,8,7,7
+RM1058,26-35,Sales,Technical Degree,1,Female,3,2,Sales Executive,2,5765,5k-10k,5,11,3,1,7,4,5,3,0
+RM1064,26-35,Sales,Life Sciences,3,Male,2,2,Sales Executive,3,8620,5k-10k,1,14,3,3,10,3,10,7,0
+RM1073,26-35,Research & Development,Life Sciences,4,Female,3,1,Laboratory Technician,2,3180,Upto 5k,0,13,3,3,4,3,3,2,0
+RM1078,26-35,Research & Development,Technical Degree,1,Male,2,1,Research Scientist,1,2362,Upto 5k,6,13,3,3,11,2,9,7,0
+RM1091,26-35,Research & Development,Other,3,Female,1,2,Healthcare Representative,1,9715,5k-10k,3,13,3,3,9,3,7,7,0
+RM1105,26-35,Research & Development,Life Sciences,3,Male,4,1,Research Scientist,3,2451,Upto 5k,6,18,3,1,5,2,1,0,0
+RM1123,26-35,Research & Development,Medical,2,Male,3,1,Laboratory Technician,1,4723,Upto 5k,1,18,3,4,10,3,10,9,1
+RM1126,26-35,Research & Development,Life Sciences,1,Male,3,2,Healthcare Representative,4,8853,5k-10k,1,19,3,4,6,0,6,4,1
+RM1173,26-35,Sales,Medical,3,Male,2,2,Sales Executive,3,5869,5k-10k,9,11,3,3,8,2,5,2,1
+RM1189,26-35,Sales,Medical,1,Male,2,2,Sales Executive,2,4187,Upto 5k,1,13,3,2,10,3,10,0,0
+RM1220,26-35,Research & Development,Medical,4,Female,3,1,Laboratory Technician,3,2974,Upto 5k,9,17,3,3,9,2,5,3,1
+RM1250,26-35,Sales,Marketing,2,Female,1,1,Sales Representative,2,2760,Upto 5k,1,13,3,3,2,3,2,2,2
+RM1251,26-35,Research & Development,Life Sciences,4,Male,4,2,Healthcare Representative,3,6294,5k-10k,8,12,3,4,10,5,3,2,0
+RM1259,26-35,Research & Development,Technical Degree,4,Female,2,1,Research Scientist,1,2109,Upto 5k,1,13,3,3,1,2,1,0,0
+RM1314,26-35,Human Resources,Human Resources,1,Male,2,1,Human Resources,1,2335,Upto 5k,4,15,3,4,4,3,2,2,2
+RM1319,26-35,Research & Development,Medical,4,Male,3,1,Laboratory Technician,4,3812,Upto 5k,1,13,3,2,11,3,11,8,3
+RM1325,26-35,Research & Development,Life Sciences,4,Male,1,2,Healthcare Representative,3,6384,5k-10k,8,17,3,4,11,3,7,0,1
+RM1330,26-35,Human Resources,Medical,4,Male,2,1,Human Resources,2,2804,Upto 5k,1,11,3,4,1,3,1,0,0
+RM1333,26-35,Research & Development,Life Sciences,4,Male,2,1,Research Scientist,4,2439,Upto 5k,1,24,4,2,1,3,1,0,1
+RM1344,26-35,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,1,2062,Upto 5k,3,14,3,2,11,2,3,2,1
+RM1366,26-35,Sales,Technical Degree,3,Male,4,1,Sales Representative,1,1091,Upto 5k,1,17,3,4,1,3,1,0,0
+RM1388,26-35,Research & Development,Life Sciences,1,Male,3,2,Healthcare Representative,1,5373,5k-10k,0,12,3,1,6,5,5,3,0
+RM1443,26-35,Research & Development,Medical,1,Male,3,1,Research Scientist,4,4787,Upto 5k,9,14,3,2,4,3,2,2,2
+RM1460,26-35,Research & Development,Other,4,Male,2,2,Laboratory Technician,2,4025,Upto 5k,4,13,3,1,10,2,4,3,0
+RM1461,26-35,Research & Development,Medical,4,Female,2,1,Research Scientist,1,3785,Upto 5k,1,14,3,2,5,3,5,4,0
+RM008,26-35,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,3,2693,Upto 5k,1,22,4,2,1,2,1,0,0
+RM033,26-35,Research & Development,Medical,4,Male,2,1,Laboratory Technician,3,2206,Upto 5k,1,13,3,1,10,5,10,0,1
+RM045,26-35,Research & Development,Medical,3,Female,3,2,Laboratory Technician,4,4011,Upto 5k,1,23,4,4,12,2,12,8,3
+RM081,26-35,Research & Development,Life Sciences,4,Male,2,2,Laboratory Technician,4,5126,5k-10k,1,12,3,3,10,1,10,8,3
+RM089,26-35,Research & Development,Life Sciences,3,Male,2,2,Healthcare Representative,4,4152,Upto 5k,1,19,3,1,11,3,11,10,10
+RM093,26-35,Sales,Medical,3,Female,2,2,Sales Executive,2,5209,5k-10k,1,12,3,2,11,4,11,8,2
+RM121,26-35,Research & Development,Life Sciences,1,Male,1,1,Research Scientist,3,2613,Upto 5k,1,25,4,3,10,2,10,7,0
+RM140,26-35,Human Resources,Human Resources,3,Male,3,2,Human Resources,4,6347,5k-10k,0,19,3,4,12,2,11,9,4
+RM144,26-35,Research & Development,Life Sciences,1,Female,3,1,Research Scientist,3,2632,Upto 5k,1,14,3,3,5,4,5,4,0
+RM146,26-35,Research & Development,Technical Degree,4,Female,3,1,Research Scientist,1,3204,Upto 5k,5,14,3,4,8,3,3,2,2
+RM147,26-35,Research & Development,Medical,2,Male,2,1,Laboratory Technician,4,2720,Upto 5k,0,13,3,4,6,3,5,3,1
+RM168,26-35,Sales,Life Sciences,2,Female,3,3,Sales Executive,4,9419,5k-10k,2,12,3,3,12,2,10,9,7
+RM174,26-35,Research & Development,Medical,3,Male,3,2,Laboratory Technician,1,3072,Upto 5k,1,11,3,3,12,4,12,9,6
+RM212,26-35,Research & Development,Life Sciences,3,Male,2,3,Manufacturing Director,3,8474,5k-10k,1,22,4,3,12,2,11,8,5
+RM215,26-35,Research & Development,Technical Degree,4,Female,3,1,Research Scientist,1,2657,Upto 5k,5,11,3,3,8,5,5,2,0
+RM217,26-35,Sales,Marketing,3,Female,2,2,Sales Executive,1,6696,5k-10k,5,15,3,3,9,5,6,3,0
+RM325,26-35,Research & Development,Medical,4,Female,3,2,Research Scientist,4,5775,5k-10k,1,13,3,4,11,2,10,8,1
+RM339,26-35,Sales,Marketing,4,Female,2,2,Sales Executive,3,6118,5k-10k,1,13,3,3,10,2,10,9,1
+RM355,26-35,Sales,Technical Degree,4,Female,3,2,Sales Executive,3,4736,Upto 5k,7,12,3,2,4,2,2,2,2
+RM382,26-35,Sales,Technical Degree,3,Male,3,1,Sales Representative,2,2476,Upto 5k,1,18,3,1,1,3,1,0,0
+RM386,26-35,Research & Development,Technical Degree,3,Male,3,1,Research Scientist,4,2285,Upto 5k,9,23,4,3,3,4,1,0,0
+RM403,26-35,Sales,Technical Degree,2,Female,3,2,Sales Executive,3,6577,5k-10k,0,11,3,2,6,6,5,4,4
+RM411,26-35,Research & Development,Life Sciences,3,Female,1,2,Manufacturing Director,4,6091,5k-10k,2,20,4,3,11,2,5,4,0
+RM420,26-35,Research & Development,Life Sciences,3,Male,3,1,Laboratory Technician,4,2097,Upto 5k,4,15,3,3,9,3,5,3,1
+RM424,26-35,Sales,Other,3,Female,3,3,Sales Executive,1,8412,5k-10k,0,11,3,3,10,3,9,8,7
+RM427,26-35,Research & Development,Medical,3,Female,3,1,Laboratory Technician,4,2564,Upto 5k,0,14,3,3,12,2,11,7,6
+RM438,26-35,Sales,Marketing,4,Male,3,1,Sales Representative,2,2983,Upto 5k,0,14,3,1,4,3,3,2,1
+RM481,26-35,Sales,Life Sciences,2,Male,2,1,Sales Representative,1,2033,Upto 5k,1,18,3,3,1,2,1,0,0
+RM502,26-35,Research & Development,Medical,3,Female,3,1,Research Scientist,3,2083,Upto 5k,1,20,4,3,1,2,1,0,0
+RM546,26-35,Sales,Marketing,3,Male,3,2,Sales Executive,4,5304,5k-10k,7,23,4,4,10,2,8,7,7
+RM582,26-35,Research & Development,Life Sciences,4,Male,1,1,Laboratory Technician,3,3833,Upto 5k,3,21,4,3,7,2,2,2,0
+RM603,26-35,Research & Development,Medical,3,Female,2,2,Manufacturing Director,4,6877,5k-10k,5,24,4,2,12,4,0,0,0
+RM624,26-35,Research & Development,Life Sciences,2,Male,2,1,Research Scientist,4,3761,Upto 5k,9,12,3,2,10,3,5,4,0
+RM703,26-35,Sales,Other,3,Male,3,3,Sales Executive,3,7264,5k-10k,5,11,3,1,10,2,8,4,7
+RM721,26-35,Research & Development,Life Sciences,1,Female,3,1,Research Scientist,3,2132,Upto 5k,4,11,3,2,7,2,5,2,0
+RM731,26-35,Research & Development,Life Sciences,2,Female,4,3,Research Director,1,11416,10k-15k,0,12,3,3,9,4,8,7,1
+RM733,26-35,Research & Development,Medical,2,Female,3,1,Laboratory Technician,2,2422,Upto 5k,0,17,3,1,4,3,3,2,1
+RM783,26-35,Research & Development,Other,3,Male,3,2,Manufacturing Director,1,9957,5k-10k,0,15,3,3,7,1,6,2,0
+RM845,26-35,Sales,Marketing,3,Male,2,2,Sales Executive,3,6578,5k-10k,1,18,3,1,10,3,10,3,1
+RM866,26-35,Sales,Life Sciences,3,Male,3,2,Sales Executive,1,4115,Upto 5k,8,19,3,3,8,3,4,3,0
+RM875,26-35,Research & Development,Life Sciences,3,Male,3,2,Laboratory Technician,3,3491,Upto 5k,1,13,3,1,10,4,10,7,8
+RM887,26-35,Research & Development,Medical,4,Male,3,1,Research Scientist,2,3579,Upto 5k,0,21,4,1,12,2,11,9,5
+RM932,26-35,Research & Development,Medical,3,Female,3,2,Manufacturing Director,3,4695,Upto 5k,7,18,3,3,10,3,8,4,1
+RM942,26-35,Research & Development,Technical Degree,1,Female,2,2,Laboratory Technician,4,4627,Upto 5k,0,12,3,1,10,6,9,2,6
+RM949,26-35,Research & Development,Medical,2,Female,3,3,Manager,1,11916,10k-15k,1,23,4,4,9,2,9,1,0
+RM1014,26-35,Sales,Marketing,4,Female,3,2,Sales Executive,1,4779,Upto 5k,7,14,3,2,8,3,3,2,0
+RM1050,26-35,Sales,Life Sciences,4,Male,3,2,Sales Executive,3,5301,5k-10k,8,15,3,3,4,2,2,1,2
+RM1053,26-35,Research & Development,Technical Degree,3,Male,3,1,Research Scientist,3,1274,Upto 5k,1,13,3,2,1,2,1,0,0
+RM1065,26-35,Human Resources,Life Sciences,3,Male,3,1,Human Resources,3,2064,Upto 5k,0,21,4,1,6,3,5,3,1
+RM1107,26-35,Sales,Life Sciences,2,Male,2,2,Sales Executive,1,9714,5k-10k,1,11,3,4,10,4,10,8,6
+RM1110,26-35,Sales,Technical Degree,3,Male,3,3,Sales Executive,2,9250,5k-10k,3,12,3,2,9,3,4,2,1
+RM1142,26-35,Research & Development,Medical,2,Male,2,1,Research Scientist,2,2141,Upto 5k,1,12,3,2,6,3,6,4,1
+RM1234,26-35,Research & Development,Life Sciences,2,Male,3,1,Research Scientist,4,2862,Upto 5k,1,12,3,2,10,2,10,0,0
+RM1245,26-35,Research & Development,Technical Degree,4,Female,2,1,Research Scientist,1,4968,Upto 5k,0,16,3,4,10,2,9,7,0
+RM1247,26-35,Human Resources,Human Resources,3,Female,2,1,Human Resources,4,2180,Upto 5k,6,11,3,3,6,0,4,2,1
+RM1252,26-35,Sales,Marketing,3,Male,2,3,Sales Executive,1,7140,5k-10k,2,11,3,1,12,2,7,7,1
+RM1260,26-35,Research & Development,Life Sciences,3,Male,4,2,Healthcare Representative,3,5294,5k-10k,3,16,3,3,10,3,7,0,1
+RM1297,26-35,Research & Development,Medical,1,Female,3,3,Manufacturing Director,3,9667,5k-10k,9,14,3,2,9,3,7,7,0
+RM1339,26-35,Sales,Medical,2,Male,3,1,Sales Representative,4,1081,Upto 5k,1,13,3,3,1,3,1,0,0
+RM1413,26-35,Research & Development,Medical,4,Male,3,1,Laboratory Technician,2,3748,Upto 5k,1,13,3,3,12,6,12,8,1
+RM013,26-35,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,3,2911,Upto 5k,1,17,3,4,5,1,5,2,4
+RM059,26-35,Research & Development,Life Sciences,4,Male,3,2,Laboratory Technician,4,5915,5k-10k,3,22,4,4,10,3,7,7,1
+RM073,26-35,Research & Development,Medical,3,Male,3,1,Research Scientist,2,2501,Upto 5k,1,17,3,2,1,4,1,1,1
+RM076,26-35,Research & Development,Life Sciences,3,Female,3,2,Manufacturing Director,4,4424,Upto 5k,1,23,4,4,11,2,11,7,1
+RM125,26-35,Sales,Life Sciences,2,Male,1,2,Sales Executive,3,6172,5k-10k,4,18,3,2,12,3,7,7,7
+RM133,26-35,Sales,Life Sciences,2,Female,1,2,Sales Executive,3,4559,Upto 5k,3,11,3,3,4,2,2,2,2
+RM181,26-35,Research & Development,Medical,3,Female,3,1,Research Scientist,4,3929,Upto 5k,8,23,4,3,7,0,4,2,0
+RM225,26-35,Research & Development,Medical,3,Male,1,2,Manufacturing Director,3,4345,Upto 5k,0,12,3,4,6,2,5,4,1
+RM246,26-35,Research & Development,Medical,2,Male,3,3,Research Director,3,13675,10k-15k,9,12,3,1,9,3,2,2,2
+RM260,26-35,Research & Development,Medical,3,Male,2,1,Laboratory Technician,2,3479,Upto 5k,0,11,3,2,6,2,5,4,1
+RM267,26-35,Research & Development,Medical,2,Male,2,2,Healthcare Representative,4,5582,5k-10k,0,21,4,2,10,2,9,0,7
+RM293,26-35,Sales,Marketing,4,Female,3,1,Sales Representative,2,2789,Upto 5k,1,11,3,3,2,5,2,2,2
+RM304,26-35,Sales,Technical Degree,2,Male,4,2,Sales Executive,4,6929,5k-10k,4,11,3,2,10,3,8,7,7
+RM310,26-35,Research & Development,Technical Degree,3,Male,3,1,Research Scientist,4,4821,Upto 5k,0,12,3,3,6,4,5,2,0
+RM311,26-35,Human Resources,Human Resources,1,Male,2,2,Human Resources,1,6410,5k-10k,3,12,3,4,9,1,2,2,1
+RM313,26-35,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,4,2695,Upto 5k,0,18,3,2,3,2,2,2,2
+RM322,26-35,Sales,Marketing,4,Male,3,2,Sales Executive,4,7547,5k-10k,4,12,3,4,13,3,7,7,1
+RM326,26-35,Research & Development,Life Sciences,3,Female,2,3,Manufacturing Director,3,8943,5k-10k,1,24,4,1,10,2,10,9,8
+RM343,26-35,Research & Development,Medical,3,Female,3,3,Manufacturing Director,4,7143,5k-10k,1,14,3,3,11,2,11,9,4
+RM370,26-35,Research & Development,Life Sciences,3,Male,2,1,Research Scientist,2,2657,Upto 5k,0,16,3,4,3,5,2,2,2
+RM395,26-35,Research & Development,Medical,2,Female,3,2,Manufacturing Director,1,4306,Upto 5k,1,12,3,2,13,5,13,10,3
+RM400,26-35,Research & Development,Life Sciences,4,Male,2,1,Laboratory Technician,1,2218,Upto 5k,1,12,3,3,4,3,4,2,3
+RM435,26-35,Research & Development,Life Sciences,3,Male,3,3,Manufacturing Director,2,10648,10k-15k,1,25,4,4,13,6,13,8,0
+RM440,26-35,Research & Development,Life Sciences,1,Male,3,3,Healthcare Representative,3,9824,5k-10k,3,12,3,1,12,2,1,0,0
+RM451,26-35,Sales,Life Sciences,2,Male,3,2,Sales Executive,4,6582,5k-10k,4,13,3,3,10,2,6,5,0
+RM457,26-35,Sales,Life Sciences,3,Male,2,3,Manager,4,11557,10k-15k,9,21,4,3,10,3,5,4,0
+RM483,26-35,Sales,Medical,2,Male,3,2,Sales Executive,1,4233,Upto 5k,2,17,3,3,9,2,3,1,1
+RM485,26-35,Sales,Medical,1,Male,4,2,Sales Executive,4,5460,5k-10k,4,22,4,4,13,4,7,7,5
+RM645,26-35,Research & Development,Life Sciences,4,Male,3,1,Research Scientist,4,2356,Upto 5k,3,19,3,2,8,2,6,4,0
+RM676,26-35,Sales,Life Sciences,2,Male,2,1,Sales Representative,3,2329,Upto 5k,3,15,3,2,13,2,7,7,5
+RM680,26-35,Sales,Marketing,4,Female,3,2,Sales Executive,3,6932,5k-10k,1,13,3,4,9,2,9,8,0
+RM691,26-35,Research & Development,Medical,4,Female,3,2,Healthcare Representative,4,5855,5k-10k,0,11,3,3,10,2,9,7,8
+RM710,26-35,Research & Development,Medical,3,Male,2,1,Research Scientist,1,2321,Upto 5k,0,22,4,1,4,0,3,2,1
+RM727,26-35,Research & Development,Life Sciences,3,Female,3,2,Manufacturing Director,1,4148,Upto 5k,1,12,3,3,4,1,4,3,0
+RM819,26-35,Sales,Life Sciences,3,Male,4,1,Sales Representative,4,2791,Upto 5k,0,12,3,1,3,4,2,2,2
+RM832,26-35,Research & Development,Medical,3,Male,3,1,Laboratory Technician,3,2610,Upto 5k,1,12,3,3,2,5,2,2,2
+RM896,26-35,Research & Development,Medical,3,Male,3,2,Healthcare Representative,1,6833,5k-10k,1,12,3,4,6,2,6,5,0
+RM897,26-35,Research & Development,Medical,3,Female,2,2,Healthcare Representative,1,6812,5k-10k,1,19,3,2,10,2,10,9,1
+RM951,26-35,Sales,Life Sciences,4,Female,3,3,Sales Executive,3,9852,5k-10k,1,19,3,1,10,5,10,8,9
+RM953,26-35,Sales,Life Sciences,4,Female,3,1,Sales Representative,2,2302,Upto 5k,1,11,3,1,3,2,3,2,2
+RM981,26-35,Sales,Life Sciences,3,Female,2,1,Sales Representative,4,2785,Upto 5k,7,14,3,3,3,3,1,0,0
+RM986,26-35,Research & Development,Medical,4,Male,3,2,Manufacturing Director,3,6179,5k-10k,1,15,3,4,10,3,10,2,6
+RM1013,26-35,Sales,Life Sciences,2,Female,1,1,Sales Representative,3,1359,Upto 5k,1,12,3,2,1,3,1,0,0
+RM1015,26-35,Research & Development,Life Sciences,1,Female,3,4,Research Director,2,16422,15k+,3,11,3,3,9,3,3,2,1
+RM1017,26-35,Research & Development,Life Sciences,1,Female,2,1,Research Scientist,2,1261,Upto 5k,1,12,3,3,1,3,1,0,0
+RM1031,26-35,Sales,Life Sciences,1,Male,3,3,Sales Executive,4,10793,10k-15k,1,18,3,1,13,5,13,7,9
+RM1034,26-35,Research & Development,Life Sciences,3,Female,4,3,Manufacturing Director,2,7446,5k-10k,1,11,3,1,10,2,10,8,4
+RM1036,26-35,Human Resources,Medical,4,Female,4,1,Human Resources,2,2109,Upto 5k,9,18,3,4,8,3,3,2,0
+RM1037,26-35,Research & Development,Life Sciences,2,Male,3,1,Laboratory Technician,4,3722,Upto 5k,6,13,3,3,7,2,2,2,2
+RM1086,26-35,Research & Development,Life Sciences,4,Female,3,1,Research Scientist,3,4084,Upto 5k,1,12,3,1,7,2,7,2,7
+RM1145,26-35,Sales,Other,4,Male,3,2,Sales Executive,1,5332,5k-10k,7,13,3,4,10,3,5,2,0
+RM1192,26-35,Sales,Life Sciences,1,Female,3,2,Sales Executive,4,5476,5k-10k,1,11,3,1,10,2,10,0,0
+RM1228,26-35,Research & Development,Life Sciences,2,Male,3,1,Laboratory Technician,3,3477,Upto 5k,1,14,3,4,6,2,5,2,0
+RM1240,26-35,Research & Development,Technical Degree,4,Female,3,2,Manufacturing Director,4,5238,5k-10k,2,20,4,4,9,3,5,4,1
+RM1248,26-35,Sales,Technical Degree,1,Male,3,2,Sales Executive,3,8346,5k-10k,1,19,3,3,6,3,5,2,0
+RM1258,26-35,Sales,Marketing,1,Male,3,3,Sales Executive,3,8161,5k-10k,2,13,3,1,10,2,1,0,0
+RM1275,26-35,Sales,Marketing,1,Female,2,2,Sales Executive,4,5468,5k-10k,1,14,3,1,13,3,12,7,5
+RM1307,26-35,Sales,Marketing,1,Female,3,3,Sales Executive,1,9637,5k-10k,2,14,3,4,9,3,3,2,2
+RM1313,26-35,Human Resources,Human Resources,4,Male,4,1,Human Resources,1,2956,Upto 5k,0,17,3,3,2,4,1,0,0
+RM1342,26-35,Research & Development,Life Sciences,2,Male,3,2,Laboratory Technician,3,4197,Upto 5k,1,11,3,1,10,2,10,8,0
+RM1359,26-35,Sales,Medical,3,Female,3,2,Sales Executive,4,6583,5k-10k,2,11,3,4,8,2,5,2,1
+RM1361,26-35,Research & Development,Medical,1,Female,4,1,Laboratory Technician,3,3978,Upto 5k,8,12,3,2,4,0,2,2,2
+RM1383,26-35,Research & Development,Medical,3,Male,3,1,Research Scientist,1,3065,Upto 5k,1,13,3,4,4,3,4,2,2
+RM1390,26-35,Research & Development,Life Sciences,4,Male,1,2,Research Scientist,1,5003,5k-10k,1,21,4,2,10,6,10,8,8
+RM1396,26-35,Sales,Marketing,1,Male,3,2,Sales Executive,4,5617,5k-10k,1,11,3,3,10,4,10,7,0
+RM1403,26-35,Research & Development,Medical,4,Female,1,1,Laboratory Technician,4,1129,Upto 5k,1,11,3,3,1,4,1,0,0
+RM1406,26-35,Research & Development,Medical,3,Female,3,3,Research Director,3,11031,10k-15k,4,20,4,3,13,2,11,7,4
+RM1418,26-35,Sales,Life Sciences,1,Male,3,1,Sales Representative,3,3067,Upto 5k,0,19,3,3,3,1,2,2,1
+RM1464,26-35,Research & Development,Medical,2,Male,3,2,Manufacturing Director,1,9936,5k-10k,0,19,3,2,10,2,9,4,1
+RM006,26-35,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,4,3068,Upto 5k,0,13,3,3,8,2,7,7,3
+RM017,26-35,Research & Development,Life Sciences,1,Male,4,1,Research Scientist,2,3298,Upto 5k,0,12,3,4,7,5,6,2,0
+RM027,26-35,Research & Development,Life Sciences,2,Female,1,1,Research Scientist,1,3919,Upto 5k,1,22,4,2,10,5,10,2,6
+RM061,26-35,Research & Development,Medical,1,Male,3,2,Manufacturing Director,4,6162,5k-10k,1,22,4,2,9,3,9,8,7
+RM074,26-35,Research & Development,Life Sciences,2,Male,3,2,Research Scientist,2,6220,5k-10k,1,17,3,2,10,3,10,4,0
+RM095,26-35,Sales,Medical,2,Male,3,2,Sales Executive,3,5010,5k-10k,1,16,3,1,12,0,11,8,5
+RM102,26-35,Research & Development,Life Sciences,4,Male,3,1,Research Scientist,1,2956,Upto 5k,1,13,3,4,1,2,1,0,0
+RM141,26-35,Research & Development,Medical,1,Female,3,1,Laboratory Technician,1,4200,Upto 5k,7,22,4,1,10,2,5,4,0
+RM145,26-35,Sales,Medical,4,Male,1,2,Sales Executive,4,4668,Upto 5k,0,17,3,4,9,2,8,7,0
+RM155,26-35,Sales,Marketing,2,Female,3,3,Sales Executive,4,8998,5k-10k,1,14,3,4,9,2,9,8,3
+RM170,26-35,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,3,3038,Upto 5k,3,20,4,1,8,2,5,4,1
+RM211,26-35,Sales,Medical,4,Male,1,3,Sales Executive,4,10400,10k-15k,1,11,3,3,14,2,14,8,9
+RM239,26-35,Sales,Life Sciences,3,Female,3,1,Sales Representative,2,3931,Upto 5k,2,11,3,1,6,5,4,3,1
+RM240,26-35,Research & Development,Life Sciences,4,Male,2,1,Laboratory Technician,3,3730,Upto 5k,0,14,3,4,4,2,3,2,1
+RM242,26-35,Sales,Marketing,3,Male,3,2,Sales Executive,4,4465,Upto 5k,0,18,3,1,4,2,3,2,2
+RM261,26-35,Research & Development,Life Sciences,2,Male,4,1,Laboratory Technician,2,2794,Upto 5k,1,20,4,3,5,3,5,1,0
+RM263,26-35,Research & Development,Technical Degree,4,Male,2,2,Laboratory Technician,1,2176,Upto 5k,4,13,3,4,9,5,6,2,0
+RM307,26-35,Sales,Life Sciences,4,Male,2,2,Sales Executive,3,5484,5k-10k,1,14,3,3,13,3,13,8,4
+RM320,26-35,Sales,Technical Degree,3,Female,2,2,Sales Executive,2,5228,5k-10k,1,11,3,4,13,2,13,12,11
+RM323,26-35,Research & Development,Medical,1,Female,4,2,Research Scientist,4,5055,5k-10k,7,16,3,3,10,0,7,7,0
+RM352,26-35,Research & Development,Medical,3,Female,3,1,Laboratory Technician,2,2370,Upto 5k,1,13,3,3,8,4,8,0,0
+RM470,26-35,Sales,Other,4,Male,4,2,Sales Executive,3,4707,Upto 5k,8,12,3,4,6,2,4,2,1
+RM501,26-35,Research & Development,Life Sciences,1,Female,3,2,Research Scientist,4,6322,5k-10k,1,12,3,4,6,2,6,4,0
+RM528,26-35,Sales,Marketing,4,Male,3,2,Sales Executive,4,5396,5k-10k,1,12,3,4,10,2,10,7,0
+RM532,26-35,Research & Development,Life Sciences,3,Female,3,3,Research Director,4,11159,10k-15k,3,15,3,4,10,6,7,7,7
+RM559,26-35,Research & Development,Life Sciences,1,Male,3,2,Laboratory Technician,4,5309,5k-10k,1,15,3,4,10,2,10,8,4
+RM601,26-35,Research & Development,Life Sciences,3,Female,2,2,Manufacturing Director,3,6162,5k-10k,1,12,3,3,14,3,14,13,6
+RM623,26-35,Sales,Life Sciences,2,Male,3,2,Sales Executive,4,4403,Upto 5k,2,11,3,3,8,3,5,2,0
+RM627,26-35,Research & Development,Medical,3,Female,4,2,Research Scientist,3,5175,5k-10k,5,12,3,3,9,3,5,3,1
+RM638,26-35,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,4,2314,Upto 5k,0,12,3,2,4,2,3,0,0
+RM642,26-35,Sales,Life Sciences,2,Male,3,2,Sales Executive,2,6524,5k-10k,1,14,3,4,10,3,10,8,5
+RM657,26-35,Research & Development,Life Sciences,1,Male,3,1,Laboratory Technician,4,2795,Upto 5k,1,24,4,3,1,2,1,0,0
+RM683,26-35,Research & Development,Life Sciences,3,Female,2,1,Laboratory Technician,2,2332,Upto 5k,6,20,4,3,5,3,3,0,0
+RM693,26-35,Research & Development,Medical,3,Female,3,2,Manufacturing Director,1,6725,5k-10k,1,12,3,3,8,2,8,7,6
+RM757,26-35,Research & Development,Medical,4,Female,3,1,Laboratory Technician,3,4025,Upto 5k,9,12,3,2,10,2,8,7,7
+RM851,26-35,Sales,Life Sciences,3,Female,3,1,Sales Representative,1,2827,Upto 5k,1,12,3,3,1,3,1,0,0
+RM881,26-35,Research & Development,Other,3,Female,2,1,Laboratory Technician,2,2743,Upto 5k,1,20,4,3,2,2,2,2,2
+RM882,26-35,Research & Development,Life Sciences,4,Female,3,2,Research Scientist,3,4998,Upto 5k,4,14,3,4,10,2,8,7,0
+RM936,26-35,Sales,Medical,3,Male,4,2,Sales Executive,4,6209,5k-10k,1,15,3,3,10,4,10,7,0
+RM940,26-35,Research & Development,Life Sciences,4,Male,3,2,Laboratory Technician,3,4883,Upto 5k,1,18,3,1,10,3,10,4,1
+RM992,26-35,Sales,Marketing,3,Male,3,2,Sales Executive,2,4078,Upto 5k,0,13,3,1,4,3,3,2,1
+RM1027,26-35,Sales,Marketing,4,Male,3,2,Sales Executive,4,9204,5k-10k,4,12,3,3,7,3,4,3,0
+RM1076,26-35,Research & Development,Medical,3,Male,3,3,Manager,4,11244,10k-15k,2,25,4,2,10,5,5,2,0
+RM1102,26-35,Research & Development,Life Sciences,4,Female,2,2,Research Scientist,2,5878,5k-10k,3,12,3,1,12,2,7,1,2
+RM1114,26-35,Research & Development,Technical Degree,4,Male,3,2,Research Scientist,1,4087,Upto 5k,4,14,3,2,9,3,6,5,1
+RM1140,26-35,Research & Development,Other,2,Female,4,1,Research Scientist,4,3312,Upto 5k,3,17,3,4,6,3,3,2,0
+RM1191,26-35,Research & Development,Medical,4,Male,3,2,Research Scientist,2,5470,5k-10k,0,13,3,3,10,4,9,5,1
+RM1206,26-35,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,2,1393,Upto 5k,1,12,3,1,1,2,1,0,0
+RM1227,26-35,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,3,3433,Upto 5k,6,13,3,1,10,3,5,2,1
+RM1238,26-35,Sales,Life Sciences,1,Male,1,2,Sales Executive,2,6735,5k-10k,6,15,3,2,10,2,0,0,0
+RM1242,26-35,Sales,Life Sciences,4,Male,1,3,Sales Executive,3,9610,5k-10k,3,13,3,3,10,2,4,3,0
+RM1261,26-35,Research & Development,Technical Degree,2,Male,3,1,Research Scientist,2,2718,Upto 5k,2,14,3,2,12,3,7,7,0
+RM1320,26-35,Sales,Marketing,4,Male,3,2,Sales Executive,4,4648,Upto 5k,8,13,3,3,4,2,0,0,0
+RM1327,26-35,Sales,Marketing,3,Male,2,2,Sales Executive,2,9907,5k-10k,7,12,3,3,7,3,2,2,2
+RM1376,26-35,Research & Development,Life Sciences,1,Female,4,1,Research Scientist,3,2432,Upto 5k,3,14,3,1,8,2,4,1,0
+RM1389,26-35,Research & Development,Medical,3,Female,3,2,Healthcare Representative,4,6667,5k-10k,5,18,3,2,9,6,5,1,1
+RM1395,26-35,Research & Development,Life Sciences,4,Male,2,2,Manufacturing Director,4,9679,5k-10k,8,24,4,2,8,1,1,0,0
+RM1427,26-35,Research & Development,Life Sciences,3,Female,2,1,Laboratory Technician,2,2837,Upto 5k,1,13,3,3,6,3,6,2,4
+RM1429,26-35,Sales,Medical,2,Male,2,1,Sales Representative,2,2269,Upto 5k,0,14,3,2,3,2,2,2,2
+RM1432,26-35,Sales,Marketing,3,Female,3,3,Sales Executive,4,10422,10k-15k,1,19,3,3,14,3,14,10,5
+RM1450,26-35,Research & Development,Technical Degree,4,Male,3,1,Research Scientist,1,2439,Upto 5k,1,14,3,4,4,4,4,2,1
+RM004,26-35,Research & Development,Life Sciences,4,Female,3,1,Research Scientist,3,2909,Upto 5k,1,11,3,3,8,3,8,7,3
+RM031,26-35,Research & Development,Medical,3,Male,3,1,Laboratory Technician,4,2496,Upto 5k,4,11,3,4,7,3,1,1,0
+RM040,26-35,Sales,Life Sciences,3,Female,4,2,Sales Executive,1,5376,5k-10k,2,19,3,1,10,3,5,3,1
+RM056,26-35,Research & Development,Life Sciences,1,Female,3,3,Research Director,4,13458,10k-15k,1,12,3,3,15,1,15,14,8
+RM122,26-35,Sales,Marketing,3,Male,3,2,Sales Executive,2,6146,5k-10k,0,13,3,1,8,2,7,7,0
+RM177,26-35,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,4,2500,Upto 5k,0,14,3,1,4,2,3,1,0
+RM186,26-35,Research & Development,Medical,4,Female,3,1,Research Scientist,2,2756,Upto 5k,1,13,3,4,8,5,8,7,1
+RM222,26-35,Research & Development,Medical,3,Female,2,1,Research Scientist,2,2622,Upto 5k,6,21,4,4,7,3,3,2,1
+RM235,26-35,Research & Development,Medical,3,Male,3,1,Laboratory Technician,4,2436,Upto 5k,5,13,3,3,8,2,5,4,0
+RM237,26-35,Research & Development,Life Sciences,1,Female,3,1,Laboratory Technician,1,2707,Upto 5k,7,20,4,1,13,3,9,7,1
+RM247,26-35,Research & Development,Life Sciences,3,Female,2,1,Research Scientist,4,2911,Upto 5k,1,13,3,3,2,2,2,2,0
+RM314,26-35,Research & Development,Life Sciences,4,Female,3,3,Manager,2,11878,10k-15k,6,11,3,2,12,2,10,6,8
+RM329,26-35,Sales,Marketing,2,Male,2,2,Sales Executive,4,4682,Upto 5k,3,14,3,3,9,6,7,7,0
+RM364,26-35,Sales,Marketing,4,Female,3,1,Sales Representative,3,2851,Upto 5k,1,13,3,2,1,2,1,0,0
+RM436,26-35,Research & Development,Medical,2,Male,3,3,Manager,3,13610,10k-15k,7,12,3,4,15,2,7,6,7
+RM437,26-35,Research & Development,Medical,1,Male,1,1,Laboratory Technician,4,3408,Upto 5k,7,13,3,1,8,2,4,3,1
+RM456,26-35,Research & Development,Medical,1,Female,4,4,Research Director,3,16184,15k+,4,19,3,3,10,2,6,1,0
+RM500,26-35,Sales,Marketing,3,Male,3,2,Sales Executive,3,7104,5k-10k,0,12,3,4,6,3,5,0,1
+RM510,26-35,Research & Development,Life Sciences,3,Male,3,2,Healthcare Representative,4,7725,5k-10k,3,23,4,3,15,2,13,11,4
+RM515,26-35,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,1,3348,Upto 5k,1,11,3,1,10,3,10,8,9
+RM563,26-35,Research & Development,Other,4,Male,3,1,Research Scientist,4,2686,Upto 5k,1,13,3,3,10,2,10,9,7
+RM591,26-35,Research & Development,Medical,3,Male,3,3,Research Director,3,11691,10k-15k,0,11,3,4,14,3,13,9,3
+RM592,26-35,Sales,Marketing,1,Female,3,2,Sales Executive,1,5324,5k-10k,5,15,3,3,6,3,3,2,0
+RM620,26-35,Sales,Medical,1,Male,4,2,Sales Executive,1,4037,Upto 5k,1,22,4,1,9,5,9,8,0
+RM656,26-35,Human Resources,Human Resources,4,Male,3,1,Human Resources,2,2277,Upto 5k,3,11,3,3,7,4,4,3,0
+RM674,26-35,Research & Development,Other,3,Male,2,1,Research Scientist,1,2799,Upto 5k,3,11,3,2,6,1,3,2,0
+RM695,26-35,Research & Development,Life Sciences,2,Female,2,2,Healthcare Representative,4,6949,5k-10k,0,14,3,1,6,3,5,0,1
+RM711,26-35,Sales,Life Sciences,4,Male,3,4,Manager,3,17444,15k+,1,11,3,4,10,2,10,8,6
+RM713,26-35,Research & Development,Life Sciences,2,Female,3,1,Research Scientist,4,3452,Upto 5k,3,18,3,1,5,4,3,2,0
+RM716,26-35,Research & Development,Other,3,Female,4,2,Healthcare Representative,2,5488,5k-10k,1,13,3,1,6,2,6,5,1
+RM755,26-35,Sales,Life Sciences,2,Female,2,1,Sales Representative,4,2342,Upto 5k,0,19,3,4,3,2,2,2,2
+RM791,26-35,Research & Development,Life Sciences,4,Male,2,3,Healthcare Representative,4,7119,5k-10k,4,15,3,3,9,2,3,2,1
+RM793,26-35,Research & Development,Medical,1,Female,2,2,Research Scientist,3,4508,Upto 5k,1,22,4,2,14,4,13,7,3
+RM799,26-35,Research & Development,Medical,1,Male,2,1,Research Scientist,2,2313,Upto 5k,4,20,4,2,5,0,2,2,2
+RM803,26-35,Sales,Life Sciences,4,Female,3,2,Sales Executive,2,4302,Upto 5k,0,17,3,3,4,3,3,2,0
+RM830,26-35,Sales,Marketing,1,Female,3,2,Sales Executive,1,8224,5k-10k,0,17,3,1,6,3,5,2,0
+RM864,26-35,Human Resources,Human Resources,2,Male,3,1,Human Resources,3,3600,Upto 5k,1,13,3,4,5,2,5,4,1
+RM873,26-35,Sales,Medical,2,Female,3,2,Sales Executive,3,4539,Upto 5k,1,12,3,1,10,3,10,7,0
+RM884,26-35,Research & Development,Medical,1,Male,3,1,Research Scientist,4,2781,Upto 5k,0,13,3,2,15,5,14,10,4
+RM909,26-35,Sales,Marketing,4,Male,4,3,Sales Executive,3,8380,5k-10k,0,14,3,4,10,3,9,8,0
+RM991,26-35,Sales,Life Sciences,2,Male,3,2,Sales Executive,4,9998,5k-10k,6,13,3,1,8,2,5,4,1
+RM1048,26-35,Sales,Medical,4,Male,3,2,Sales Executive,1,4373,Upto 5k,0,14,3,1,5,2,4,3,0
+RM1067,26-35,Research & Development,Medical,1,Female,2,1,Laboratory Technician,2,3838,Upto 5k,8,11,3,4,8,5,5,4,0
+RM1075,26-35,Research & Development,Life Sciences,4,Male,3,2,Healthcare Representative,3,6388,5k-10k,2,17,3,1,14,6,0,0,0
+RM1092,26-35,Research & Development,Life Sciences,4,Male,2,2,Manufacturing Director,2,4320,Upto 5k,1,13,3,4,5,2,5,3,0
+RM1096,26-35,Research & Development,Life Sciences,2,Male,3,2,Laboratory Technician,3,5207,5k-10k,1,12,3,2,15,3,15,14,5
+RM1106,26-35,Sales,Life Sciences,1,Male,3,2,Sales Executive,1,6392,5k-10k,2,13,3,4,8,6,2,2,2
+RM1190,26-35,Sales,Medical,4,Male,3,2,Sales Executive,4,5505,5k-10k,1,14,3,3,6,5,6,2,0
+RM1199,26-35,Sales,Life Sciences,3,Female,3,2,Sales Executive,4,5368,5k-10k,1,25,4,3,7,2,6,5,1
+RM1211,26-35,Research & Development,Medical,2,Male,4,1,Laboratory Technician,2,2028,Upto 5k,1,18,3,4,14,6,14,11,2
+RM1254,26-35,Sales,Marketing,4,Female,3,2,Sales Executive,2,5147,5k-10k,8,15,3,4,13,2,11,7,1
+RM1256,26-35,Sales,Life Sciences,1,Female,3,3,Sales Executive,1,8564,5k-10k,2,20,4,3,11,2,0,0,0
+RM1266,26-35,Research & Development,Technical Degree,4,Male,3,2,Research Scientist,2,3055,Upto 5k,5,15,3,4,11,2,9,8,1
+RM1283,26-35,Research & Development,Life Sciences,4,Male,4,1,Research Scientist,1,3143,Upto 5k,6,19,3,2,14,1,10,8,7
+RM1364,26-35,Sales,Marketing,2,Male,3,2,Sales Executive,3,5487,5k-10k,1,14,3,2,10,2,10,4,0
+RM1399,26-35,Research & Development,Life Sciences,4,Male,3,2,Healthcare Representative,3,5968,5k-10k,1,20,4,3,9,2,9,7,2
+RM1416,26-35,Research & Development,Medical,2,Male,2,1,Laboratory Technician,3,2008,Upto 5k,1,12,3,3,1,2,1,1,0
+RM1426,26-35,Research & Development,Medical,2,Female,3,2,Healthcare Representative,4,4878,Upto 5k,0,13,3,1,10,6,9,7,8
+RM014,26-35,Research & Development,Medical,2,Male,3,1,Laboratory Technician,4,2661,Upto 5k,0,11,3,3,3,2,2,2,1
+RM023,26-35,Research & Development,Life Sciences,1,Female,3,3,Research Director,2,11994,10k-15k,0,11,3,3,13,4,12,6,2
+RM025,26-35,Research & Development,Medical,2,Male,3,1,Research Scientist,1,2960,Upto 5k,2,11,3,3,8,2,4,2,1
+RM047,26-35,Sales,Marketing,2,Male,3,2,Sales Executive,3,4568,Upto 5k,0,20,4,3,10,2,9,5,8
+RM085,26-35,Research & Development,Medical,1,Male,3,2,Manufacturing Director,2,4325,Upto 5k,1,15,3,3,5,2,5,2,1
+RM104,26-35,Research & Development,Other,1,Female,3,2,Research Scientist,3,4809,Upto 5k,1,14,3,3,16,3,16,13,2
+RM112,26-35,Research & Development,Life Sciences,1,Male,1,2,Laboratory Technician,3,6074,5k-10k,1,24,4,4,9,3,9,7,0
+RM115,26-35,Research & Development,Life Sciences,3,Female,2,2,Research Scientist,2,4505,Upto 5k,6,15,3,3,12,3,1,0,0
+RM117,26-35,Research & Development,Medical,3,Female,2,3,Manager,1,11631,10k-15k,2,12,3,4,14,6,11,10,5
+RM160,26-35,Sales,Marketing,3,Female,3,1,Sales Representative,3,2231,Upto 5k,6,18,3,4,6,3,4,3,1
+RM182,26-35,Research & Development,Medical,4,Female,3,1,Research Scientist,2,2311,Upto 5k,2,15,3,4,9,3,3,2,1
+RM189,26-35,Research & Development,Life Sciences,4,Male,2,2,Manufacturing Director,3,9547,5k-10k,1,17,3,3,10,2,10,9,1
+RM203,26-35,Research & Development,Medical,4,Male,3,1,Research Scientist,3,3815,Upto 5k,1,17,3,4,5,4,5,3,2
+RM248,26-35,Research & Development,Life Sciences,4,Male,2,2,Manufacturing Director,1,5957,5k-10k,6,13,3,2,13,3,11,9,5
+RM379,26-35,Sales,Marketing,1,Male,4,2,Sales Executive,4,5304,5k-10k,8,13,3,2,9,3,5,2,0
+RM394,26-35,Sales,Marketing,3,Female,3,2,Sales Executive,3,6538,5k-10k,9,15,3,1,6,3,3,2,1
+RM416,26-35,Sales,Marketing,4,Female,1,1,Sales Representative,3,2351,Upto 5k,0,16,3,4,3,3,2,2,1
+RM433,26-35,Research & Development,Life Sciences,4,Male,2,1,Research Scientist,3,2768,Upto 5k,3,12,3,3,14,3,7,3,5
+RM441,26-35,Human Resources,Human Resources,2,Female,3,3,Human Resources,1,9950,5k-10k,9,15,3,3,11,2,3,2,0
+RM463,26-35,Sales,Life Sciences,4,Male,4,2,Sales Executive,4,5337,5k-10k,1,12,3,4,10,3,10,7,5
+RM482,26-35,Research & Development,Life Sciences,2,Male,2,1,Research Scientist,4,3622,Upto 5k,1,13,3,4,6,3,6,5,1
+RM495,26-35,Sales,Technical Degree,3,Female,3,1,Sales Representative,3,2579,Upto 5k,1,18,3,4,8,3,8,2,0
+RM504,26-35,Research & Development,Life Sciences,2,Male,3,1,Research Scientist,4,2691,Upto 5k,1,12,3,4,10,4,10,9,8
+RM525,26-35,Research & Development,Medical,4,Female,2,3,Healthcare Representative,2,8621,5k-10k,1,14,3,2,9,3,8,7,7
+RM550,26-35,Research & Development,Medical,2,Female,3,2,Healthcare Representative,3,6142,5k-10k,3,11,3,4,10,2,5,1,4
+RM561,26-35,Research & Development,Life Sciences,2,Female,3,2,Manufacturing Director,1,5121,5k-10k,3,14,3,3,7,3,0,0,0
+RM568,26-35,Sales,Other,4,Male,3,2,Sales Executive,4,6274,5k-10k,1,22,4,3,6,5,6,5,1
+RM575,26-35,Research & Development,Life Sciences,2,Female,4,1,Research Scientist,4,3280,Upto 5k,2,16,3,3,10,2,4,2,1
+RM580,26-35,Research & Development,Medical,3,Female,2,1,Research Scientist,1,4381,Upto 5k,1,11,3,3,6,3,6,5,1
+RM584,26-35,Sales,Life Sciences,3,Female,3,2,Sales Executive,1,6500,5k-10k,5,17,3,2,6,1,3,2,1
+RM607,26-35,Research & Development,Life Sciences,3,Female,2,1,Research Scientist,4,2553,Upto 5k,1,16,3,3,6,3,5,2,1
+RM614,26-35,Human Resources,Human Resources,3,Male,3,1,Human Resources,4,3737,Upto 5k,0,19,3,3,4,1,3,2,0
+RM672,26-35,Research & Development,Life Sciences,2,Male,3,1,Laboratory Technician,2,2008,Upto 5k,1,14,3,2,1,3,1,0,1
+RM758,26-35,Sales,Marketing,2,Male,4,2,Sales Executive,4,9725,5k-10k,0,11,3,4,16,2,15,1,0
+RM764,26-35,Sales,Life Sciences,3,Female,3,1,Sales Representative,3,2220,Upto 5k,1,19,3,4,1,2,1,1,0
+RM795,26-35,Research & Development,Life Sciences,1,Male,3,2,Healthcare Representative,4,7756,5k-10k,0,17,3,3,7,1,6,2,0
+RM804,26-35,Research & Development,Life Sciences,3,Male,2,1,Research Scientist,4,2979,Upto 5k,3,17,3,4,6,2,0,0,0
+RM823,26-35,Research & Development,Life Sciences,4,Male,3,2,Manufacturing Director,3,4033,Upto 5k,2,11,3,4,5,3,3,2,0
+RM835,26-35,Sales,Life Sciences,2,Female,3,2,Sales Executive,3,5714,5k-10k,1,20,4,1,6,3,6,5,1
+RM848,26-35,Research & Development,Medical,4,Male,2,2,Healthcare Representative,1,5343,5k-10k,0,20,4,3,14,3,13,9,4
+RM907,26-35,Research & Development,Technical Degree,3,Female,4,1,Research Scientist,3,2585,Upto 5k,0,17,3,4,2,5,1,0,0
+RM918,26-35,Sales,Marketing,3,Female,3,2,Sales Executive,1,4538,Upto 5k,0,12,3,4,4,3,3,2,0
+RM921,26-35,Research & Development,Medical,3,Female,3,2,Laboratory Technician,2,4444,Upto 5k,4,13,3,3,15,2,11,8,5
+RM924,26-35,Human Resources,Life Sciences,3,Male,2,2,Human Resources,2,4490,Upto 5k,4,11,3,4,14,5,10,9,1
+RM959,26-35,Research & Development,Life Sciences,4,Male,3,3,Healthcare Representative,4,8500,5k-10k,0,11,3,4,10,0,9,7,1
+RM965,26-35,Sales,Medical,3,Female,3,2,Sales Executive,1,6125,5k-10k,1,12,3,4,10,6,10,8,9
+RM978,26-35,Research & Development,Technical Degree,1,Female,2,1,Research Scientist,3,2029,Upto 5k,1,20,4,3,5,2,5,4,0
+RM980,26-35,Research & Development,Medical,2,Male,3,2,Laboratory Technician,3,5429,5k-10k,4,13,3,1,10,1,8,7,7
+RM984,26-35,Research & Development,Technical Degree,3,Female,3,2,Healthcare Representative,4,6687,5k-10k,1,11,3,4,14,2,14,11,4
+RM1016,26-35,Research & Development,Other,4,Male,3,1,Research Scientist,1,2996,Upto 5k,5,14,3,3,10,2,4,3,1
+RM1028,26-35,Research & Development,Life Sciences,4,Female,2,1,Laboratory Technician,2,3294,Upto 5k,5,17,3,1,7,2,5,4,0
+RM1040,26-35,Human Resources,Technical Degree,1,Female,3,1,Human Resources,3,2742,Upto 5k,1,15,3,4,2,0,2,2,2
+RM1049,26-35,Sales,Other,4,Male,1,2,Sales Executive,1,4759,Upto 5k,3,18,3,4,15,2,13,9,3
+RM1056,26-35,Research & Development,Medical,2,Male,3,4,Research Director,1,17007,15k+,7,14,3,4,16,3,14,8,6
+RM1059,26-35,Sales,Medical,1,Female,2,2,Sales Executive,2,4599,Upto 5k,0,23,4,3,16,2,15,9,10
+RM1085,26-35,Sales,Technical Degree,4,Male,2,3,Sales Executive,3,7083,5k-10k,1,14,3,4,10,3,10,9,8
+RM1088,26-35,Sales,Technical Degree,2,Male,3,1,Sales Representative,3,2308,Upto 5k,0,25,4,2,12,4,11,10,5
+RM1116,26-35,Research & Development,Medical,1,Male,3,1,Research Scientist,4,2972,Upto 5k,1,13,3,3,1,4,1,0,0
+RM1118,26-35,Research & Development,Life Sciences,2,Male,3,2,Research Scientist,4,5484,5k-10k,9,17,3,2,9,3,2,2,2
+RM1132,26-35,Research & Development,Technical Degree,4,Male,2,2,Healthcare Representative,3,5063,5k-10k,1,14,3,2,8,3,8,2,7
+RM1147,26-35,Research & Development,Life Sciences,3,Male,4,2,Manufacturing Director,4,4724,Upto 5k,1,13,3,1,9,3,9,7,7
+RM1180,26-35,Research & Development,Life Sciences,4,Female,3,2,Research Scientist,2,5433,5k-10k,1,12,3,3,11,2,11,8,7
+RM1209,26-35,Research & Development,Medical,2,Male,2,2,Laboratory Technician,4,3986,Upto 5k,1,14,3,3,15,3,15,10,4
+RM1213,26-35,Research & Development,Life Sciences,2,Female,2,1,Research Scientist,4,2929,Upto 5k,1,12,3,2,10,3,10,9,8
+RM1253,26-35,Research & Development,Medical,4,Male,4,1,Research Scientist,4,2932,Upto 5k,0,14,3,1,6,3,5,0,1
+RM1268,26-35,Sales,Life Sciences,4,Male,3,2,Sales Executive,3,4001,Upto 5k,1,14,3,3,15,3,15,14,0
+RM1271,26-35,Sales,Life Sciences,4,Female,1,2,Sales Executive,4,6029,5k-10k,5,12,3,1,6,3,2,2,2
+RM1291,26-35,Research & Development,Life Sciences,4,Male,3,2,Laboratory Technician,1,5346,5k-10k,4,17,3,3,11,3,7,1,0
+RM1301,26-35,Sales,Technical Degree,2,Male,4,2,Sales Executive,3,6799,5k-10k,1,21,4,3,10,5,10,8,4
+RM1343,26-35,Sales,Life Sciences,3,Male,3,3,Sales Executive,4,9713,5k-10k,2,13,3,4,9,3,5,3,1
+RM1354,26-35,Research & Development,Technical Degree,4,Male,1,1,Research Scientist,1,2307,Upto 5k,1,23,4,2,5,2,5,2,3
+RM1360,26-35,Sales,Medical,4,Female,2,2,Sales Executive,4,8103,5k-10k,3,12,3,3,9,3,4,2,0
+RM1369,26-35,Research & Development,Other,3,Male,2,2,Research Scientist,4,5747,5k-10k,1,15,3,2,16,3,15,10,6
+RM1385,26-35,Sales,Marketing,1,Male,3,3,Sales Executive,4,9888,5k-10k,1,21,4,1,14,3,14,8,2
+RM1386,26-35,Sales,Medical,4,Male,3,3,Sales Executive,3,8628,5k-10k,1,18,3,3,9,2,8,7,1
+RM1447,26-35,Sales,Marketing,4,Female,2,2,Sales Executive,3,6712,5k-10k,1,21,4,4,8,2,8,7,1
+RM1470,26-35,Research & Development,Medical,2,Male,4,2,Laboratory Technician,3,4404,Upto 5k,2,12,3,1,6,3,4,3,1
+RM011,26-35,Research & Development,Medical,1,Male,4,1,Laboratory Technician,2,2426,Upto 5k,0,13,3,3,6,5,5,4,0
+RM038,26-35,Sales,Marketing,4,Female,3,1,Sales Representative,4,2014,Upto 5k,1,13,3,1,2,3,2,2,2
+RM041,26-35,Research & Development,Other,3,Male,3,1,Laboratory Technician,4,1951,Upto 5k,1,12,3,3,1,3,1,0,0
+RM050,26-35,Research & Development,Life Sciences,4,Male,4,1,Laboratory Technician,4,2269,Upto 5k,1,19,3,4,1,2,1,0,0
+RM054,26-35,Research & Development,Medical,3,Male,2,3,Healthcare Representative,1,9884,5k-10k,2,13,3,3,10,3,4,0,2
+RM057,26-35,Sales,Life Sciences,2,Male,3,3,Sales Executive,1,9069,5k-10k,1,22,4,4,9,3,9,8,1
+RM058,26-35,Research & Development,Medical,3,Female,3,1,Laboratory Technician,1,4014,Upto 5k,3,15,3,3,4,3,2,2,2
+RM069,26-35,Research & Development,Medical,2,Male,3,1,Research Scientist,1,2194,Upto 5k,4,13,3,4,5,2,3,2,1
+RM077,26-35,Sales,Marketing,3,Male,2,2,Sales Executive,1,4312,Upto 5k,0,14,3,2,16,2,15,13,2
+RM082,26-35,Research & Development,Medical,2,Male,2,1,Research Scientist,3,2859,Upto 5k,1,18,3,1,6,3,6,4,0
+RM152,26-35,Sales,Marketing,3,Male,3,3,Sales Executive,2,7295,5k-10k,1,13,3,1,10,3,10,8,0
+RM193,26-35,Research & Development,Life Sciences,2,Male,2,2,Manufacturing Director,3,5916,5k-10k,3,13,3,1,8,1,1,0,0
+RM197,26-35,Research & Development,Medical,2,Female,3,2,Laboratory Technician,2,4425,Upto 5k,5,11,3,4,10,5,6,2,1
+RM229,26-35,Sales,Marketing,3,Female,3,3,Sales Executive,3,8789,5k-10k,1,14,3,1,10,3,10,7,0
+RM277,26-35,Research & Development,Life Sciences,2,Female,4,3,Manager,2,11996,10k-15k,7,18,3,2,10,6,7,7,6
+RM298,26-35,Sales,Marketing,3,Male,3,3,Sales Executive,2,8020,5k-10k,0,15,3,3,12,3,11,9,6
+RM345,26-35,Research & Development,Technical Degree,3,Male,3,3,Manufacturing Director,2,8095,5k-10k,0,13,3,4,17,5,16,6,0
+RM373,26-35,Research & Development,Life Sciences,3,Male,2,2,Healthcare Representative,2,6540,5k-10k,9,19,3,3,10,5,1,1,0
+RM431,26-35,Research & Development,Life Sciences,4,Male,1,1,Laboratory Technician,3,4230,Upto 5k,0,15,3,3,6,2,5,4,4
+RM439,26-35,Research & Development,Life Sciences,4,Male,3,3,Healthcare Representative,3,7632,5k-10k,4,12,3,3,10,2,8,7,0
+RM448,26-35,Sales,Marketing,2,Male,3,2,Sales Executive,3,4717,Upto 5k,9,11,3,3,15,2,11,9,6
+RM462,26-35,Sales,Medical,1,Female,3,2,Sales Executive,3,4859,Upto 5k,1,16,3,4,5,3,5,4,0
+RM484,26-35,Research & Development,Other,1,Male,2,2,Laboratory Technician,4,3681,Upto 5k,4,14,3,4,9,3,3,2,0
+RM509,26-35,Research & Development,Life Sciences,2,Male,1,2,Research Scientist,4,6646,5k-10k,1,13,3,2,17,3,17,11,11
+RM516,26-35,Research & Development,Life Sciences,3,Male,2,1,Laboratory Technician,3,1281,Upto 5k,1,18,3,3,1,3,1,0,0
+RM558,26-35,Research & Development,Life Sciences,4,Female,3,2,Healthcare Representative,1,5093,5k-10k,2,11,3,1,16,2,1,0,0
+RM581,26-35,Sales,Life Sciences,1,Female,3,1,Sales Representative,4,2572,Upto 5k,1,16,3,2,3,1,3,2,0
+RM597,26-35,Research & Development,Life Sciences,4,Female,4,1,Research Scientist,3,2506,Upto 5k,3,13,3,3,7,0,2,2,2
+RM612,26-35,Research & Development,Other,3,Male,3,3,Manufacturing Director,3,10221,10k-15k,3,21,4,2,17,3,8,5,1
+RM621,26-35,Research & Development,Medical,3,Female,2,1,Research Scientist,1,2559,Upto 5k,1,11,3,4,6,3,6,5,1
+RM636,26-35,Research & Development,Life Sciences,4,Female,2,3,Manufacturing Director,3,10685,10k-15k,1,20,4,2,17,2,17,14,5
+RM637,26-35,Research & Development,Life Sciences,4,Female,3,1,Research Scientist,2,2022,Upto 5k,1,19,3,1,10,3,10,2,7
+RM648,26-35,Research & Development,Technical Degree,4,Male,2,3,Manufacturing Director,2,10903,10k-15k,3,16,3,1,16,2,13,10,4
+RM677,26-35,Research & Development,Life Sciences,4,Female,3,2,Healthcare Representative,4,4014,Upto 5k,1,25,4,4,10,2,10,6,0
+RM699,26-35,Sales,Medical,3,Female,3,2,Sales Executive,3,4601,Upto 5k,1,16,3,2,5,3,5,2,1
+RM705,26-35,Sales,Life Sciences,4,Male,3,3,Sales Executive,4,7823,5k-10k,6,13,3,2,12,2,10,9,0
+RM726,26-35,Research & Development,Other,3,Male,2,1,Laboratory Technician,2,3743,Upto 5k,1,24,4,4,5,2,4,2,0
+RM730,26-35,Research & Development,Medical,3,Female,3,3,Healthcare Representative,3,10388,10k-15k,1,11,3,3,16,3,16,10,10
+RM741,26-35,Research & Development,Other,2,Male,3,1,Laboratory Technician,4,3917,Upto 5k,1,20,4,1,3,4,3,2,1
+RM792,26-35,Sales,Technical Degree,4,Male,3,3,Sales Executive,1,9582,5k-10k,0,22,4,1,9,2,8,7,4
+RM821,26-35,Sales,Marketing,4,Male,3,2,Sales Executive,4,4968,Upto 5k,1,11,3,4,5,3,5,2,0
+RM836,26-35,Human Resources,Technical Degree,3,Male,3,1,Human Resources,3,4323,Upto 5k,1,17,3,2,6,2,5,4,1
+RM841,26-35,Research & Development,Medical,4,Male,2,1,Laboratory Technician,3,2258,Upto 5k,6,12,3,2,10,2,8,0,1
+RM847,26-35,Research & Development,Life Sciences,3,Male,2,3,Manufacturing Director,2,10274,10k-15k,2,18,3,2,15,2,7,7,6
+RM849,26-35,Research & Development,Other,4,Male,2,1,Laboratory Technician,4,2376,Upto 5k,1,13,3,2,2,2,2,2,2
+RM871,26-35,Sales,Life Sciences,3,Male,3,2,Sales Executive,1,8966,5k-10k,3,15,3,4,15,2,7,7,1
+RM889,26-35,Sales,Marketing,3,Female,2,3,Sales Executive,4,10377,10k-15k,4,11,3,2,16,6,13,2,4
+RM925,26-35,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,3,3506,Upto 5k,0,14,3,4,4,3,3,2,2
+RM962,26-35,Research & Development,Life Sciences,3,Male,3,2,Research Scientist,3,4249,Upto 5k,1,11,3,2,9,3,9,6,1
+RM974,26-35,Research & Development,Medical,4,Female,2,2,Laboratory Technician,4,5363,5k-10k,0,12,3,2,10,0,9,7,0
+RM982,26-35,Sales,Marketing,4,Female,3,2,Sales Executive,3,4614,Upto 5k,0,18,3,3,5,0,4,2,3
+RM1003,26-35,Research & Development,Life Sciences,3,Male,3,3,Manufacturing Director,4,9362,5k-10k,2,11,3,3,10,2,2,2,2
+RM1060,26-35,Sales,Life Sciences,4,Male,3,1,Sales Representative,3,2404,Upto 5k,1,13,3,1,1,3,1,0,0
+RM1082,26-35,Research & Development,Life Sciences,4,Female,2,3,Healthcare Representative,2,8606,5k-10k,1,19,3,4,11,3,11,8,3
+RM1101,26-35,Sales,Life Sciences,2,Female,2,1,Sales Representative,3,2430,Upto 5k,0,23,4,1,6,5,5,3,4
+RM1109,26-35,Research & Development,Medical,4,Male,2,1,Laboratory Technician,1,2450,Upto 5k,1,19,3,2,3,3,3,0,1
+RM1111,26-35,Research & Development,Life Sciences,1,Female,3,1,Laboratory Technician,1,2074,Upto 5k,1,12,3,4,1,2,1,0,0
+RM1124,26-35,Research & Development,Medical,1,Female,3,2,Healthcare Representative,3,6142,5k-10k,3,16,3,3,10,4,5,2,0
+RM1131,26-35,Research & Development,Life Sciences,2,Male,4,2,Laboratory Technician,3,3407,Upto 5k,1,17,3,4,10,3,10,9,6
+RM1135,26-35,Research & Development,Life Sciences,3,Male,2,1,Laboratory Technician,4,2690,Upto 5k,1,18,3,4,1,5,1,0,0
+RM1151,26-35,Research & Development,Life Sciences,2,Male,4,2,Research Scientist,1,5208,5k-10k,1,11,3,4,16,2,16,15,1
+RM1158,26-35,Research & Development,Life Sciences,3,Female,3,2,Healthcare Representative,3,4148,Upto 5k,1,12,3,4,15,5,14,11,2
+RM1163,26-35,Sales,Medical,4,Male,2,3,Sales Executive,1,10306,10k-15k,9,17,3,3,15,3,13,12,6
+RM1168,26-35,Sales,Medical,1,Male,1,2,Sales Executive,4,5440,5k-10k,6,14,3,4,7,2,2,2,2
+RM1187,26-35,Sales,Other,4,Male,3,2,Sales Executive,4,4581,Upto 5k,3,24,4,1,13,2,11,9,6
+RM1216,26-35,Research & Development,Medical,1,Male,2,1,Research Scientist,4,4930,Upto 5k,0,14,3,3,6,2,5,4,1
+RM1233,26-35,Research & Development,Life Sciences,4,Male,3,2,Manufacturing Director,3,6883,5k-10k,2,16,3,2,17,3,7,7,0
+RM1282,26-35,Sales,Life Sciences,3,Male,3,2,Sales Executive,4,5813,5k-10k,1,18,3,4,10,2,10,7,7
+RM1289,26-35,Research & Development,Medical,2,Male,3,2,Manufacturing Director,4,5762,5k-10k,2,14,3,3,15,6,7,7,1
+RM1303,26-35,Research & Development,Medical,2,Male,1,1,Laboratory Technician,3,2705,Upto 5k,0,16,3,2,6,2,5,4,0
+RM1346,26-35,Research & Development,Other,4,Female,2,2,Manufacturing Director,2,4788,Upto 5k,0,11,3,4,4,2,3,2,0
+RM1381,26-35,Sales,Medical,2,Male,3,2,Sales Executive,1,5561,5k-10k,0,16,3,4,6,2,5,3,0
+RM1393,26-35,Sales,Life Sciences,3,Female,3,2,Sales Executive,4,5204,5k-10k,1,11,3,4,10,2,10,8,0
+RM1423,26-35,Research & Development,Medical,4,Male,3,1,Laboratory Technician,3,2660,Upto 5k,7,11,3,3,5,3,2,2,2
+RM1425,26-35,Research & Development,Medical,2,Male,3,2,Research Scientist,3,5098,5k-10k,1,19,3,2,10,5,10,7,0
+RM1451,26-35,Human Resources,Life Sciences,3,Female,3,3,Human Resources,4,8837,5k-10k,1,16,3,3,9,2,9,0,1
+RM1457,26-35,Research & Development,Life Sciences,3,Male,3,2,Healthcare Representative,3,5689,5k-10k,1,14,3,4,10,2,10,2,0
+RM1459,26-35,Research & Development,Life Sciences,3,Female,1,1,Research Scientist,4,2977,Upto 5k,1,12,3,4,4,5,4,3,1
+RM010,36-45,Research & Development,Medical,3,Male,3,2,Healthcare Representative,3,5237,5k-10k,6,13,3,2,17,3,7,7,7
+RM022,36-45,Sales,Life Sciences,3,Male,2,1,Sales Representative,1,3407,Upto 5k,7,23,4,2,10,4,5,3,0
+RM039,36-45,Research & Development,Life Sciences,2,Female,2,1,Research Scientist,1,3419,Upto 5k,9,14,3,4,6,3,1,1,0
+RM065,36-45,Research & Development,Technical Degree,3,Female,3,3,Healthcare Representative,3,10096,10k-15k,1,13,3,2,17,2,17,14,12
+RM067,36-45,Research & Development,Life Sciences,2,Male,2,2,Manufacturing Director,2,6499,5k-10k,1,13,3,3,6,3,6,5,0
+RM070,36-45,Research & Development,Medical,4,Male,2,1,Research Scientist,3,3388,Upto 5k,0,17,3,1,2,0,1,0,0
+RM075,36-45,Research & Development,Life Sciences,2,Female,4,1,Laboratory Technician,4,3038,Upto 5k,3,12,3,2,5,3,1,0,0
+RM118,36-45,Sales,Technical Degree,2,Female,3,3,Sales Executive,4,9738,5k-10k,0,14,3,3,10,6,9,7,2
+RM119,36-45,Research & Development,Life Sciences,1,Female,3,1,Laboratory Technician,4,2835,Upto 5k,5,22,4,1,7,2,1,0,0
+RM136,36-45,Research & Development,Medical,2,Male,3,2,Manufacturing Director,2,4941,Upto 5k,6,20,4,4,7,0,3,2,0
+RM173,36-45,Research & Development,Medical,4,Male,3,1,Laboratory Technician,2,2088,Upto 5k,4,12,3,3,13,3,8,7,7
+RM208,36-45,Research & Development,Medical,2,Female,3,1,Laboratory Technician,4,2153,Upto 5k,1,13,3,1,8,2,8,1,1
+RM221,36-45,Research & Development,Life Sciences,4,Male,3,2,Laboratory Technician,2,5914,5k-10k,8,16,3,4,16,3,13,11,3
+RM270,36-45,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,4,3210,Upto 5k,0,11,3,3,16,4,15,13,10
+RM292,36-45,Research & Development,Technical Degree,3,Male,3,2,Research Scientist,2,4485,Upto 5k,4,12,3,4,10,2,8,0,7
+RM299,36-45,Research & Development,Life Sciences,3,Male,4,1,Laboratory Technician,4,3688,Upto 5k,4,18,3,4,4,2,1,0,0
+RM306,36-45,Research & Development,Life Sciences,2,Female,3,2,Laboratory Technician,2,5674,5k-10k,7,15,3,3,11,3,9,8,0
+RM359,36-45,Sales,Medical,4,Female,3,2,Sales Executive,4,6653,5k-10k,4,15,3,2,7,6,1,0,0
+RM360,36-45,Sales,Medical,1,Male,2,3,Sales Executive,4,9699,5k-10k,4,11,3,1,16,2,13,9,1
+RM378,36-45,Research & Development,Life Sciences,4,Female,3,1,Research Scientist,3,2543,Upto 5k,4,13,3,2,6,3,2,2,2
+RM385,36-45,Sales,Medical,2,Male,2,3,Sales Executive,3,7596,5k-10k,1,13,3,2,10,2,10,9,9
+RM443,36-45,Sales,Medical,2,Male,3,3,Sales Executive,4,9980,5k-10k,1,14,3,4,10,3,10,3,9
+RM512,36-45,Research & Development,Medical,2,Male,2,2,Manufacturing Director,2,8847,5k-10k,2,11,3,3,13,2,3,2,0
+RM542,36-45,Research & Development,Life Sciences,1,Female,4,3,Research Director,1,11713,10k-15k,9,14,3,1,10,2,8,7,0
+RM570,36-45,Sales,Life Sciences,1,Male,2,3,Sales Executive,1,7587,5k-10k,1,15,3,2,10,1,10,7,0
+RM594,36-45,Research & Development,Other,3,Female,3,2,Manufacturing Director,2,5228,5k-10k,0,15,3,1,10,2,9,7,0
+RM600,36-45,Human Resources,Human Resources,3,Male,3,1,Human Resources,2,2143,Upto 5k,4,13,3,2,8,2,5,2,0
+RM622,36-45,Sales,Life Sciences,2,Male,3,2,Sales Executive,4,6201,5k-10k,1,14,3,4,18,1,18,14,4
+RM634,36-45,Human Resources,Life Sciences,1,Male,2,1,Human Resources,1,2342,Upto 5k,0,21,4,3,6,3,5,4,0
+RM665,36-45,Research & Development,Life Sciences,3,Male,3,2,Healthcare Representative,4,6586,5k-10k,0,17,3,1,17,2,16,8,4
+RM681,36-45,Research & Development,Other,2,Male,3,1,Research Scientist,4,4678,Upto 5k,2,18,3,3,8,6,6,2,0
+RM688,36-45,Research & Development,Medical,3,Male,3,1,Laboratory Technician,3,2519,Upto 5k,4,21,4,3,16,6,11,8,3
+RM694,36-45,Sales,Life Sciences,3,Male,2,3,Sales Executive,4,10325,10k-15k,1,11,3,1,16,6,16,7,3
+RM709,36-45,Sales,Technical Degree,1,Male,3,2,Sales Executive,4,5079,5k-10k,4,13,3,4,12,3,7,7,0
+RM753,36-45,Research & Development,Life Sciences,3,Female,4,1,Laboratory Technician,1,2743,Upto 5k,1,16,3,3,18,1,17,13,15
+RM762,36-45,Research & Development,Other,1,Male,3,2,Laboratory Technician,3,4834,Upto 5k,7,14,3,2,9,3,1,0,0
+RM774,36-45,Research & Development,Medical,4,Female,2,3,Manufacturing Director,4,8858,5k-10k,0,11,3,2,15,2,14,8,7
+RM818,36-45,Research & Development,Life Sciences,1,Male,3,2,Manufacturing Director,4,7779,5k-10k,2,20,4,1,18,0,11,9,0
+RM874,36-45,Research & Development,Life Sciences,3,Male,1,1,Laboratory Technician,3,2741,Upto 5k,1,14,3,3,7,4,7,7,1
+RM883,36-45,Research & Development,Technical Degree,3,Female,1,3,Manufacturing Director,1,10252,10k-15k,2,21,4,3,17,2,7,7,7
+RM901,36-45,Research & Development,Technical Degree,3,Male,3,1,Research Scientist,2,3692,Upto 5k,1,12,3,3,12,2,11,10,0
+RM928,36-45,Research & Development,Life Sciences,3,Female,3,2,Manufacturing Director,2,5410,5k-10k,9,11,3,4,18,2,16,14,5
+RM943,36-45,Research & Development,Technical Degree,4,Female,3,3,Healthcare Representative,3,7094,5k-10k,3,12,3,1,10,0,7,7,1
+RM969,36-45,Sales,Marketing,1,Female,4,2,Sales Executive,1,4639,Upto 5k,2,16,3,4,17,2,15,7,6
+RM1012,36-45,Sales,Marketing,1,Female,3,2,Sales Executive,2,9278,5k-10k,3,16,3,4,15,3,5,4,0
+RM1019,36-45,Research & Development,Life Sciences,1,Male,2,2,Laboratory Technician,4,5810,5k-10k,1,16,3,3,10,2,10,4,1
+RM1020,36-45,Sales,Marketing,3,Female,2,2,Sales Executive,1,5647,5k-10k,4,13,3,1,11,3,3,2,0
+RM1103,36-45,Sales,Life Sciences,3,Male,3,1,Sales Representative,4,2644,Upto 5k,3,21,4,4,7,3,3,2,1
+RM1122,36-45,Sales,Life Sciences,2,Female,3,2,Sales Executive,3,6815,5k-10k,6,13,3,1,15,5,1,0,0
+RM1129,36-45,Research & Development,Life Sciences,1,Male,4,2,Laboratory Technician,1,5562,5k-10k,3,13,3,4,9,3,3,2,0
+RM1146,36-45,Research & Development,Life Sciences,3,Female,3,2,Manufacturing Director,3,4663,Upto 5k,9,12,3,2,7,2,3,2,1
+RM1174,36-45,Research & Development,Life Sciences,2,Female,3,3,Healthcare Representative,1,8008,5k-10k,4,12,3,3,9,6,3,2,0
+RM1181,36-45,Research & Development,Life Sciences,1,Male,3,1,Laboratory Technician,2,2013,Upto 5k,2,11,3,3,15,4,4,3,1
+RM1183,36-45,Research & Development,Medical,4,Female,2,2,Manufacturing Director,3,4374,Upto 5k,0,15,3,3,4,6,3,2,1
+RM1184,36-45,Research & Development,Life Sciences,4,Male,4,2,Healthcare Representative,1,6842,5k-10k,6,20,4,1,13,3,5,4,0
+RM1200,36-45,Research & Development,Life Sciences,1,Male,3,2,Healthcare Representative,3,5347,5k-10k,6,14,3,2,10,2,3,2,0
+RM1221,36-45,Sales,Life Sciences,3,Female,3,2,Sales Representative,4,4502,Upto 5k,3,15,3,3,17,2,13,7,6
+RM1237,36-45,Sales,Marketing,2,Male,2,2,Sales Executive,1,6134,5k-10k,5,13,3,2,16,3,2,2,2
+RM1279,36-45,Research & Development,Life Sciences,4,Male,3,3,Healthcare Representative,1,8321,5k-10k,7,13,3,4,15,1,12,8,5
+RM1316,36-45,Research & Development,Other,4,Female,3,2,Research Scientist,2,6962,5k-10k,4,22,4,4,15,2,1,0,0
+RM1341,36-45,Sales,Technical Degree,2,Female,2,2,Sales Executive,3,5673,5k-10k,1,13,3,1,10,4,10,9,1
+RM1348,36-45,Human Resources,Human Resources,2,Male,2,2,Human Resources,4,3886,Upto 5k,1,21,4,4,10,2,10,1,0
+RM1356,36-45,Sales,Marketing,3,Male,2,2,Sales Executive,2,5507,5k-10k,2,16,3,3,12,1,4,2,1
+RM1384,36-45,Research & Development,Life Sciences,1,Male,4,1,Laboratory Technician,2,2810,Upto 5k,1,22,4,2,5,3,5,4,0
+RM1440,36-45,Sales,Medical,1,Female,2,3,Sales Executive,4,7644,5k-10k,0,19,3,3,10,2,9,7,3
+RM1441,36-45,Research & Development,Life Sciences,4,Female,3,2,Manufacturing Director,2,5131,5k-10k,7,13,3,2,18,3,4,2,0
+RM1448,36-45,Sales,Marketing,4,Male,1,2,Sales Executive,4,5406,5k-10k,1,24,4,1,15,4,15,12,11
+RM1454,36-45,Sales,Marketing,2,Female,2,2,Sales Executive,4,6652,5k-10k,4,13,3,1,8,2,6,3,0
+RM1466,36-45,Research & Development,Medical,3,Male,4,2,Laboratory Technician,4,2571,Upto 5k,4,17,3,3,17,3,5,2,0
+RM1466,36-45,Research & Development,Medical,3,Male,4,2,Laboratory Technician,4,2571,Upto 5k,4,17,3,3,17,3,5,2,0
+RM003,36-45,Research & Development,Other,4,Male,2,1,Laboratory Technician,3,2090,Upto 5k,6,15,3,2,7,3,0,0,0
+RM048,36-45,Research & Development,Life Sciences,2,Male,3,1,Research Scientist,2,3022,Upto 5k,4,21,4,1,8,1,1,0,0
+RM060,36-45,Research & Development,Life Sciences,1,Male,2,2,Manufacturing Director,3,5993,5k-10k,1,18,3,3,7,2,7,5,0
+RM079,36-45,Research & Development,Medical,1,Male,3,3,Research Director,3,13664,10k-15k,4,13,3,1,16,3,5,2,0
+RM101,36-45,Human Resources,Human Resources,3,Male,3,1,Human Resources,1,2073,Upto 5k,4,22,4,4,7,3,3,2,0
+RM105,36-45,Research & Development,Life Sciences,3,Male,2,2,Healthcare Representative,4,5163,5k-10k,5,14,3,4,17,2,1,0,0
+RM116,36-45,Sales,Life Sciences,3,Male,3,3,Sales Executive,4,7428,5k-10k,2,12,3,1,12,3,5,3,1
+RM196,36-45,Research & Development,Life Sciences,2,Male,4,1,Research Scientist,1,3564,Upto 5k,1,12,3,1,8,3,8,7,1
+RM223,36-45,Research & Development,Other,2,Male,3,3,Research Director,4,12185,10k-15k,1,14,3,3,10,1,10,8,0
+RM227,36-45,Sales,Marketing,1,Male,3,1,Sales Representative,4,2793,Upto 5k,4,17,3,3,13,2,9,8,5
+RM249,36-45,Research & Development,Medical,3,Female,2,1,Research Scientist,1,3920,Upto 5k,2,14,3,1,17,2,3,1,0
+RM251,36-45,Research & Development,Medical,1,Male,3,3,Manufacturing Director,3,10048,10k-15k,6,11,3,2,17,5,1,0,0
+RM274,36-45,Sales,Medical,3,Male,3,2,Sales Executive,4,6502,5k-10k,4,14,3,2,7,5,5,4,0
+RM276,36-45,Research & Development,Medical,1,Female,3,3,Research Director,4,13603,10k-15k,2,18,3,1,15,2,5,2,0
+RM286,36-45,Research & Development,Life Sciences,4,Female,3,1,Research Scientist,4,2115,Upto 5k,1,12,3,2,17,3,17,12,5
+RM295,36-45,Research & Development,Medical,2,Male,3,1,Research Scientist,4,2326,Upto 5k,1,12,3,3,4,3,4,2,1
+RM341,36-45,Research & Development,Medical,4,Male,3,2,Manufacturing Director,4,6347,5k-10k,7,16,3,3,8,2,6,2,0
+RM354,36-45,Research & Development,Medical,3,Male,4,2,Research Scientist,1,5974,5k-10k,4,13,3,1,13,2,7,7,6
+RM365,36-45,Research & Development,Medical,3,Female,3,1,Laboratory Technician,1,3452,Upto 5k,6,20,4,2,17,3,5,4,0
+RM387,36-45,Research & Development,Life Sciences,4,Female,3,1,Laboratory Technician,1,3034,Upto 5k,1,12,3,3,18,2,18,7,12
+RM390,36-45,Research & Development,Life Sciences,3,Male,3,2,Manufacturing Director,2,4197,Upto 5k,2,12,3,4,18,2,1,0,0
+RM399,36-45,Research & Development,Medical,2,Female,3,2,Research Scientist,3,4449,Upto 5k,3,15,3,1,15,2,13,11,10
+RM465,36-45,Research & Development,Technical Degree,2,Female,3,3,Manufacturing Director,4,7491,5k-10k,4,17,3,4,12,3,6,5,1
+RM468,36-45,Sales,Medical,1,Male,3,3,Sales Executive,2,8834,5k-10k,1,13,3,4,9,6,9,5,7
+RM473,36-45,Research & Development,Life Sciences,2,Female,3,2,Manufacturing Director,2,6447,5k-10k,6,12,3,2,8,2,6,5,4
+RM487,36-45,Sales,Marketing,4,Male,3,2,Sales Executive,3,9602,5k-10k,4,11,3,3,17,3,3,0,1
+RM507,36-45,Research & Development,Other,3,Male,3,3,Manufacturing Director,3,9434,5k-10k,1,15,3,3,10,2,10,7,7
+RM523,36-45,Research & Development,Life Sciences,4,Male,4,1,Research Scientist,4,4680,Upto 5k,3,17,3,1,4,2,1,0,0
+RM578,36-45,Research & Development,Life Sciences,4,Female,3,1,Research Scientist,1,2782,Upto 5k,0,13,3,2,6,3,5,3,4
+RM629,36-45,Sales,Marketing,4,Male,2,2,Sales Executive,3,6334,5k-10k,4,19,3,4,9,2,1,0,0
+RM649,36-45,Sales,Medical,3,Female,3,1,Sales Representative,4,2973,Upto 5k,5,15,3,2,10,3,5,4,0
+RM653,36-45,Sales,Medical,1,Male,3,3,Sales Executive,2,7642,5k-10k,1,13,3,4,10,2,10,0,0
+RM696,36-45,Sales,Life Sciences,1,Male,2,3,Sales Executive,3,10609,10k-15k,5,11,3,3,17,2,14,1,11
+RM745,36-45,Research & Development,Medical,1,Female,1,2,Healthcare Representative,2,4777,Upto 5k,5,15,3,1,15,2,1,0,0
+RM768,36-45,Research & Development,Other,4,Female,3,2,Healthcare Representative,2,4107,Upto 5k,3,15,3,1,8,3,4,3,0
+RM796,36-45,Sales,Life Sciences,4,Female,2,2,Sales Executive,4,6694,5k-10k,2,14,3,3,8,5,1,0,0
+RM833,36-45,Research & Development,Medical,3,Female,2,2,Healthcare Representative,4,5731,5k-10k,7,13,3,3,9,2,6,2,1
+RM856,36-45,Research & Development,Life Sciences,4,Female,2,2,Manufacturing Director,4,6474,5k-10k,1,13,3,2,14,2,14,8,3
+RM990,36-45,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,3,2996,Upto 5k,7,15,3,4,8,2,6,4,1
+RM1002,36-45,Research & Development,Medical,1,Female,3,1,Laboratory Technician,3,3629,Upto 5k,4,18,3,1,8,6,3,2,0
+RM1023,36-45,Research & Development,Technical Degree,3,Male,4,1,Laboratory Technician,3,3500,Upto 5k,0,14,3,1,7,2,6,5,1
+RM1090,36-45,Research & Development,Medical,1,Male,3,2,Research Scientist,4,4285,Upto 5k,1,17,3,1,10,2,10,8,3
+RM1159,36-45,Research & Development,Life Sciences,3,Male,3,2,Manufacturing Director,3,5768,5k-10k,3,17,3,1,9,2,4,3,0
+RM1164,36-45,Research & Development,Medical,2,Female,3,1,Research Scientist,2,3936,Upto 5k,1,11,3,1,8,2,8,4,7
+RM1212,36-45,Sales,Medical,3,Male,1,2,Sales Executive,4,9525,5k-10k,1,14,3,3,6,2,6,3,1
+RM1277,36-45,Sales,Marketing,2,Male,2,2,Sales Executive,2,4189,Upto 5k,1,14,3,1,5,2,5,2,0
+RM1281,36-45,Human Resources,Other,3,Male,3,2,Human Resources,2,4071,Upto 5k,2,13,3,3,19,4,10,0,4
+RM1292,36-45,Research & Development,Medical,4,Male,3,2,Manufacturing Director,1,4213,Upto 5k,1,15,3,2,10,4,10,3,0
+RM1345,36-45,Research & Development,Medical,4,Male,3,2,Research Scientist,1,4284,Upto 5k,5,22,4,3,16,2,5,3,0
+RM1433,36-45,Research & Development,Life Sciences,3,Female,4,3,Research Director,4,13744,10k-15k,1,25,4,1,16,2,16,11,6
+RM009,36-45,Research & Development,Life Sciences,4,Male,2,3,Manufacturing Director,3,9526,5k-10k,0,21,4,2,10,2,9,7,1
+RM020,36-45,Research & Development,Life Sciences,4,Male,3,1,Research Scientist,4,3944,Upto 5k,5,11,3,3,6,3,3,2,1
+RM062,36-45,Research & Development,Life Sciences,4,Female,3,2,Laboratory Technician,4,2406,Upto 5k,1,11,3,4,10,2,10,3,9
+RM084,36-45,Research & Development,Medical,2,Female,1,2,Research Scientist,4,5329,5k-10k,7,12,3,4,17,3,13,11,1
+RM143,36-45,Research & Development,Technical Degree,4,Female,3,2,Research Scientist,3,4317,Upto 5k,3,20,4,2,19,2,3,2,2
+RM169,36-45,Sales,Life Sciences,1,Female,2,2,Sales Executive,4,8686,5k-10k,4,22,4,3,12,2,8,3,0
+RM180,36-45,Research & Development,Life Sciences,3,Female,3,1,Laboratory Technician,4,2288,Upto 5k,1,12,3,3,2,3,2,2,2
+RM199,36-45,Research & Development,Life Sciences,4,Male,3,2,Manufacturing Director,3,6553,5k-10k,9,14,3,2,14,3,1,0,0
+RM200,36-45,Research & Development,Technical Degree,4,Male,3,2,Manufacturing Director,4,6261,5k-10k,3,18,3,1,9,3,7,7,1
+RM205,36-45,Research & Development,Medical,2,Male,3,2,Healthcare Representative,1,6673,5k-10k,7,19,3,2,17,2,1,0,0
+RM224,36-45,Sales,Life Sciences,1,Male,3,3,Sales Executive,3,10609,10k-15k,0,12,3,3,17,6,16,10,5
+RM262,36-45,Sales,Life Sciences,4,Male,2,2,Sales Executive,4,5249,5k-10k,3,18,3,4,13,0,8,7,7
+RM278,36-45,Sales,Medical,1,Female,4,2,Sales Executive,1,5605,5k-10k,1,24,4,3,8,3,8,0,7
+RM288,36-45,Research & Development,Life Sciences,4,Male,3,2,Healthcare Representative,4,5745,5k-10k,9,14,3,2,10,2,2,2,1
+RM308,36-45,Research & Development,Life Sciences,1,Female,2,3,Research Director,2,12061,10k-15k,3,17,3,3,19,2,10,8,0
+RM342,36-45,Research & Development,Life Sciences,3,Male,2,3,Research Director,4,11510,10k-15k,0,14,3,2,12,3,11,10,2
+RM417,36-45,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,4,1702,Upto 5k,1,23,4,3,1,3,1,0,0
+RM472,36-45,Research & Development,Medical,3,Female,3,2,Healthcare Representative,3,9824,5k-10k,3,19,3,3,18,4,1,0,0
+RM491,36-45,Research & Development,Life Sciences,3,Female,3,1,Research Scientist,1,2619,Upto 5k,3,17,3,4,8,3,0,0,0
+RM519,36-45,Sales,Marketing,4,Female,2,2,Sales Executive,4,4028,Upto 5k,0,20,4,1,8,2,7,7,0
+RM530,36-45,Research & Development,Life Sciences,2,Female,4,2,Healthcare Representative,4,7625,5k-10k,0,13,3,3,10,4,9,7,1
+RM543,36-45,Research & Development,Life Sciences,3,Female,3,3,Manufacturing Director,3,7861,5k-10k,4,14,3,4,10,4,1,0,0
+RM560,36-45,Research & Development,Medical,4,Male,3,1,Research Scientist,3,3057,Upto 5k,6,13,3,2,6,0,1,0,0
+RM579,36-45,Research & Development,Life Sciences,1,Female,4,2,Manufacturing Director,1,5980,5k-10k,6,12,3,4,17,2,15,7,4
+RM606,36-45,Research & Development,Life Sciences,1,Male,2,2,Healthcare Representative,1,6288,5k-10k,2,15,3,3,13,3,4,3,1
+RM643,36-45,Sales,Marketing,2,Male,2,1,Sales Representative,2,2899,Upto 5k,0,19,3,4,3,3,2,2,1
+RM682,36-45,Research & Development,Technical Degree,4,Female,3,3,Research Director,1,13582,10k-15k,1,13,3,2,15,3,15,12,5
+RM704,36-45,Sales,Technical Degree,3,Female,3,2,Sales Executive,4,5666,5k-10k,1,13,3,2,6,1,5,3,1
+RM723,36-45,Research & Development,Medical,3,Male,3,1,Research Scientist,3,2684,Upto 5k,0,17,3,2,3,0,2,1,0
+RM748,36-45,Sales,Life Sciences,2,Male,3,2,Sales Executive,4,6861,5k-10k,8,12,3,3,19,1,1,0,0
+RM766,36-45,Research & Development,Other,3,Male,3,1,Research Scientist,3,2821,Upto 5k,3,16,3,1,8,2,2,2,2
+RM785,36-45,Research & Development,Life Sciences,3,Female,2,3,Healthcare Representative,3,8823,5k-10k,0,18,3,1,20,4,19,9,1
+RM808,36-45,Sales,Marketing,3,Male,2,3,Sales Executive,3,8740,5k-10k,0,14,3,2,9,2,8,7,2
+RM812,36-45,Sales,Marketing,4,Male,3,3,Sales Executive,2,7351,5k-10k,7,16,3,3,10,2,1,0,0
+RM827,36-45,Human Resources,Human Resources,3,Male,4,1,Human Resources,3,2844,Upto 5k,1,13,3,4,7,2,7,6,5
+RM964,36-45,Sales,Life Sciences,2,Female,3,2,Sales Executive,1,6893,5k-10k,3,15,3,4,11,3,7,7,1
+RM983,36-45,Research & Development,Life Sciences,4,Male,4,1,Research Scientist,3,2610,Upto 5k,1,11,3,4,4,2,4,2,0
+RM1108,36-45,Human Resources,Human Resources,3,Male,3,2,Human Resources,3,6077,5k-10k,3,11,3,3,10,2,6,3,1
+RM1113,36-45,Research & Development,Medical,3,Male,3,2,Manufacturing Director,2,4855,Upto 5k,4,11,3,1,7,2,5,2,1
+RM1120,36-45,Sales,Life Sciences,3,Male,3,2,Sales Executive,2,9924,5k-10k,0,11,3,4,10,3,9,8,7
+RM1121,36-45,Sales,Life Sciences,2,Female,3,2,Sales Executive,2,4198,Upto 5k,2,12,3,2,8,5,3,2,1
+RM1162,36-45,Research & Development,Medical,4,Female,2,3,Manufacturing Director,3,7756,5k-10k,3,19,3,4,10,6,5,4,0
+RM1188,36-45,Research & Development,Life Sciences,4,Male,3,2,Research Scientist,4,4735,Upto 5k,7,15,3,4,19,4,13,11,2
+RM1194,36-45,Research & Development,Medical,4,Female,2,1,Laboratory Technician,2,2440,Upto 5k,1,22,4,2,4,3,4,3,3
+RM1203,36-45,Research & Development,Medical,4,Female,3,1,Laboratory Technician,3,3306,Upto 5k,7,19,3,4,7,5,0,0,0
+RM1257,36-45,Research & Development,Medical,3,Female,2,1,Laboratory Technician,2,2468,Upto 5k,4,14,3,2,9,4,6,1,0
+RM1262,36-45,Research & Development,Medical,2,Male,1,2,Healthcare Representative,4,5811,5k-10k,3,16,3,3,15,2,1,0,1
+RM1273,36-45,Research & Development,Other,4,Female,2,1,Laboratory Technician,3,3702,Upto 5k,1,11,3,2,5,3,5,4,0
+RM1290,36-45,Human Resources,Human Resources,1,Male,3,1,Human Resources,2,2592,Upto 5k,5,13,3,4,13,3,11,10,3
+RM1309,36-45,Sales,Marketing,2,Female,1,2,Sales Representative,4,5405,5k-10k,2,20,4,1,20,4,4,2,0
+RM1374,36-45,Research & Development,Medical,4,Female,2,2,Research Scientist,2,2133,Upto 5k,1,16,3,3,20,3,20,11,0
+RM1377,36-45,Research & Development,Life Sciences,2,Male,3,1,Research Scientist,4,4771,Upto 5k,2,19,3,4,10,0,5,2,0
+RM1392,36-45,Sales,Life Sciences,1,Male,2,1,Sales Representative,1,2858,Upto 5k,4,14,3,1,20,3,1,0,0
+RM1401,36-45,Human Resources,Other,4,Male,3,1,Human Resources,2,2991,Upto 5k,0,11,3,2,7,2,6,2,1
+RM1417,36-45,Sales,Life Sciences,4,Male,3,2,Sales Executive,2,4440,Upto 5k,0,15,3,1,16,3,15,13,5
+RM1419,36-45,Research & Development,Life Sciences,1,Male,2,2,Manufacturing Director,3,5321,5k-10k,2,11,3,4,10,1,8,3,7
+RM1431,36-45,Research & Development,Medical,2,Female,1,3,Research Director,3,13206,10k-15k,3,12,3,1,20,3,18,16,1
+RM1452,36-45,Sales,Life Sciences,1,Female,3,2,Sales Executive,4,5343,5k-10k,1,11,3,3,10,1,10,7,1
+RM034,36-45,Sales,Technical Degree,4,Male,3,2,Sales Representative,4,2086,Upto 5k,3,14,3,3,19,6,1,0,0
+RM138,36-45,Sales,Life Sciences,4,Female,2,2,Sales Executive,3,5902,5k-10k,4,14,3,3,17,1,15,11,5
+RM241,36-45,Research & Development,Medical,3,Female,3,1,Laboratory Technician,3,2232,Upto 5k,7,14,3,3,7,1,3,2,1
+RM252,36-45,Research & Development,Technical Degree,3,Female,3,3,Healthcare Representative,3,10938,10k-15k,0,25,4,4,20,1,19,6,11
+RM305,36-45,Research & Development,Medical,3,Male,4,3,Healthcare Representative,4,9613,5k-10k,0,17,3,1,19,5,18,10,3
+RM315,36-45,Research & Development,Medical,3,Male,3,4,Manager,1,17068,15k+,1,14,3,4,21,3,21,9,11
+RM327,36-45,Research & Development,Medical,3,Male,2,5,Manager,4,19272,15k+,1,15,3,1,21,2,21,9,13
+RM328,36-45,Sales,Medical,4,Female,3,2,Sales Executive,3,5238,5k-10k,4,18,3,1,12,3,1,0,0
+RM401,36-45,Research & Development,Life Sciences,2,Male,3,5,Manager,3,19197,15k+,1,14,3,3,21,3,21,8,1
+RM450,36-45,Research & Development,Life Sciences,3,Female,3,1,Laboratory Technician,3,3755,Upto 5k,1,11,3,1,8,3,8,3,0
+RM527,36-45,Research & Development,Technical Degree,4,Female,2,2,Healthcare Representative,3,4553,Upto 5k,1,11,3,1,20,4,20,7,11
+RM552,36-45,Human Resources,Human Resources,3,Female,4,2,Human Resources,2,6389,5k-10k,9,15,3,3,12,3,8,3,3
+RM655,36-45,Human Resources,Life Sciences,4,Female,2,2,Human Resources,4,5204,5k-10k,8,11,3,3,13,2,5,4,0
+RM670,36-45,Research & Development,Medical,4,Male,3,1,Laboratory Technician,1,2404,Upto 5k,7,21,4,4,8,2,2,2,2
+RM706,36-45,Sales,Life Sciences,1,Male,4,3,Sales Executive,3,7880,5k-10k,0,18,3,4,9,3,8,7,0
+RM739,36-45,Research & Development,Life Sciences,4,Female,2,4,Manufacturing Director,4,12742,10k-15k,1,16,3,3,21,3,21,6,11
+RM754,36-45,Research & Development,Medical,4,Female,3,3,Manufacturing Director,1,10880,10k-15k,1,13,3,3,21,2,21,6,2
+RM814,36-45,Research & Development,Life Sciences,1,Male,3,4,Healthcare Representative,4,12169,10k-15k,7,11,3,4,21,4,18,7,11
+RM817,36-45,Research & Development,Life Sciences,3,Male,3,2,Laboratory Technician,2,6782,5k-10k,9,15,3,3,9,2,5,4,0
+RM938,36-45,Research & Development,Medical,3,Female,2,4,Manager,2,17123,15k+,6,13,3,4,21,4,19,9,15
+RM941,36-45,Research & Development,Medical,3,Male,3,1,Research Scientist,1,3904,Upto 5k,0,13,3,1,6,2,5,2,0
+RM950,36-45,Research & Development,Life Sciences,1,Male,3,2,Manufacturing Director,3,4534,Upto 5k,0,11,3,1,9,6,8,7,1
+RM987,36-45,Sales,Life Sciences,1,Male,2,2,Sales Executive,4,6120,5k-10k,3,12,3,4,8,2,5,4,1
+RM993,36-45,Research & Development,Life Sciences,3,Male,3,3,Healthcare Representative,3,10920,10k-15k,3,21,4,2,13,2,6,4,0
+RM1033,36-45,Research & Development,Life Sciences,1,Female,2,1,Laboratory Technician,1,3646,Upto 5k,2,23,4,2,11,2,1,0,0
+RM1080,36-45,Research & Development,Life Sciences,2,Female,3,3,Manufacturing Director,2,8376,5k-10k,4,18,3,4,9,3,2,0,2
+RM1125,36-45,Sales,Medical,4,Male,4,3,Sales Executive,3,8237,5k-10k,2,11,3,1,11,3,7,6,7
+RM1149,36-45,Research & Development,Medical,2,Male,3,2,Manufacturing Director,1,5377,5k-10k,2,13,3,4,10,3,7,7,7
+RM1156,36-45,Research & Development,Medical,3,Male,2,2,Laboratory Technician,3,3069,Upto 5k,0,15,3,4,11,3,10,8,0
+RM1160,36-45,Research & Development,Medical,1,Female,3,2,Manufacturing Director,3,5042,5k-10k,0,13,3,4,10,2,9,2,3
+RM1176,36-45,Research & Development,Medical,4,Male,3,2,Manufacturing Director,2,5295,5k-10k,4,21,4,3,7,3,5,4,1
+RM1241,36-45,Research & Development,Life Sciences,4,Male,3,2,Laboratory Technician,4,6472,5k-10k,1,15,3,4,9,2,9,8,5
+RM1285,36-45,Research & Development,Medical,3,Male,3,3,Research Director,3,13464,10k-15k,7,21,4,3,9,3,4,3,2
+RM1293,36-45,Sales,Life Sciences,3,Male,3,2,Sales Executive,4,4127,Upto 5k,2,18,3,4,7,6,2,1,2
+RM1336,36-45,Research & Development,Other,4,Male,3,2,Research Scientist,4,3902,Upto 5k,8,14,3,2,7,2,2,2,2
+RM1367,36-45,Sales,Life Sciences,1,Female,1,2,Sales Executive,3,5736,5k-10k,6,19,3,3,10,1,3,2,1
+RM1373,36-45,Research & Development,Medical,1,Male,3,2,Manufacturing Director,1,5151,5k-10k,1,25,4,4,10,3,10,0,7
+RM1404,36-45,Sales,Marketing,2,Male,3,4,Sales Executive,1,13341,10k-15k,0,12,3,1,21,3,20,8,11
+RM1430,36-45,Research & Development,Life Sciences,1,Male,3,2,Research Scientist,4,4108,Upto 5k,7,13,3,1,18,2,7,7,1
+RM1438,36-45,Research & Development,Life Sciences,4,Male,3,5,Manager,4,19431,15k+,2,13,3,3,21,3,6,0,1
+RM1463,36-45,Sales,Marketing,2,Female,2,4,Sales Executive,4,12031,10k-15k,0,11,3,1,21,2,20,9,9
+RM1467,36-45,Research & Development,Medical,4,Male,2,3,Healthcare Representative,1,9991,5k-10k,4,15,3,1,9,5,7,7,1
+RM1467,36-45,Research & Development,Medical,4,Male,2,3,Healthcare Representative,1,9991,5k-10k,4,15,3,1,9,5,7,7,1
+RM091,36-45,Research & Development,Life Sciences,3,Male,2,4,Healthcare Representative,2,13503,10k-15k,1,22,4,4,22,3,22,3,11
+RM151,36-45,Research & Development,Medical,2,Female,3,2,Research Scientist,2,5605,5k-10k,1,11,3,1,20,2,20,7,2
+RM159,36-45,Sales,Marketing,3,Male,2,3,Sales Executive,4,10855,10k-15k,7,11,3,1,15,2,12,11,2
+RM187,36-45,Research & Development,Medical,4,Female,3,5,Manager,3,19033,15k+,1,14,3,2,21,2,20,8,9
+RM204,36-45,Research & Development,Medical,3,Male,3,2,Laboratory Technician,4,2741,Upto 5k,8,15,3,3,15,2,7,2,3
+RM209,36-45,Research & Development,Life Sciences,4,Male,2,2,Healthcare Representative,4,4876,Upto 5k,9,14,3,4,5,5,3,2,0
+RM244,36-45,Research & Development,Technical Degree,1,Male,3,2,Research Scientist,4,3319,Upto 5k,1,17,3,1,9,3,9,8,4
+RM258,36-45,Research & Development,Medical,1,Male,3,5,Research Director,3,19436,15k+,0,19,3,4,22,5,21,7,3
+RM336,36-45,Sales,Medical,2,Male,1,2,Sales Executive,4,7457,5k-10k,2,22,4,3,6,2,4,3,0
+RM362,36-45,Research & Development,Life Sciences,4,Female,4,1,Laboratory Technician,3,2213,Upto 5k,3,13,3,3,10,3,7,7,1
+RM369,36-45,Sales,Marketing,3,Male,2,2,Sales Executive,3,6380,5k-10k,2,12,3,1,8,6,6,4,1
+RM388,36-45,Sales,Marketing,4,Female,3,2,Sales Executive,2,5715,5k-10k,7,12,3,3,8,5,5,4,1
+RM392,36-45,Research & Development,Medical,2,Female,2,2,Laboratory Technician,3,3448,Upto 5k,6,22,4,2,20,3,1,0,0
+RM418,36-45,Sales,Life Sciences,3,Female,3,5,Manager,3,18041,15k+,0,14,3,4,21,2,20,15,1
+RM449,36-45,Research & Development,Life Sciences,2,Female,3,4,Manufacturing Director,3,13237,10k-15k,7,15,3,3,22,3,20,6,5
+RM459,36-45,Sales,Other,3,Male,1,3,Sales Executive,1,10932,10k-15k,3,15,3,3,20,2,1,0,0
+RM534,36-45,Sales,Life Sciences,4,Male,2,3,Sales Executive,1,10475,10k-15k,5,21,4,3,20,2,18,13,1
+RM554,36-45,Research & Development,Medical,4,Female,2,1,Research Scientist,4,2342,Upto 5k,0,20,4,4,5,2,4,2,2
+RM583,36-45,Research & Development,Medical,3,Female,4,2,Healthcare Representative,2,4244,Upto 5k,1,24,4,4,8,2,8,7,3
+RM602,36-45,Research & Development,Medical,1,Male,2,2,Laboratory Technician,3,5094,5k-10k,6,14,3,4,10,6,1,0,0
+RM685,36-45,Sales,Marketing,1,Male,2,3,Sales Executive,2,9705,5k-10k,2,12,3,2,11,2,1,0,0
+RM692,36-45,Research & Development,Medical,4,Male,3,1,Research Scientist,2,3617,Upto 5k,8,14,3,4,3,2,1,1,0
+RM707,36-45,Sales,Life Sciences,2,Female,4,4,Sales Executive,2,13194,10k-15k,4,16,3,4,22,2,1,0,0
+RM769,36-45,Sales,Marketing,3,Male,3,2,Sales Executive,1,8396,5k-10k,1,14,3,2,8,3,7,7,7
+RM786,36-45,Research & Development,Technical Degree,1,Male,3,3,Healthcare Representative,4,10322,10k-15k,4,20,4,4,14,6,11,10,11
+RM815,36-45,Research & Development,Medical,3,Male,2,5,Research Director,3,19626,15k+,1,14,3,1,21,2,20,7,4
+RM838,36-45,Research & Development,Medical,2,Female,3,3,Research Director,3,13499,10k-15k,9,17,3,3,20,3,18,7,2
+RM846,36-45,Research & Development,Medical,3,Female,2,2,Research Scientist,4,4422,Upto 5k,3,13,3,4,16,3,1,1,0
+RM867,36-45,Sales,Medical,2,Male,3,2,Sales Executive,2,4327,Upto 5k,5,12,3,4,5,2,0,0,0
+RM885,36-45,Sales,Technical Degree,2,Female,2,2,Sales Executive,2,6852,5k-10k,7,12,3,2,7,2,5,1,1
+RM947,36-45,Sales,Marketing,4,Male,2,3,Sales Executive,2,9094,5k-10k,2,12,3,3,9,2,5,4,1
+RM958,36-45,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,3,3544,Upto 5k,9,16,3,2,6,0,4,2,0
+RM960,36-45,Research & Development,Life Sciences,3,Male,3,2,Research Scientist,4,4661,Upto 5k,1,13,3,3,9,4,9,8,8
+RM968,36-45,Research & Development,Life Sciences,2,Male,3,1,Laboratory Technician,2,2387,Upto 5k,3,22,4,3,7,3,4,2,0
+RM979,36-45,Research & Development,Medical,2,Female,4,2,Healthcare Representative,3,6377,5k-10k,5,20,4,2,15,0,12,11,11
+RM1030,36-45,Research & Development,Other,3,Male,3,2,Laboratory Technician,3,3975,Upto 5k,3,11,3,3,11,2,8,7,0
+RM1041,36-45,Research & Development,Medical,4,Male,2,3,Research Director,2,13757,10k-15k,2,11,3,3,16,5,9,8,4
+RM1046,36-45,Research & Development,Medical,3,Male,3,1,Research Scientist,3,2345,Upto 5k,2,14,3,3,8,3,3,1,1
+RM1084,36-45,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,1,2018,Upto 5k,3,14,3,2,15,3,5,4,1
+RM1095,36-45,Sales,Medical,1,Male,3,2,Sales Executive,1,5473,5k-10k,0,12,3,4,9,5,8,4,7
+RM1097,36-45,Human Resources,Medical,3,Male,3,4,Manager,4,16437,15k+,1,21,4,4,21,2,21,7,7
+RM1099,36-45,Research & Development,Life Sciences,4,Male,3,2,Healthcare Representative,4,4069,Upto 5k,3,18,3,3,8,2,2,2,2
+RM1133,36-45,Sales,Life Sciences,4,Female,3,2,Sales Executive,1,4639,Upto 5k,1,15,3,3,5,2,5,4,1
+RM1157,36-45,Research & Development,Life Sciences,1,Female,2,3,Manufacturing Director,3,10435,10k-15k,1,13,3,4,18,2,18,15,14
+RM1165,36-45,Research & Development,Life Sciences,3,Female,3,3,Manufacturing Director,4,7945,5k-10k,6,15,3,4,18,2,4,2,3
+RM1172,36-45,Research & Development,Life Sciences,1,Male,3,1,Laboratory Technician,1,2166,Upto 5k,3,14,3,2,10,3,4,2,0
+RM1230,36-45,Research & Development,Life Sciences,2,Female,3,2,Manufacturing Director,1,6516,5k-10k,2,16,3,2,18,3,1,0,0
+RM1243,36-45,Sales,Medical,2,Male,3,5,Manager,2,19833,15k+,1,14,3,2,21,3,21,8,12
+RM1287,36-45,Research & Development,Life Sciences,3,Female,3,1,Laboratory Technician,1,3377,Upto 5k,4,17,3,4,7,5,4,3,0
+RM1300,36-45,Research & Development,Life Sciences,3,Female,3,2,Healthcare Representative,4,6513,5k-10k,4,17,3,4,12,3,5,3,0
+RM1305,36-45,Research & Development,Life Sciences,2,Female,3,2,Healthcare Representative,1,4448,Upto 5k,2,12,3,2,15,3,7,4,7
+RM1349,36-45,Research & Development,Life Sciences,1,Male,3,4,Manager,1,16823,15k+,2,11,3,1,22,3,19,7,11
+RM1410,36-45,Research & Development,Technical Degree,4,Female,3,2,Laboratory Technician,3,6323,5k-10k,1,11,3,1,10,2,10,9,9
+RM1411,36-45,Sales,Marketing,2,Female,3,2,Sales Executive,2,5677,5k-10k,3,14,3,3,15,4,11,8,5
+RM1428,36-45,Research & Development,Life Sciences,1,Male,3,1,Laboratory Technician,4,2406,Upto 5k,8,19,3,3,8,3,1,0,0
+RM1456,36-45,Research & Development,Life Sciences,3,Male,2,1,Research Scientist,3,2809,Upto 5k,2,14,3,4,8,2,2,2,2
+RM1458,36-45,Research & Development,Medical,3,Female,3,1,Research Scientist,3,2001,Upto 5k,2,14,3,2,20,2,5,3,0
+RM001,36-45,Sales,Life Sciences,2,Female,3,2,Sales Executive,4,5993,5k-10k,8,11,3,1,8,0,6,4,0
+RM046,36-45,Research & Development,Technical Degree,2,Female,3,5,Research Director,3,19545,15k+,1,12,3,4,23,0,22,15,15
+RM134,36-45,Sales,Life Sciences,3,Male,3,3,Sales Executive,3,8189,5k-10k,3,13,3,3,12,2,9,7,0
+RM148,36-45,Research & Development,Life Sciences,4,Male,2,4,Manager,1,17181,15k+,4,13,3,2,21,2,7,6,7
+RM149,36-45,Research & Development,Life Sciences,3,Male,3,1,Laboratory Technician,1,2238,Upto 5k,2,21,4,4,7,2,5,0,1
+RM167,36-45,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,3,2451,Upto 5k,4,12,3,1,13,2,9,8,1
+RM183,36-45,Sales,Marketing,2,Female,3,1,Sales Representative,2,3140,Upto 5k,1,22,4,4,4,5,4,3,0
+RM216,36-45,Sales,Life Sciences,4,Female,3,3,Manager,4,13591,10k-15k,3,18,3,3,16,3,1,0,0
+RM243,36-45,Research & Development,Life Sciences,3,Male,3,2,Research Scientist,1,3072,Upto 5k,2,16,3,1,17,2,1,0,0
+RM301,36-45,Sales,Life Sciences,4,Male,3,4,Manager,2,16015,15k+,1,19,3,2,22,2,22,10,0
+RM347,36-45,Research & Development,Medical,4,Male,2,2,Manufacturing Director,2,6032,5k-10k,6,15,3,4,8,3,5,4,1
+RM367,36-45,Sales,Marketing,1,Male,3,2,Sales Executive,2,9355,5k-10k,1,18,3,3,8,5,8,7,7
+RM404,36-45,Sales,Marketing,2,Male,4,3,Sales Executive,1,8392,5k-10k,1,16,3,3,10,2,10,7,0
+RM447,36-45,Sales,Life Sciences,4,Male,3,2,Sales Executive,4,6230,5k-10k,7,14,3,4,16,3,14,3,1
+RM460,36-45,Research & Development,Other,1,Female,2,2,Healthcare Representative,3,6811,5k-10k,2,17,3,1,10,3,8,7,0
+RM467,36-45,Sales,Life Sciences,2,Female,3,4,Manager,1,16595,15k+,7,16,3,2,22,2,18,16,11
+RM536,36-45,Human Resources,Human Resources,2,Male,2,5,Manager,4,19141,15k+,3,15,3,2,23,2,21,6,12
+RM539,36-45,Human Resources,Human Resources,4,Male,2,5,Manager,3,19189,15k+,1,12,3,2,22,3,22,7,2
+RM668,36-45,Research & Development,Life Sciences,2,Female,1,1,Laboratory Technician,4,2778,Upto 5k,4,13,3,3,10,1,7,7,1
+RM687,36-45,Research & Development,Medical,4,Male,3,1,Laboratory Technician,1,4721,Upto 5k,2,13,3,3,20,3,18,13,2
+RM717,36-45,Research & Development,Medical,1,Male,3,5,Research Director,3,19419,15k+,2,17,3,2,21,2,18,16,0
+RM738,36-45,Research & Development,Medical,4,Female,3,2,Manufacturing Director,3,5003,5k-10k,6,14,3,2,8,6,2,2,2
+RM747,36-45,Research & Development,Life Sciences,2,Female,1,5,Research Director,3,19973,15k+,1,22,4,2,21,3,21,16,5
+RM784,36-45,Research & Development,Technical Degree,2,Female,4,1,Research Scientist,3,3376,Upto 5k,1,13,3,3,10,3,10,6,0
+RM831,36-45,Research & Development,Life Sciences,2,Male,3,1,Laboratory Technician,4,4766,Upto 5k,3,11,3,1,6,4,1,0,0
+RM865,36-45,Research & Development,Life Sciences,1,Male,2,1,Research Scientist,1,2107,Upto 5k,6,17,3,1,5,2,1,0,0
+RM952,36-45,Sales,Medical,3,Male,1,2,Sales Executive,2,6151,5k-10k,1,13,3,1,19,4,19,2,11
+RM961,36-45,Sales,Marketing,3,Female,3,2,Sales Executive,1,4103,Upto 5k,0,17,3,4,10,2,9,3,1
+RM989,36-45,Research & Development,Life Sciences,4,Female,3,2,Research Scientist,4,5467,5k-10k,3,14,3,1,12,4,6,2,3
+RM1029,36-45,Research & Development,Medical,2,Male,4,1,Research Scientist,3,2127,Upto 5k,2,12,3,1,7,5,4,2,0
+RM1197,36-45,Sales,Life Sciences,4,Male,3,3,Sales Executive,3,7082,5k-10k,3,16,3,4,21,2,2,0,0
+RM1219,36-45,Sales,Marketing,4,Male,3,3,Sales Executive,3,9241,5k-10k,1,12,3,2,10,3,10,8,8
+RM1229,36-45,Human Resources,Human Resources,3,Male,1,2,Human Resources,2,6430,5k-10k,6,19,3,2,10,4,3,2,1
+RM1267,36-45,Research & Development,Life Sciences,3,Male,3,1,Laboratory Technician,1,2289,Upto 5k,1,20,4,2,5,2,5,3,0
+RM1295,36-45,Research & Development,Life Sciences,2,Male,4,2,Healthcare Representative,2,6870,5k-10k,3,12,3,1,11,3,3,2,1
+RM1296,36-45,Sales,Marketing,3,Female,3,3,Sales Executive,3,10447,10k-15k,0,13,3,4,23,3,22,14,13
+RM1357,36-45,Sales,Marketing,3,Female,3,2,Sales Executive,2,4393,Upto 5k,5,21,4,3,14,3,5,4,1
+RM1421,36-45,Research & Development,Life Sciences,4,Male,3,1,Research Scientist,4,2782,Upto 5k,3,22,4,1,12,3,5,3,1
+RM1446,36-45,Research & Development,Life Sciences,1,Female,2,4,Manufacturing Director,2,13570,10k-15k,0,23,4,3,21,3,20,7,0
+RM1449,36-45,Sales,Life Sciences,3,Male,2,2,Sales Executive,2,8938,5k-10k,2,11,3,3,14,5,5,4,0
+RM028,36-45,Sales,Marketing,3,Male,3,2,Sales Executive,2,6825,5k-10k,0,11,3,4,10,2,9,7,4
+RM198,36-45,Research & Development,Medical,3,Female,3,2,Manufacturing Director,3,5265,5k-10k,2,16,3,2,11,5,5,3,0
+RM232,36-45,Research & Development,Technical Degree,3,Male,3,5,Manager,4,19232,15k+,1,11,3,4,22,3,22,17,11
+RM254,36-45,Research & Development,Life Sciences,4,Female,4,2,Research Scientist,1,6545,5k-10k,3,13,3,3,10,1,3,2,0
+RM257,36-45,Research & Development,Medical,4,Female,2,1,Laboratory Technician,1,2593,Upto 5k,0,11,3,3,10,4,9,6,7
+RM282,36-45,Sales,Life Sciences,2,Male,3,2,Sales Executive,3,4907,Upto 5k,1,25,4,3,20,3,20,16,11
+RM296,36-45,Sales,Marketing,3,Female,3,4,Sales Executive,2,13525,10k-15k,5,14,3,4,23,2,20,4,4
+RM349,36-45,Research & Development,Life Sciences,1,Female,3,4,Research Director,4,15992,15k+,2,14,3,2,16,2,1,0,0
+RM351,36-45,Human Resources,Technical Degree,3,Male,3,1,Human Resources,3,2696,Upto 5k,0,11,3,3,4,5,3,2,1
+RM357,36-45,Research & Development,Other,1,Male,2,2,Healthcare Representative,4,6781,5k-10k,3,23,4,2,14,6,1,0,0
+RM389,36-45,Research & Development,Life Sciences,2,Female,3,1,Laboratory Technician,1,2576,Upto 5k,3,16,3,2,8,5,5,2,1
+RM410,36-45,Research & Development,Life Sciences,1,Female,3,2,Research Scientist,3,4556,Upto 5k,2,11,3,2,19,3,5,4,0
+RM414,36-45,Research & Development,Technical Degree,4,Female,2,2,Healthcare Representative,4,4523,Upto 5k,0,11,3,4,7,4,6,5,0
+RM442,36-45,Research & Development,Other,2,Male,3,1,Laboratory Technician,3,2093,Upto 5k,4,17,3,4,8,4,2,2,2
+RM452,36-45,Research & Development,Medical,4,Male,3,3,Manufacturing Director,1,7406,5k-10k,1,21,4,4,10,5,10,9,5
+RM489,36-45,Research & Development,Life Sciences,3,Female,3,2,Healthcare Representative,4,4089,Upto 5k,1,13,3,2,10,4,10,2,2
+RM548,36-45,Research & Development,Medical,3,Male,4,1,Research Scientist,3,2759,Upto 5k,6,12,3,4,7,2,2,2,2
+RM585,36-45,Research & Development,Life Sciences,2,Male,3,5,Manager,4,18430,15k+,1,13,3,2,24,4,24,7,14
+RM598,36-45,Research & Development,Life Sciences,4,Female,2,2,Manufacturing Director,4,6062,5k-10k,9,13,3,4,8,4,4,3,0
+RM605,36-45,Research & Development,Life Sciences,2,Male,3,2,Manufacturing Director,2,4434,Upto 5k,1,13,3,4,10,3,9,8,7
+RM633,36-45,Research & Development,Medical,2,Male,3,1,Research Scientist,4,2515,Upto 5k,5,14,3,4,8,2,2,1,2
+RM644,36-45,Research & Development,Life Sciences,3,Female,4,2,Laboratory Technician,4,5231,5k-10k,2,13,3,2,17,1,5,3,1
+RM673,36-45,Sales,Medical,3,Female,2,2,Sales Executive,3,6244,5k-10k,7,17,3,1,10,6,5,4,0
+RM742,36-45,Sales,Marketing,4,Male,3,5,Manager,3,18303,15k+,6,13,3,2,21,3,1,0,0
+RM800,36-45,Research & Development,Medical,4,Male,3,4,Manager,1,17665,15k+,0,17,3,4,23,3,22,6,13
+RM825,36-45,Research & Development,Medical,2,Male,1,2,Laboratory Technician,4,4272,Upto 5k,4,19,3,1,16,3,1,0,0
+RM839,36-45,Sales,Life Sciences,3,Male,3,4,Sales Executive,1,13758,10k-15k,0,12,3,2,22,2,21,9,13
+RM840,36-45,Sales,Marketing,2,Male,3,2,Sales Executive,1,5155,5k-10k,7,13,3,4,9,3,6,4,1
+RM879,36-45,Human Resources,Medical,4,Male,4,2,Human Resources,1,6272,5k-10k,7,16,3,1,10,3,4,3,0
+RM888,36-45,Research & Development,Medical,1,Female,3,3,Research Director,1,13191,10k-15k,3,17,3,3,20,6,1,0,0
+RM926,36-45,Research & Development,Medical,2,Female,4,2,Research Scientist,2,2372,Upto 5k,6,16,3,4,18,2,1,0,0
+RM955,36-45,Research & Development,Life Sciences,3,Male,3,4,Manager,3,17861,15k+,0,13,3,4,21,3,20,8,2
+RM1000,36-45,Human Resources,Human Resources,3,Female,3,4,Manager,1,16799,15k+,0,14,3,3,21,5,20,7,0
+RM1051,36-45,Research & Development,Medical,1,Female,3,1,Laboratory Technician,4,3673,Upto 5k,1,13,3,3,12,3,12,9,5
+RM1089,36-45,Research & Development,Medical,3,Male,2,1,Laboratory Technician,2,4841,Upto 5k,4,14,3,2,4,3,1,0,0
+RM1094,36-45,Research & Development,Life Sciences,4,Male,3,3,Healthcare Representative,4,10124,10k-15k,2,14,3,3,24,3,20,8,13
+RM1130,36-45,Research & Development,Other,4,Male,2,5,Manager,4,19613,15k+,8,22,4,4,24,2,1,0,0
+RM1264,36-45,Research & Development,Medical,2,Male,3,1,Laboratory Technician,2,2766,Upto 5k,8,22,4,2,7,6,5,3,0
+RM1288,36-45,Research & Development,Medical,2,Male,4,2,Healthcare Representative,1,5538,5k-10k,5,18,3,3,10,2,0,0,0
+RM1321,36-45,Research & Development,Technical Degree,3,Male,3,1,Research Scientist,3,2936,Upto 5k,3,22,4,2,10,1,6,3,3
+RM1326,36-45,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,3,3968,Upto 5k,4,13,3,4,8,3,0,0,0
+RM1358,36-45,Research & Development,Medical,3,Male,3,3,Research Director,1,13348,10k-15k,9,13,3,2,18,3,13,7,5
+RM1379,36-45,Sales,Marketing,2,Male,3,2,Sales Executive,4,5087,5k-10k,3,12,3,3,14,4,0,0,0
+RM1405,36-45,Research & Development,Life Sciences,4,Male,2,2,Research Scientist,3,4332,Upto 5k,1,12,3,4,20,2,20,9,3
+RM1420,36-45,Research & Development,Life Sciences,4,Male,3,2,Research Scientist,1,5410,5k-10k,6,17,3,3,9,3,4,3,1
+RM1444,36-45,Research & Development,Life Sciences,1,Male,3,5,Manager,3,18880,15k+,5,11,3,1,24,2,22,6,4
+RM036,36-45,Research & Development,Medical,4,Female,4,1,Research Scientist,3,2645,Upto 5k,1,12,3,4,6,3,5,3,1
+RM120,36-45,Sales,Life Sciences,3,Male,3,4,Manager,4,16959,15k+,1,12,3,4,25,3,25,12,4
+RM131,36-45,Research & Development,Medical,2,Female,4,1,Research Scientist,3,4739,Upto 5k,4,12,3,4,18,2,3,2,1
+RM194,36-45,Research & Development,Medical,4,Male,4,1,Research Scientist,4,2089,Upto 5k,4,14,3,4,7,3,5,4,2
+RM236,36-45,Sales,Marketing,4,Female,3,4,Manager,4,16064,15k+,5,22,4,3,22,3,17,13,1
+RM316,36-45,Research & Development,Life Sciences,3,Female,3,1,Laboratory Technician,4,2455,Upto 5k,0,19,3,1,9,5,8,7,1
+RM331,36-45,Research & Development,Life Sciences,3,Female,2,2,Laboratory Technician,3,5257,5k-10k,1,11,3,2,9,3,9,7,0
+RM334,36-45,Research & Development,Life Sciences,3,Female,3,3,Healthcare Representative,1,9985,5k-10k,8,16,3,1,10,1,1,0,0
+RM391,36-45,Research & Development,Life Sciences,1,Male,2,4,Research Director,2,14336,10k-15k,1,11,3,3,25,3,25,10,3
+RM396,36-45,Research & Development,Medical,4,Male,3,1,Laboratory Technician,4,2258,Upto 5k,7,20,4,1,8,1,3,2,1
+RM397,36-45,Research & Development,Other,3,Female,3,2,Healthcare Representative,3,4522,Upto 5k,4,14,3,4,8,3,5,2,0
+RM490,36-45,Research & Development,Other,2,Male,2,4,Research Director,4,16627,15k+,4,14,3,3,21,3,1,0,0
+RM492,36-45,Research & Development,Medical,4,Male,3,2,Laboratory Technician,3,5679,5k-10k,3,13,3,2,10,3,8,7,4
+RM549,36-45,Sales,Life Sciences,4,Male,2,2,Sales Executive,4,6804,5k-10k,3,18,3,3,7,5,2,2,2
+RM610,36-45,Research & Development,Life Sciences,2,Male,3,4,Research Director,1,17159,15k+,6,24,4,3,22,3,4,1,1
+RM651,36-45,Research & Development,Life Sciences,4,Female,3,2,Healthcare Representative,4,5562,5k-10k,4,13,3,2,12,2,5,2,2
+RM662,36-45,Research & Development,Life Sciences,1,Female,3,2,Manufacturing Director,2,4765,Upto 5k,4,21,4,3,4,2,1,0,0
+RM776,36-45,Sales,Medical,3,Male,2,3,Sales Executive,4,10798,10k-15k,5,13,3,3,18,5,1,0,0
+RM813,36-45,Research & Development,Life Sciences,3,Female,3,3,Manufacturing Director,1,10820,10k-15k,8,11,3,3,18,1,8,7,0
+RM850,36-45,Sales,Marketing,1,Female,1,2,Sales Executive,3,5346,5k-10k,8,13,3,2,7,2,4,3,1
+RM899,36-45,Research & Development,Life Sciences,3,Male,1,5,Research Director,4,19740,15k+,3,14,3,2,25,2,8,7,0
+RM927,36-45,Sales,Marketing,4,Female,2,3,Sales Executive,4,10231,10k-15k,3,14,3,4,23,3,21,7,15
+RM996,36-45,Research & Development,Medical,1,Female,2,2,Research Scientist,3,4081,Upto 5k,1,14,3,1,20,3,20,7,1
+RM1134,36-45,Research & Development,Technical Degree,4,Male,4,1,Laboratory Technician,2,4876,Upto 5k,5,12,3,3,8,0,6,4,0
+RM1186,36-45,Research & Development,Life Sciences,3,Male,2,4,Research Director,3,17603,15k+,1,24,4,1,14,3,14,10,6
+RM1217,36-45,Sales,Medical,4,Male,3,2,Sales Executive,4,7847,5k-10k,1,17,3,1,10,3,10,9,8
+RM1263,36-45,Research & Development,Technical Degree,3,Male,2,1,Research Scientist,3,2437,Upto 5k,9,16,3,4,6,4,1,0,0
+RM1270,36-45,Human Resources,Life Sciences,2,Male,3,1,Human Resources,4,3539,Upto 5k,0,13,3,2,10,5,9,7,1
+RM1294,36-45,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,3,2438,Upto 5k,4,13,3,3,7,2,3,2,1
+RM1317,36-45,Sales,Life Sciences,1,Male,3,2,Sales Executive,4,5675,5k-10k,1,20,4,3,7,5,7,7,7
+RM1331,36-45,Research & Development,Medical,1,Female,2,5,Manager,3,19392,15k+,7,13,3,4,21,2,16,12,6
+RM1400,36-45,Research & Development,Life Sciences,1,Male,3,3,Healthcare Representative,3,7510,5k-10k,1,17,3,2,10,1,10,9,0
+RM029,36-45,Research & Development,Medical,1,Female,2,3,Healthcare Representative,4,10248,10k-15k,3,14,3,4,24,4,22,6,5
+RM032,36-45,Research & Development,Other,4,Male,3,2,Healthcare Representative,4,6465,5k-10k,2,13,3,4,9,5,4,2,1
+RM053,36-45,Sales,Marketing,2,Female,3,2,Sales Executive,1,5454,5k-10k,5,21,4,3,9,2,4,3,1
+RM100,36-45,Research & Development,Medical,2,Male,3,2,Laboratory Technician,2,2042,Upto 5k,4,12,3,3,17,3,3,2,1
+RM287,36-45,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,3,3161,Upto 5k,3,22,4,4,19,0,1,0,0
+RM494,36-45,Human Resources,Life Sciences,1,Female,2,2,Human Resources,3,5985,5k-10k,4,11,3,2,10,1,2,2,0
+RM498,36-45,Research & Development,Other,4,Male,3,5,Manager,4,19513,15k+,4,12,3,1,26,2,2,2,0
+RM544,36-45,Research & Development,Medical,1,Male,1,1,Laboratory Technician,3,3708,Upto 5k,2,14,3,3,9,5,5,2,1
+RM618,36-45,Research & Development,Medical,4,Male,3,2,Healthcare Representative,2,5933,5k-10k,9,12,3,4,10,2,5,2,2
+RM632,36-45,Research & Development,Life Sciences,1,Male,4,1,Laboratory Technician,4,2818,Upto 5k,2,24,4,3,10,2,3,2,0
+RM659,36-45,Research & Development,Life Sciences,2,Male,3,1,Research Scientist,1,2559,Upto 5k,1,13,3,4,8,0,8,7,7
+RM751,36-45,Sales,Medical,4,Female,4,4,Sales Executive,4,13320,10k-15k,3,18,3,3,23,2,12,11,11
+RM790,36-45,Human Resources,Medical,2,Male,2,3,Human Resources,1,10482,10k-15k,9,14,3,4,24,1,20,6,3
+RM858,36-45,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,3,2936,Upto 5k,1,11,3,3,6,4,6,4,0
+RM863,36-45,Research & Development,Life Sciences,4,Male,1,1,Research Scientist,3,2290,Upto 5k,2,13,3,4,6,3,0,0,0
+RM876,36-45,Research & Development,Other,4,Male,3,2,Research Scientist,4,4541,Upto 5k,1,25,4,2,20,3,20,11,13
+RM892,36-45,Research & Development,Life Sciences,1,Female,4,1,Research Scientist,4,2011,Upto 5k,1,13,3,4,10,5,10,5,7
+RM908,36-45,Sales,Marketing,2,Male,3,5,Manager,2,18213,15k+,7,11,3,3,26,5,22,9,3
+RM923,36-45,Research & Development,Life Sciences,3,Male,4,5,Manager,1,19190,15k+,1,14,3,4,26,4,25,9,14
+RM929,36-45,Research & Development,Medical,1,Female,3,3,Healthcare Representative,4,7978,5k-10k,1,11,3,4,10,2,10,7,0
+RM954,36-45,Research & Development,Life Sciences,1,Male,3,1,Laboratory Technician,1,2362,Upto 5k,4,12,3,3,10,4,3,2,1
+RM1043,36-45,Research & Development,Life Sciences,3,Male,2,1,Laboratory Technician,3,3162,Upto 5k,3,14,3,4,7,5,5,2,0
+RM1047,36-45,Research & Development,Life Sciences,4,Male,3,1,Research Scientist,2,3420,Upto 5k,1,13,3,3,6,3,5,2,1
+RM1052,36-45,Sales,Marketing,1,Female,3,2,Sales Executive,3,4768,Upto 5k,7,12,3,3,11,4,1,0,0
+RM1063,36-45,Research & Development,Medical,2,Male,3,3,Manufacturing Director,3,10209,10k-15k,5,18,3,2,16,2,2,2,2
+RM1079,36-45,Research & Development,Life Sciences,4,Male,3,4,Research Director,1,16328,15k+,3,13,3,3,24,1,20,6,14
+RM1141,36-45,Research & Development,Medical,2,Female,3,5,Research Director,4,19049,15k+,0,14,3,4,23,4,22,7,1
+RM1166,36-45,Human Resources,Human Resources,1,Male,3,2,Human Resources,4,5743,5k-10k,4,11,3,3,14,3,10,7,0
+RM1201,36-45,Human Resources,Life Sciences,3,Female,3,1,Human Resources,4,3195,Upto 5k,4,18,3,1,8,2,2,2,2
+RM1215,36-45,Research & Development,Life Sciences,3,Female,4,3,Healthcare Representative,4,7879,5k-10k,1,19,3,2,9,2,8,7,6
+RM1280,36-45,Research & Development,Medical,3,Male,3,1,Research Scientist,2,2342,Upto 5k,1,12,3,3,6,2,5,3,2
+RM1353,36-45,Research & Development,Life Sciences,2,Male,4,2,Healthcare Representative,1,5033,5k-10k,2,15,3,4,10,5,2,0,2
+RM1436,36-45,Research & Development,Medical,2,Male,3,1,Research Scientist,4,2436,Upto 5k,6,12,3,3,6,2,4,3,1
+RM068,36-45,Research & Development,Life Sciences,2,Male,3,3,Research Scientist,1,9724,5k-10k,2,17,3,3,25,2,1,0,0
+RM078,36-45,Research & Development,Other,4,Male,3,3,Research Director,1,13245,10k-15k,4,14,3,2,17,3,0,0,0
+RM142,36-45,Research & Development,Medical,3,Male,3,1,Research Scientist,4,3452,Upto 5k,5,13,3,2,9,2,6,5,0
+RM154,36-45,Research & Development,Life Sciences,2,Male,3,2,Laboratory Technician,2,2348,Upto 5k,8,18,3,3,20,2,17,9,0
+RM175,36-45,Sales,Life Sciences,3,Female,3,2,Sales Executive,1,5006,5k-10k,4,11,3,1,9,3,5,4,0
+RM195,36-45,Research & Development,Medical,1,Male,2,4,Manager,4,16792,15k+,9,23,4,4,22,1,20,8,11
+RM219,36-45,Sales,Medical,4,Female,2,3,Sales Executive,4,8865,5k-10k,6,12,3,4,23,2,19,7,12
+RM245,36-45,Research & Development,Other,3,Male,4,5,Manager,4,19202,15k+,0,11,3,3,25,2,24,0,1
+RM250,36-45,Research & Development,Life Sciences,1,Male,4,2,Manufacturing Director,3,6434,5k-10k,4,17,3,4,9,1,3,2,0
+RM269,36-45,Research & Development,Medical,3,Male,3,4,Healthcare Representative,4,13496,10k-15k,0,14,3,2,21,2,20,7,4
+RM312,36-45,Research & Development,Life Sciences,1,Male,3,3,Laboratory Technician,1,5210,5k-10k,1,18,3,1,24,2,24,9,9
+RM335,36-45,Research & Development,Other,4,Male,3,2,Research Scientist,4,3697,Upto 5k,9,14,3,1,12,3,10,9,9
+RM408,36-45,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,4,2654,Upto 5k,3,21,4,4,8,3,2,2,0
+RM453,36-45,Sales,Other,4,Male,3,2,Sales Executive,2,4805,Upto 5k,0,19,3,2,9,3,8,7,3
+RM505,36-45,Sales,Life Sciences,1,Female,3,2,Sales Executive,1,4286,Upto 5k,2,14,3,4,5,4,1,1,0
+RM565,36-45,Sales,Technical Degree,2,Male,1,2,Sales Representative,3,6632,5k-10k,0,13,3,1,9,3,8,7,3
+RM604,36-45,Research & Development,Life Sciences,2,Female,2,1,Research Scientist,3,2274,Upto 5k,1,14,3,4,1,3,1,0,0
+RM626,36-45,Sales,Marketing,4,Male,3,3,Sales Executive,1,10761,10k-15k,4,12,3,3,18,2,5,4,0
+RM697,36-45,Research & Development,Life Sciences,3,Male,3,2,Laboratory Technician,2,4447,Upto 5k,1,12,3,2,9,5,9,7,0
+RM714,36-45,Research & Development,Medical,4,Female,3,1,Laboratory Technician,4,2270,Upto 5k,3,14,3,4,8,2,5,3,0
+RM719,36-45,Research & Development,Life Sciences,4,Male,3,2,Laboratory Technician,1,3633,Upto 5k,1,15,3,3,9,2,9,8,0
+RM756,36-45,Sales,Life Sciences,4,Female,3,4,Manager,4,17650,15k+,3,13,3,2,26,4,9,3,1
+RM760,36-45,Human Resources,Medical,2,Male,3,1,Human Resources,2,2177,Upto 5k,1,16,3,1,6,3,6,3,0
+RM806,36-45,Sales,Life Sciences,2,Female,2,2,Sales Executive,3,5593,5k-10k,1,13,3,4,15,2,15,10,4
+RM855,36-45,Research & Development,Medical,1,Female,3,1,Research Scientist,3,4477,Upto 5k,4,19,3,3,7,2,3,2,0
+RM914,36-45,Sales,Marketing,1,Female,1,5,Manager,2,18824,15k+,2,16,3,1,26,2,24,10,1
+RM937,36-45,Research & Development,Medical,2,Female,3,5,Manager,2,18061,15k+,3,22,4,3,22,4,0,0,0
+RM1035,36-45,Research & Development,Medical,2,Male,1,3,Healthcare Representative,1,10851,10k-15k,2,18,3,2,24,2,7,7,0
+RM1038,36-45,Research & Development,Technical Degree,2,Male,3,3,Manufacturing Director,4,9380,5k-10k,4,18,3,4,10,4,3,1,1
+RM1093,36-45,Research & Development,Technical Degree,4,Male,3,1,Research Scientist,4,2132,Upto 5k,4,20,4,4,8,3,5,4,0
+RM1100,36-45,Research & Development,Technical Degree,1,Male,3,3,Healthcare Representative,2,7441,5k-10k,1,12,3,1,10,4,10,8,7
+RM1143,36-45,Research & Development,Medical,3,Female,1,2,Laboratory Technician,1,5769,5k-10k,1,14,3,1,10,3,10,7,1
+RM1144,36-45,Sales,Marketing,1,Male,2,2,Sales Executive,1,4385,Upto 5k,1,15,3,1,10,2,10,7,4
+RM1161,36-45,Research & Development,Other,4,Female,2,2,Manufacturing Director,4,5770,5k-10k,1,19,3,1,10,3,10,7,3
+RM1222,36-45,Research & Development,Life Sciences,3,Male,2,3,Healthcare Representative,3,10748,10k-15k,3,23,4,4,25,3,23,15,14
+RM1226,36-45,Research & Development,Technical Degree,4,Female,2,4,Research Director,2,16704,15k+,1,11,3,3,21,2,21,6,8
+RM1244,36-45,Human Resources,Life Sciences,3,Female,1,3,Human Resources,3,9756,5k-10k,4,21,4,3,9,2,5,0,0
+RM1315,36-45,Sales,Life Sciences,3,Female,3,2,Sales Executive,3,5154,5k-10k,4,22,4,2,10,3,8,7,5
+RM1347,36-45,Research & Development,Life Sciences,2,Female,2,2,Manufacturing Director,4,5906,5k-10k,0,13,3,4,10,2,9,8,3
+RM1363,36-45,Research & Development,Medical,2,Male,3,2,Healthcare Representative,3,5399,5k-10k,4,12,3,3,12,3,4,2,0
+RM1455,36-45,Sales,Life Sciences,4,Female,3,2,Sales Executive,3,4850,Upto 5k,8,15,3,3,8,3,5,3,0
+RM030,46-55,Sales,Marketing,2,Female,3,5,Manager,1,18947,15k+,3,12,3,4,22,2,2,2,2
+RM049,46-55,Sales,Marketing,1,Male,3,2,Sales Executive,4,5772,5k-10k,4,21,4,3,14,4,9,6,0
+RM080,46-55,Human Resources,Medical,2,Male,3,2,Human Resources,2,5021,5k-10k,8,22,4,4,16,2,4,2,0
+RM090,46-55,Sales,Medical,3,Male,2,3,Sales Executive,4,9619,5k-10k,1,16,3,4,9,3,9,8,4
+RM094,46-55,Research & Development,Medical,3,Male,2,3,Healthcare Representative,1,10673,10k-15k,2,13,3,3,21,5,10,9,9
+RM179,46-55,Sales,Marketing,2,Female,3,3,Sales Executive,1,10453,10k-15k,1,25,4,3,24,2,24,13,15
+RM210,46-55,Research & Development,Medical,4,Male,3,3,Healthcare Representative,1,9396,5k-10k,7,16,3,3,17,3,4,2,0
+RM264,46-55,Sales,Technical Degree,3,Female,1,4,Manager,2,16872,15k+,3,12,3,2,28,2,7,7,7
+RM366,46-55,Research & Development,Medical,3,Female,3,2,Manufacturing Director,3,5258,5k-10k,2,14,3,3,7,2,1,0,0
+RM413,46-55,Research & Development,Medical,3,Female,3,2,Manufacturing Director,3,4810,Upto 5k,2,14,3,3,19,5,10,7,0
+RM430,46-55,Research & Development,Life Sciences,1,Male,3,4,Research Director,3,17861,15k+,6,13,3,3,26,2,3,2,0
+RM434,46-55,Sales,Marketing,3,Female,2,3,Sales Executive,4,9071,5k-10k,2,19,3,3,15,3,3,2,1
+RM466,46-55,Research & Development,Medical,1,Female,3,3,Healthcare Representative,3,10527,10k-15k,5,11,3,4,28,3,2,2,1
+RM724,46-55,Research & Development,Medical,4,Male,3,3,Manufacturing Director,3,10845,10k-15k,6,13,3,2,13,3,8,7,0
+RM771,46-55,Research & Development,Medical,4,Male,3,5,Research Director,4,19627,15k+,9,17,3,4,23,0,2,2,2
+RM779,46-55,Research & Development,Life Sciences,4,Female,2,2,Research Scientist,1,4615,Upto 5k,8,23,4,1,19,2,16,13,1
+RM811,46-55,Sales,Marketing,1,Male,3,4,Manager,3,17465,15k+,3,12,3,4,23,3,12,9,4
+RM862,46-55,Sales,Marketing,3,Female,3,4,Manager,1,17048,15k+,8,23,4,1,28,2,26,15,15
+RM870,46-55,Research & Development,Life Sciences,4,Male,3,5,Research Director,2,19081,15k+,5,11,3,1,25,2,4,2,0
+RM878,46-55,Research & Development,Technical Degree,4,Male,3,2,Manufacturing Director,4,7379,5k-10k,2,11,3,3,12,3,6,3,1
+RM917,46-55,Sales,Marketing,4,Female,2,5,Manager,2,18789,15k+,2,14,3,3,26,2,11,4,0
+RM944,46-55,Human Resources,Life Sciences,4,Female,3,1,Human Resources,1,3423,Upto 5k,6,12,3,3,10,3,7,6,5
+RM1032,46-55,Sales,Marketing,1,Male,3,3,Sales Executive,4,10096,10k-15k,4,11,3,1,28,1,7,7,4
+RM1081,46-55,Sales,Life Sciences,3,Female,3,4,Manager,2,16606,15k+,8,12,3,4,23,2,13,12,5
+RM1136,46-55,Sales,Life Sciences,4,Male,4,4,Manager,1,17567,15k+,1,15,3,2,27,5,26,0,0
+RM1232,46-55,Research & Development,Life Sciences,3,Male,3,2,Healthcare Representative,2,5562,5k-10k,6,14,3,4,19,3,10,7,0
+RM1236,46-55,Sales,Life Sciences,3,Male,3,3,Sales Executive,4,10368,10k-15k,4,12,3,2,13,5,10,6,0
+RM1278,46-55,Research & Development,Medical,3,Male,3,5,Research Director,4,19328,15k+,7,17,3,3,24,3,2,1,2
+RM1286,46-55,Sales,Life Sciences,2,Male,2,2,Sales Executive,2,7991,5k-10k,8,15,3,3,6,3,2,2,2
+RM1299,46-55,Research & Development,Medical,4,Female,3,2,Healthcare Representative,2,8926,5k-10k,4,22,4,4,13,2,9,7,3
+RM1323,46-55,Research & Development,Life Sciences,4,Male,3,3,Manufacturing Director,4,8578,5k-10k,3,14,3,3,12,4,9,8,4
+RM1328,46-55,Sales,Technical Degree,1,Female,4,4,Sales Executive,1,13225,10k-15k,2,12,3,4,25,5,19,17,2
+RM1334,46-55,Sales,Life Sciences,3,Female,3,3,Sales Executive,2,7314,5k-10k,5,21,4,3,14,2,8,7,0
+RM272,46-55,Research & Development,Life Sciences,1,Male,3,3,Manager,2,11849,10k-15k,1,12,3,4,10,2,10,7,9
+RM330,46-55,Research & Development,Life Sciences,4,Male,3,5,Research Director,3,18300,15k+,4,11,3,2,21,2,3,2,1
+RM348,46-55,Sales,Medical,2,Male,3,2,Sales Representative,3,2976,Upto 5k,3,19,3,1,5,3,0,0,0
+RM429,46-55,Research & Development,Medical,1,Female,3,2,Manufacturing Director,4,5070,5k-10k,5,13,3,3,20,2,5,0,0
+RM533,46-55,Sales,Marketing,4,Male,3,2,Sales Executive,1,4960,Upto 5k,2,12,3,4,20,2,7,7,1
+RM545,46-55,Sales,Medical,4,Female,3,4,Sales Executive,3,13770,10k-15k,9,12,3,4,28,2,22,2,11
+RM567,46-55,Sales,Life Sciences,2,Female,4,2,Sales Executive,3,6397,5k-10k,4,12,3,4,8,2,5,4,1
+RM593,46-55,Research & Development,Other,3,Female,3,4,Manager,4,16752,15k+,1,11,3,3,26,3,26,14,3
+RM652,46-55,Sales,Marketing,3,Female,3,2,Sales Executive,4,4537,Upto 5k,0,22,4,1,8,2,7,6,7
+RM666,46-55,Sales,Life Sciences,4,Female,2,1,Sales Representative,4,3294,Upto 5k,1,18,3,1,3,3,3,2,1
+RM708,46-55,Research & Development,Medical,3,Male,4,2,Manufacturing Director,3,5067,5k-10k,1,19,3,3,20,3,19,10,2
+RM720,46-55,Sales,Life Sciences,4,Female,3,2,Sales Executive,4,4163,Upto 5k,1,17,3,3,9,0,9,0,0
+RM1021,46-55,Research & Development,Technical Degree,1,Male,3,1,Research Scientist,4,3420,Upto 5k,7,12,3,3,17,2,6,5,1
+RM1025,46-55,Research & Development,Medical,1,Female,3,4,Research Director,3,17169,15k+,3,19,3,2,26,2,20,17,5
+RM1068,46-55,Sales,Medical,3,Female,3,2,Sales Executive,3,4591,Upto 5k,3,17,3,3,11,4,5,4,1
+RM1155,46-55,Human Resources,Life Sciences,4,Female,3,5,Manager,3,19658,15k+,3,11,3,3,27,2,5,2,1
+RM1195,46-55,Sales,Life Sciences,2,Female,4,4,Manager,2,15972,15k+,6,14,3,3,29,2,3,2,1
+RM1224,46-55,Sales,Life Sciences,3,Male,1,4,Sales Executive,3,12936,10k-15k,7,11,3,3,25,3,23,5,14
+RM1235,46-55,Sales,Marketing,3,Male,3,2,Sales Executive,2,4978,Upto 5k,7,11,3,4,4,3,1,0,0
+RM1304,46-55,Research & Development,Life Sciences,3,Female,2,3,Manufacturing Director,2,10333,10k-15k,8,12,3,3,28,4,22,11,14
+RM1322,46-55,Research & Development,Life Sciences,2,Female,3,1,Laboratory Technician,3,2105,Upto 5k,4,12,3,3,7,2,2,2,2
+RM1371,46-55,Research & Development,Technical Degree,3,Male,3,2,Research Scientist,2,5467,5k-10k,8,18,3,3,16,4,8,7,1
+RM1415,46-55,Research & Development,Medical,1,Male,3,3,Healthcare Representative,3,8633,5k-10k,2,23,4,2,25,3,17,14,12
+RM1422,46-55,Research & Development,Medical,3,Female,3,3,Research Director,2,11957,10k-15k,0,18,3,1,14,3,13,8,5
+RM051,46-55,Research & Development,Life Sciences,1,Male,2,3,Laboratory Technician,3,5381,5k-10k,9,13,3,4,23,2,1,0,0
+RM353,46-55,Sales,Medical,1,Female,3,3,Manager,3,12504,10k-15k,3,21,4,2,15,3,0,0,0
+RM445,46-55,Sales,Marketing,2,Female,3,2,Sales Executive,4,4051,Upto 5k,2,14,3,1,14,2,9,7,6
+RM493,46-55,Research & Development,Life Sciences,4,Female,2,4,Manager,1,15402,15k+,7,11,3,1,21,3,3,2,0
+RM521,46-55,Sales,Marketing,2,Male,4,2,Sales Executive,2,8120,5k-10k,3,12,3,4,12,3,2,2,2
+RM679,46-55,Research & Development,Medical,4,Male,3,1,Research Scientist,3,2259,Upto 5k,4,17,3,1,13,2,0,0,0
+RM736,46-55,Research & Development,Life Sciences,1,Male,2,2,Healthcare Representative,3,4240,Upto 5k,2,13,3,4,19,0,2,2,2
+RM737,46-55,Research & Development,Life Sciences,3,Male,2,3,Healthcare Representative,3,10999,10k-15k,7,14,3,2,27,3,15,11,4
+RM805,46-55,Research & Development,Medical,1,Male,4,4,Manager,4,16885,15k+,2,22,4,3,27,3,5,4,2
+RM902,46-55,Research & Development,Technical Degree,4,Male,4,1,Laboratory Technician,2,2559,Upto 5k,5,11,3,3,7,4,1,0,0
+RM905,46-55,Research & Development,Life Sciences,4,Male,2,5,Research Director,4,18265,15k+,6,12,3,3,25,3,1,0,0
+RM970,46-55,Research & Development,Life Sciences,4,Male,3,3,Manufacturing Director,4,7898,5k-10k,1,11,3,3,11,2,10,9,0
+RM1039,46-55,Sales,Marketing,3,Male,3,2,Sales Executive,1,5486,5k-10k,4,11,3,1,15,3,2,2,2
+RM1104,46-55,Sales,Life Sciences,3,Female,3,2,Sales Executive,3,6439,5k-10k,8,14,3,3,18,2,8,7,7
+RM1115,46-55,Research & Development,Other,3,Female,3,1,Research Scientist,1,2367,Upto 5k,8,12,3,4,10,3,8,2,7
+RM1167,46-55,Research & Development,Medical,3,Male,2,4,Manager,4,15202,15k+,2,25,4,2,23,3,2,2,2
+RM1205,46-55,Sales,Medical,4,Female,3,1,Sales Representative,3,2655,Upto 5k,2,11,3,3,19,3,9,7,7
+RM1332,46-55,Research & Development,Life Sciences,4,Male,2,5,Research Director,2,19665,15k+,4,12,3,4,29,3,22,10,12
+RM1352,46-55,Research & Development,Medical,4,Female,3,4,Manager,4,17174,15k+,3,11,3,2,24,3,22,17,4
+RM002,46-55,Research & Development,Life Sciences,3,Male,2,2,Research Scientist,2,5130,5k-10k,1,23,4,4,10,3,10,7,1
+RM130,46-55,Research & Development,Medical,3,Female,3,2,Manufacturing Director,1,6567,5k-10k,1,14,3,3,16,2,15,11,5
+RM202,46-55,Research & Development,Life Sciences,4,Male,3,2,Manufacturing Director,4,6804,5k-10k,1,15,3,1,7,0,7,7,1
+RM291,46-55,Research & Development,Life Sciences,3,Female,3,5,Research Director,1,18665,15k+,9,11,3,4,22,4,3,2,1
+RM317,46-55,Research & Development,Technical Degree,3,Female,2,4,Healthcare Representative,3,13964,10k-15k,7,12,3,4,25,2,7,1,0
+RM376,46-55,Research & Development,Other,2,Male,2,3,Healthcare Representative,3,10965,10k-15k,8,24,4,3,26,2,5,2,0
+RM474,46-55,Research & Development,Life Sciences,4,Male,2,5,Research Director,3,19502,15k+,1,17,3,3,31,5,31,9,0
+RM608,46-55,Sales,Marketing,3,Female,3,3,Sales Executive,4,7654,5k-10k,1,18,3,1,9,3,9,8,7
+RM640,46-55,Research & Development,Technical Degree,3,Female,3,1,Research Scientist,1,3580,Upto 5k,2,16,3,2,7,2,4,2,0
+RM678,46-55,Research & Development,Other,1,Female,3,3,Laboratory Technician,2,7403,5k-10k,4,11,3,3,29,3,26,9,1
+RM822,46-55,Sales,Technical Degree,4,Male,2,4,Sales Executive,2,13120,10k-15k,6,17,3,2,22,3,9,8,2
+RM900,46-55,Research & Development,Medical,1,Male,2,5,Manager,3,18711,15k+,2,13,3,3,23,2,1,0,0
+RM1007,46-55,Research & Development,Life Sciences,1,Male,2,2,Laboratory Technician,1,4284,Upto 5k,3,20,4,1,20,2,4,3,1
+RM1045,46-55,Research & Development,Technical Degree,1,Male,3,2,Healthcare Representative,3,6651,5k-10k,2,14,3,2,20,0,3,2,1
+RM1055,46-55,Research & Development,Life Sciences,3,Male,3,3,Healthcare Representative,2,10466,10k-15k,3,14,3,2,29,3,8,7,0
+RM1072,46-55,Research & Development,Medical,3,Female,2,2,Laboratory Technician,1,4789,Upto 5k,4,25,4,1,10,3,3,2,1
+RM1148,46-55,Research & Development,Life Sciences,3,Female,3,1,Laboratory Technician,1,3211,Upto 5k,1,14,3,4,10,3,9,6,1
+RM1177,46-55,Research & Development,Other,1,Female,3,4,Research Director,2,16413,15k+,3,16,3,2,27,2,4,2,1
+RM1182,46-55,Research & Development,Life Sciences,3,Female,2,4,Healthcare Representative,3,13966,10k-15k,2,19,3,2,30,3,15,11,2
+RM1193,46-55,Research & Development,Medical,4,Female,3,1,Laboratory Technician,1,2587,Upto 5k,4,16,3,2,17,2,2,2,2
+RM1196,46-55,Research & Development,Life Sciences,3,Male,3,4,Manager,3,15379,15k+,4,14,3,1,23,2,8,7,0
+RM1255,46-55,Sales,Marketing,4,Female,3,2,Sales Executive,4,4507,Upto 5k,3,12,3,3,8,1,5,1,0
+RM1378,46-55,Research & Development,Life Sciences,2,Male,3,5,Research Director,4,19161,15k+,3,15,3,4,28,3,5,4,4
+RM1469,46-55,Sales,Medical,4,Male,2,2,Sales Executive,2,5390,5k-10k,2,14,3,4,17,3,9,6,0
+RM037,46-55,Sales,Marketing,1,Male,2,1,Sales Representative,3,2683,Upto 5k,1,14,3,3,3,2,3,2,0
+RM063,46-55,Research & Development,Medical,2,Female,2,5,Research Director,3,18740,15k+,5,12,3,4,29,2,27,3,13
+RM107,46-55,Research & Development,Life Sciences,1,Female,3,5,Research Director,2,18172,15k+,3,19,3,1,28,1,8,3,0
+RM132,46-55,Sales,Marketing,3,Female,3,3,Sales Executive,4,9208,5k-10k,4,11,3,4,16,3,2,2,2
+RM166,46-55,Research & Development,Life Sciences,3,Female,3,5,Manager,2,19926,15k+,3,15,3,2,21,5,5,4,4
+RM184,46-55,Research & Development,Medical,3,Male,2,1,Laboratory Technician,3,3690,Upto 5k,2,15,3,4,5,2,3,2,0
+RM234,46-55,Sales,Medical,4,Female,3,5,Manager,4,19517,15k+,3,11,3,3,32,3,7,0,0
+RM280,46-55,Research & Development,Life Sciences,1,Male,3,5,Research Director,2,19144,15k+,3,14,3,1,28,4,10,4,1
+RM368,46-55,Research & Development,Technical Degree,4,Male,2,3,Healthcare Representative,4,10496,10k-15k,6,15,3,4,20,2,4,3,1
+RM426,46-55,Research & Development,Life Sciences,2,Male,2,4,Manager,3,17046,15k+,0,15,3,2,28,2,27,10,15
+RM478,46-55,Human Resources,Medical,1,Male,3,5,Manager,2,18200,15k+,1,11,3,3,32,2,32,5,10
+RM524,46-55,Research & Development,Medical,4,Male,4,1,Laboratory Technician,3,3221,Upto 5k,1,11,3,3,20,3,20,8,3
+RM529,46-55,Sales,Technical Degree,2,Male,3,2,Sales Executive,3,6796,5k-10k,3,14,3,1,18,4,4,3,1
+RM540,46-55,Sales,Marketing,4,Male,3,1,Sales Representative,2,3875,Upto 5k,7,15,3,4,4,2,2,2,2
+RM589,46-55,Research & Development,Medical,3,Male,3,4,Research Director,3,17639,15k+,5,16,3,4,30,3,4,3,0
+RM654,46-55,Research & Development,Life Sciences,1,Male,3,4,Manager,1,17924,15k+,1,11,3,4,31,3,31,6,14
+RM715,46-55,Research & Development,Medical,4,Male,3,4,Research Director,4,17399,15k+,9,22,4,3,32,1,5,4,1
+RM722,46-55,Research & Development,Life Sciences,4,Male,3,4,Manufacturing Director,3,13973,10k-15k,3,18,3,4,22,2,12,11,1
+RM743,46-55,Research & Development,Life Sciences,1,Male,3,1,Laboratory Technician,4,2380,Upto 5k,4,18,3,2,8,5,1,0,0
+RM752,46-55,Sales,Life Sciences,4,Female,3,2,Sales Executive,3,6347,5k-10k,0,12,3,1,19,3,18,7,0
+RM767,46-55,Research & Development,Medical,2,Male,3,5,Research Director,3,19237,15k+,2,11,3,4,29,2,8,1,7
+RM802,46-55,Sales,Other,4,Male,3,2,Sales Executive,3,4728,Upto 5k,3,14,3,4,5,4,0,0,0
+RM868,46-55,Research & Development,Medical,4,Female,3,4,Manager,1,17856,15k+,2,22,4,3,32,3,2,2,2
+RM946,46-55,Research & Development,Life Sciences,4,Female,3,4,Research Director,1,16880,15k+,4,11,3,2,25,2,3,2,1
+RM1087,46-55,Research & Development,Medical,3,Male,1,4,Research Director,4,14411,10k-15k,1,13,3,4,32,2,32,6,13
+RM1127,46-55,Sales,Marketing,3,Male,3,5,Manager,3,19331,15k+,4,16,3,3,27,2,1,0,0
+RM1139,46-55,Research & Development,Medical,2,Male,3,4,Healthcare Representative,3,11245,10k-15k,2,15,3,3,32,3,30,8,12
+RM1178,46-55,Research & Development,Life Sciences,4,Female,2,3,Research Director,1,13269,10k-15k,5,15,3,3,19,3,14,11,1
+RM1453,46-55,Sales,Life Sciences,2,Male,3,2,Sales Executive,3,6728,5k-10k,7,12,3,4,12,3,6,3,0
+RM1462,46-55,Sales,Marketing,4,Male,2,3,Sales Executive,1,10854,10k-15k,4,13,3,2,20,3,3,2,2
+RM088,46-55,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,4,2075,Upto 5k,3,23,4,2,10,4,4,2,0
+RM092,46-55,Sales,Marketing,3,Male,3,2,Sales Executive,4,5441,5k-10k,0,22,4,4,11,2,10,7,1
+RM111,46-55,Research & Development,Medical,1,Female,2,3,Healthcare Representative,1,7484,5k-10k,3,20,4,3,23,1,13,12,12
+RM124,46-55,Research & Development,Life Sciences,1,Male,3,5,Research Director,3,19537,15k+,7,13,3,3,23,5,20,18,15
+RM137,46-55,Research & Development,Life Sciences,1,Male,1,3,Manufacturing Director,4,10650,10k-15k,2,15,3,4,18,2,4,2,0
+RM157,46-55,Research & Development,Medical,2,Male,2,2,Manufacturing Director,3,6132,5k-10k,2,17,3,3,10,2,1,0,0
+RM190,46-55,Research & Development,Medical,4,Female,3,4,Healthcare Representative,2,13734,10k-15k,3,18,3,3,21,6,7,7,1
+RM214,46-55,Research & Development,Life Sciences,2,Male,2,3,Research Director,2,12490,10k-15k,5,16,3,4,16,5,10,9,4
+RM259,46-55,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,4,2723,Upto 5k,1,11,3,2,1,0,1,0,0
+RM300,46-55,Research & Development,Medical,4,Male,1,2,Manufacturing Director,2,5482,5k-10k,5,18,3,4,13,3,4,1,1
+RM377,46-55,Sales,Life Sciences,3,Female,3,2,Sales Executive,4,4936,Upto 5k,4,11,3,3,18,2,7,7,0
+RM617,46-55,Sales,Marketing,1,Female,3,4,Manager,3,16307,15k+,2,14,3,3,29,2,20,6,4
+RM780,46-55,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,3,2461,Upto 5k,9,12,3,3,18,2,10,0,2
+RM919,46-55,Sales,Life Sciences,4,Male,3,5,Manager,2,19847,15k+,4,24,4,1,31,5,29,10,11
+RM931,46-55,Research & Development,Medical,2,Female,2,1,Laboratory Technician,3,2838,Upto 5k,0,14,3,2,8,6,7,0,7
+RM963,46-55,Human Resources,Life Sciences,3,Male,3,4,Manager,2,14026,10k-15k,1,11,3,2,33,2,33,9,0
+RM972,46-55,Research & Development,Technical Degree,4,Female,2,4,Manufacturing Director,2,13142,10k-15k,3,16,3,2,29,1,5,2,0
+RM988,46-55,Sales,Marketing,2,Male,3,3,Sales Executive,2,10596,10k-15k,2,11,3,2,14,5,4,2,3
+RM1276,46-55,Research & Development,Technical Degree,1,Female,3,3,Manager,3,13116,10k-15k,2,11,3,4,15,2,2,2,2
+RM191,46-55,Research & Development,Life Sciences,3,Male,2,5,Manager,3,19999,15k+,0,14,3,1,34,5,33,18,11
+RM231,46-55,Research & Development,Life Sciences,3,Female,2,1,Laboratory Technician,4,3212,Upto 5k,7,15,3,2,6,3,2,2,2
+RM238,46-55,Sales,Life Sciences,1,Male,2,5,Manager,3,19068,15k+,1,18,3,4,33,2,33,7,15
+RM318,46-55,Research & Development,Medical,3,Male,2,2,Research Scientist,2,4941,Upto 5k,2,15,3,1,11,3,8,2,7
+RM407,46-55,Research & Development,Medical,4,Male,2,3,Manufacturing Director,3,7969,5k-10k,2,14,3,3,28,4,5,4,0
+RM409,46-55,Research & Development,Life Sciences,4,Female,3,4,Manager,4,16555,15k+,2,13,3,4,31,2,5,2,1
+RM469,46-55,Research & Development,Technical Degree,4,Male,3,2,Research Scientist,1,5577,5k-10k,3,12,3,2,18,3,10,9,6
+RM562,46-55,Sales,Marketing,3,Male,2,4,Manager,1,16856,15k+,1,11,3,1,34,3,34,6,1
+RM571,46-55,Research & Development,Medical,4,Male,3,1,Research Scientist,4,4258,Upto 5k,0,18,3,1,5,3,4,3,1
+RM588,46-55,Research & Development,Life Sciences,4,Female,3,2,Laboratory Technician,3,3149,Upto 5k,8,20,4,2,9,3,5,2,1
+RM628,46-55,Research & Development,Medical,3,Female,2,4,Manufacturing Director,4,13826,10k-15k,3,22,4,3,31,3,9,8,0
+RM700,46-55,Research & Development,Life Sciences,4,Male,3,4,Manager,4,17099,15k+,2,15,3,2,26,2,9,8,7
+RM750,46-55,Sales,Marketing,1,Female,1,5,Manager,4,19845,15k+,1,15,3,4,33,3,32,14,6
+RM807,46-55,Research & Development,Life Sciences,2,Male,3,3,Healthcare Representative,2,10445,10k-15k,7,19,3,4,18,4,8,6,4
+RM948,46-55,Sales,Life Sciences,2,Male,3,3,Sales Executive,2,8446,5k-10k,9,19,3,3,10,2,8,7,7
+RM995,46-55,Research & Development,Medical,4,Female,4,4,Manufacturing Director,3,13247,10k-15k,2,11,3,2,24,3,5,3,0
+RM1001,46-55,Research & Development,Other,3,Female,3,1,Laboratory Technician,1,2950,Upto 5k,9,13,3,3,12,2,5,4,0
+RM1435,46-55,Sales,Life Sciences,1,Male,3,1,Sales Representative,4,3482,Upto 5k,2,15,3,2,16,3,9,8,0
+RM019,46-55,Sales,Life Sciences,1,Female,2,4,Manager,4,15427,15k+,2,16,3,3,31,3,25,8,3
+RM026,46-55,Research & Development,Other,3,Female,3,5,Manager,3,19094,15k+,4,11,3,4,26,3,14,13,4
+RM153,46-55,Sales,Marketing,2,Male,3,2,Sales Representative,3,2306,Upto 5k,2,20,4,4,13,3,7,7,4
+RM185,46-55,Research & Development,Medical,4,Female,4,2,Manufacturing Director,1,4450,Upto 5k,1,11,3,3,5,3,4,2,1
+RM281,46-55,Research & Development,Medical,3,Male,3,4,Research Director,3,17584,15k+,3,16,3,4,21,5,5,3,1
+RM503,46-55,Sales,Medical,4,Female,3,2,Sales Executive,1,8381,5k-10k,7,20,4,4,18,2,14,7,8
+RM535,46-55,Research & Development,Life Sciences,3,Male,4,4,Research Director,3,14814,10k-15k,3,19,3,3,32,3,5,1,1
+RM557,46-55,Research & Development,Life Sciences,4,Male,3,2,Laboratory Technician,4,2450,Upto 5k,2,17,3,4,19,4,2,2,2
+RM625,46-55,Sales,Marketing,1,Female,2,3,Sales Executive,4,10934,10k-15k,7,18,3,4,35,3,5,2,0
+RM647,46-55,Sales,Marketing,1,Male,3,4,Sales Executive,4,11836,10k-15k,5,14,3,3,28,3,2,0,2
+RM650,46-55,Research & Development,Life Sciences,4,Female,3,4,Research Director,4,14275,10k-15k,6,18,3,3,33,0,12,9,3
+RM702,46-55,Sales,Medical,3,Male,3,4,Manager,3,14852,10k-15k,6,13,3,3,22,3,17,13,15
+RM761,46-55,Sales,Marketing,3,Female,2,3,Sales Executive,2,7525,5k-10k,2,12,3,1,30,2,15,7,6
+RM859,46-55,Research & Development,Medical,4,Female,3,5,Manager,3,18606,15k+,3,18,3,2,26,6,7,7,4
+RM1044,46-55,Research & Development,Medical,4,Male,4,4,Research Director,2,16598,15k+,4,12,3,2,35,2,9,8,8
+RM1112,46-55,Research & Development,Technical Degree,3,Female,2,3,Manufacturing Director,4,10169,10k-15k,0,16,3,2,34,4,33,7,1
+RM1204,46-55,Research & Development,Medical,2,Male,4,3,Healthcare Representative,4,7005,5k-10k,3,15,3,3,11,2,4,3,1
+RM1269,46-55,Research & Development,Medical,1,Female,2,4,Manufacturing Director,3,12965,10k-15k,4,20,4,4,27,2,3,2,0
+RM1397,46-55,Sales,Life Sciences,1,Male,3,3,Sales Executive,1,10448,10k-15k,6,13,3,2,15,2,2,2,2
+RM096,46-55,Research & Development,Technical Degree,1,Female,3,3,Research Director,3,13549,10k-15k,9,12,3,1,16,5,4,3,0
+RM113,46-55,Human Resources,Human Resources,4,Female,4,4,Manager,4,17328,15k+,2,12,3,3,23,3,5,3,4
+RM220,46-55,Sales,Marketing,4,Female,3,2,Sales Executive,1,5940,5k-10k,2,14,3,4,16,4,6,2,0
+RM333,46-55,Research & Development,Life Sciences,4,Female,3,2,Research Scientist,3,4869,Upto 5k,3,12,3,4,20,4,4,3,0
+RM393,46-55,Research & Development,Medical,1,Male,3,5,Research Director,1,19406,15k+,4,11,3,3,24,4,4,2,1
+RM432,46-55,Research & Development,Life Sciences,3,Female,3,2,Laboratory Technician,3,3780,Upto 5k,7,11,3,3,19,3,1,0,0
+RM511,46-55,Human Resources,Medical,3,Male,3,3,Human Resources,2,10725,10k-15k,2,15,3,3,16,1,9,7,7
+RM576,46-55,Research & Development,Medical,4,Female,3,2,Manufacturing Director,1,5485,5k-10k,9,11,3,2,9,4,5,3,1
+RM729,46-55,Research & Development,Technical Degree,3,Female,3,3,Manufacturing Director,3,10739,10k-15k,8,11,3,3,22,2,10,7,0
+RM772,46-55,Sales,Life Sciences,3,Female,2,3,Sales Executive,3,10686,10k-15k,6,11,3,2,13,4,9,4,7
+RM891,46-55,Research & Development,Life Sciences,4,Female,3,3,Manufacturing Director,3,10502,10k-15k,7,17,3,1,33,2,5,4,1
+RM895,46-55,Research & Development,Life Sciences,4,Male,3,4,Research Director,4,17779,15k+,3,14,3,1,36,2,10,9,0
+RM1009,46-55,Research & Development,Medical,4,Female,3,4,Research Director,4,17328,15k+,6,19,3,4,29,3,20,7,12
+RM1077,46-55,Research & Development,Medical,2,Female,3,4,Manager,4,16032,15k+,3,20,4,1,26,2,14,9,1
+RM1185,46-55,Research & Development,Medical,2,Female,3,4,Manager,3,17426,15k+,3,25,4,3,36,6,10,8,4
+RM1306,46-55,Research & Development,Medical,4,Female,3,2,Research Scientist,4,6854,5k-10k,4,15,3,2,14,2,7,1,1
+RM1398,46-55,Research & Development,Life Sciences,1,Female,3,2,Research Scientist,3,2897,Upto 5k,3,11,3,3,9,6,4,3,2
+RM1407,46-55,Research & Development,Medical,3,Female,3,2,Manufacturing Director,1,4440,Upto 5k,6,19,3,4,9,3,5,2,1
+RM066,46-55,Research & Development,Medical,4,Female,3,4,Manager,3,14756,10k-15k,2,14,3,3,21,2,5,0,0
+RM083,46-55,Sales,Life Sciences,1,Male,3,3,Sales Executive,4,10239,10k-15k,3,14,3,4,24,4,1,0,1
+RM188,46-55,Research & Development,Medical,3,Male,4,5,Research Director,2,18722,15k+,8,11,3,4,36,3,24,15,2
+RM271,46-55,Research & Development,Medical,4,Male,3,5,Manager,1,19045,15k+,0,14,3,3,37,2,36,10,4
+RM284,46-55,Research & Development,Technical Degree,2,Male,3,2,Laboratory Technician,4,5415,5k-10k,3,19,3,4,12,4,10,7,0
+RM380,46-55,Research & Development,Life Sciences,3,Female,3,4,Manager,4,16659,15k+,2,13,3,3,30,2,5,4,1
+RM446,46-55,Sales,Life Sciences,1,Female,3,4,Manager,2,16835,15k+,3,23,4,4,37,2,10,9,7
+RM569,46-55,Research & Development,Medical,4,Male,3,5,Manager,1,19859,15k+,5,13,3,4,24,2,5,2,1
+RM609,46-55,Sales,Medical,3,Male,3,2,Sales Executive,4,5160,5k-10k,4,16,3,3,12,3,9,7,7
+RM746,46-55,Research & Development,Medical,3,Male,3,2,Healthcare Representative,2,6385,5k-10k,3,14,3,4,17,3,8,7,6
+RM775,46-55,Research & Development,Medical,3,Male,2,4,Manager,1,16756,15k+,7,15,3,2,31,3,9,7,6
+RM788,46-55,Research & Development,Life Sciences,4,Male,3,3,Manufacturing Director,2,10976,10k-15k,3,18,3,2,23,4,3,2,1
+RM915,46-55,Research & Development,Medical,4,Male,2,4,Healthcare Representative,2,13577,10k-15k,1,15,3,4,34,3,33,9,15
+RM956,46-55,Research & Development,Medical,4,Female,1,5,Manager,3,19187,15k+,4,14,3,4,23,5,19,9,9
+RM976,46-55,Sales,Marketing,1,Male,4,4,Sales Executive,3,13695,10k-15k,6,17,3,3,24,2,19,7,3
+RM1011,46-55,Research & Development,Medical,2,Male,4,4,Research Director,4,14732,10k-15k,2,13,3,4,31,4,7,7,0
+RM1066,46-55,Research & Development,Life Sciences,4,Male,3,2,Healthcare Representative,3,4035,Upto 5k,0,16,3,2,4,2,3,2,1
+RM1117,46-55,Sales,Marketing,3,Male,2,5,Manager,4,19586,15k+,1,21,4,3,36,3,36,6,2
+RM1208,46-55,Research & Development,Technical Degree,1,Male,2,1,Research Scientist,2,3537,Upto 5k,5,12,3,4,8,1,4,2,1
+RM1265,46-55,Research & Development,Medical,3,Male,2,5,Research Director,1,19038,15k+,8,12,3,2,34,2,1,0,0
+RM1337,46-55,Research & Development,Technical Degree,2,Male,2,1,Research Scientist,4,2662,Upto 5k,8,20,4,2,19,2,5,2,0
+RM1402,46-55,Human Resources,Human Resources,3,Male,4,5,Manager,2,19636,15k+,4,18,3,1,35,0,10,9,1
+RM086,55+,Research & Development,Life Sciences,4,Male,1,3,Manufacturing Director,4,7260,5k-10k,4,11,3,1,37,3,6,4,0
+RM123,55+,Research & Development,Life Sciences,2,Female,3,1,Research Scientist,2,4963,Upto 5k,9,18,3,1,7,2,5,4,4
+RM176,55+,Research & Development,Life Sciences,3,Female,3,1,Research Scientist,1,4257,Upto 5k,4,18,3,3,19,3,2,2,2
+RM402,55+,Sales,Life Sciences,3,Female,4,4,Sales Executive,1,13212,10k-15k,9,11,3,4,36,0,7,7,7
+RM553,55+,Research & Development,Medical,3,Male,3,4,Healthcare Representative,4,11103,10k-15k,7,11,3,3,30,1,10,7,1
+RM773,55+,Research & Development,Medical,1,Female,3,1,Research Scientist,3,2942,Upto 5k,2,19,3,2,18,4,5,4,0
+RM852,55+,Research & Development,Technical Degree,4,Female,3,5,Manager,1,19943,15k+,4,13,3,4,28,2,5,2,4
+RM957,55+,Human Resources,Life Sciences,4,Male,3,5,Manager,2,19717,15k+,6,14,3,1,36,4,7,3,7
+RM977,55+,Research & Development,Life Sciences,4,Male,3,4,Manufacturing Director,2,13402,10k-15k,4,12,3,1,33,0,19,16,15
+RM1024,55+,Research & Development,Life Sciences,1,Female,3,1,Research Scientist,1,2066,Upto 5k,2,22,4,4,5,3,3,2,1
+RM1355,55+,Research & Development,Life Sciences,1,Male,3,1,Laboratory Technician,4,2587,Upto 5k,1,16,3,4,5,3,4,2,1
+RM1372,55+,Sales,Marketing,4,Female,2,2,Sales Executive,1,5380,5k-10k,4,16,3,3,6,3,0,0,0
+RM1442,55+,Research & Development,Life Sciences,3,Male,3,2,Healthcare Representative,3,6306,5k-10k,1,21,4,1,13,2,13,12,1
+RM1445,55+,Research & Development,Technical Degree,4,Male,3,1,Laboratory Technician,3,2339,Upto 5k,8,11,3,4,14,4,10,9,9
+RM164,55+,Research & Development,Life Sciences,3,Male,4,3,Healthcare Representative,4,9439,5k-10k,3,16,3,2,12,2,5,3,1
+RM361,55+,Research & Development,Medical,4,Male,3,2,Healthcare Representative,3,6755,5k-10k,2,11,3,3,15,2,3,2,1
+RM425,55+,Sales,Marketing,1,Male,2,4,Manager,4,14118,10k-15k,3,12,3,3,32,3,1,0,0
+RM1054,55+,Research & Development,Life Sciences,2,Male,4,2,Research Scientist,3,4900,Upto 5k,0,24,4,1,13,2,12,9,2
+RM099,55+,Sales,Medical,4,Male,3,4,Sales Executive,3,13872,10k-15k,0,13,3,3,38,1,37,10,1
+RM127,55+,Research & Development,Medical,4,Female,3,3,Healthcare Representative,4,10312,10k-15k,1,12,3,4,40,3,40,10,15
+RM158,55+,Research & Development,Medical,2,Female,2,1,Research Scientist,2,3346,Upto 5k,4,20,4,2,9,3,1,0,0
+RM309,55+,Research & Development,Life Sciences,4,Male,1,2,Healthcare Representative,3,5660,5k-10k,2,13,3,4,12,2,5,3,1
+RM596,55+,Research & Development,Life Sciences,4,Male,3,5,Research Director,2,19246,15k+,7,12,3,4,40,2,31,15,13
+RM661,55+,Research & Development,Life Sciences,4,Male,2,1,Laboratory Technician,4,2380,Upto 5k,9,14,3,4,3,3,1,0,0
+RM675,55+,Research & Development,Technical Degree,3,Female,2,3,Healthcare Representative,2,10552,10k-15k,2,13,3,4,24,3,6,0,0
+RM701,55+,Research & Development,Technical Degree,4,Male,3,1,Research Scientist,3,2479,Upto 5k,4,24,4,1,7,4,1,0,0
+RM939,55+,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,3,2372,Upto 5k,1,12,3,4,2,3,2,2,2
+RM967,55+,Research & Development,Medical,3,Female,2,3,Manufacturing Director,1,10008,10k-15k,7,14,3,4,31,0,10,9,5
+RM1010,55+,Research & Development,Medical,4,Female,3,5,Research Director,1,19701,15k+,3,21,4,3,32,3,9,8,1
+RM1302,55+,Sales,Medical,2,Male,3,4,Manager,2,16291,15k+,4,22,4,4,37,0,16,9,14
+RM1311,55+,Research & Development,Life Sciences,1,Male,3,4,Research Director,3,15787,15k+,2,14,3,2,23,3,2,2,2
+RM1375,55+,Sales,Life Sciences,4,Female,3,4,Manager,4,17875,15k+,4,13,3,3,29,2,1,0,0
+RM007,55+,Research & Development,Medical,3,Female,4,1,Laboratory Technician,1,2670,Upto 5k,4,20,4,1,12,3,1,0,0
+RM064,55+,Sales,Life Sciences,1,Female,3,3,Sales Executive,1,7637,5k-10k,7,11,3,4,28,3,21,16,7
+RM071,55+,Sales,Life Sciences,1,Female,2,2,Sales Executive,3,5473,5k-10k,7,11,3,4,20,2,4,3,1
+RM106,55+,Human Resources,Human Resources,3,Female,2,5,Manager,4,18844,15k+,9,21,4,4,30,3,3,2,2
+RM226,55+,Research & Development,Life Sciences,3,Male,2,1,Research Scientist,4,2177,Upto 5k,3,17,3,1,7,6,1,0,0
+RM233,55+,Human Resources,Medical,2,Male,3,1,Human Resources,3,2267,Upto 5k,8,17,3,4,7,2,2,2,2
+RM744,55+,Research & Development,Life Sciences,3,Female,2,4,Manufacturing Director,4,13726,10k-15k,3,13,3,1,30,4,5,3,4
+RM759,55+,Sales,Technical Degree,2,Male,3,3,Manager,4,11904,10k-15k,3,14,3,3,14,1,6,4,0
+RM898,55+,Sales,Life Sciences,3,Female,2,2,Sales Executive,4,5171,5k-10k,5,17,3,4,13,2,6,1,0
+RM920,55+,Research & Development,Medical,4,Male,3,3,Manufacturing Director,4,10512,10k-15k,6,12,3,4,25,6,9,7,5
+RM412,55+,Research & Development,Life Sciences,1,Female,3,5,Manager,1,19566,15k+,5,11,3,4,33,5,29,8,11
+RM428,55+,Sales,Marketing,3,Female,2,3,Sales Executive,1,10266,10k-15k,4,19,3,4,22,5,18,13,13
+RM537,55+,Sales,Marketing,1,Male,3,2,Sales Executive,1,5405,5k-10k,8,14,3,4,10,1,2,2,2
+RM880,55+,Sales,Marketing,2,Male,4,2,Sales Executive,4,5220,5k-10k,0,18,3,2,12,3,11,7,1
+RM1210,55+,Research & Development,Medical,3,Male,1,3,Healthcare Representative,4,10883,10k-15k,3,20,4,3,19,2,1,0,0
