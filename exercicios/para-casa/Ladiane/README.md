@@ -1,6 +1,8 @@
+![Descrição da Imagem](saudemental.png)
+
 # Projeto II: Análise de Dados de Saúde Mental
 
-## Descrição dos Dados
+## Descrição dos Dados 
 
 O dataset utilizado neste projeto é intitulado "MentalHealthSurvey.csv" e contém informações sobre a saúde mental de estudantes universitários. As variáveis incluídas no dataset abrangem aspectos como gênero, idade, universidade, nível do curso, envolvimento em atividades esportivas, e questões relacionadas à saúde mental, como ansiedade, depressão e estresse. Além disso, o dataset inclui informações sobre atividades de alívio de estresse e preocupações financeiras, entre outras variáveis.
 
@@ -15,8 +17,6 @@ Os dados chamaram minha atenção devido a várias razões:
 ## import matplotlib.pyplot as plt
 
 
-
-1. Relevância Social e Acadêmica
 
 ## Instalação das Bibliotecas Necessárias
 
@@ -62,9 +62,9 @@ df.rename(columns={
 #Salvar o DataFrame tratado
 df.to_csv('MentalHealthSurvey_tratado.csv', index=False)'''
 
-## Visualizações e Análises
+## Visualizações e Análises 
 
-## Qual é a distribuição de frequências das universidades no dataset?
+## Qual é a distribuição de frequências das universidades no dataset? 📊
 
 ``` 
 import matplotlib.pyplot as plt
@@ -80,7 +80,7 @@ plt.show()
 
 ```
 
-## Como os diferentes níveis de curso estão distribuídos entre as universidades?
+## Como os diferentes níveis de curso estão distribuídos entre as universidades? 🎓
 
 #Agrupar e contar as ocorrências
 
@@ -102,7 +102,7 @@ plt.show()
 ```
 
 
-## Os estudantes relatam ter sofrido discriminação no campus?
+## Os estudantes relatam ter sofrido discriminação no campus? 🚸
 
 ````
 #Contar as ocorrências de cada resposta (Verdadeiro ou Falso)
@@ -117,7 +117,7 @@ plt.show()
 
 ````
 
-## Qual é a distribuição de gênero entre os estudantes no dataset?
+## Qual é a distribuição de gênero entre os estudantes no dataset? 👩‍🎓👨‍🎓
 
 
 #Contar o número de homens e mulheres
@@ -149,7 +149,7 @@ plt.show()
 ````
 import sqlite3
 ````
-## Número de Estudantes que Participam de Atividades Físicas e o Tipo de Atividades
+## Número de Estudantes que Participam de Atividades Físicas e o Tipo de Atividades 🏋️‍♂️
 
 ````#conexão 
 conn = sqlite3.connect(':memory:')
@@ -185,7 +185,7 @@ RESULTADO
 
 ````
 
-## Média de Ansiedade e Depressão por Nível de Curso
+## Média de Ansiedade e Depressão por Nível de Curso 📈
 
 ````
 #conexão 
@@ -212,6 +212,7 @@ RESULTADO
 
 ````
 # Há uma diferença significativa nos níveis de ansiedade entre estudantes que praticam atividades físicas (envolvimento em esportes) e aqueles que não praticam?
+🤔
 
 ![Descrição da Imagem](testeHip.png)
 
