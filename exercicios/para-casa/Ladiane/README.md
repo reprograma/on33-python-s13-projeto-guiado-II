@@ -1,4 +1,4 @@
-![Descrição da Imagem](saudemental.jpeg
+![Descrição da Imagem](saudemental.jpeg)
 
 # Projeto II: Análise de Dados de Saúde Mental
 
@@ -212,7 +212,7 @@ RESULTADO
 
 ````
 # Há uma diferença significativa nos níveis de ansiedade entre estudantes que praticam atividades físicas (envolvimento em esportes) e aqueles que não praticam?
-🤔
+🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔
 
 ![Descrição da Imagem](testeHip.png)
 
