@@ -1,4 +1,4 @@
-![Descrição da Imagem](saudemental.png)
+![Descrição da Imagem](saudemental.jpeg
 
 # Projeto II: Análise de Dados de Saúde Mental
 
