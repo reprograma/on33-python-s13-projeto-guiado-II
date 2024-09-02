@@ -1,4 +1,4 @@
-# 🗳️👍🏻✅ Projeto Guiado II - Eleicoes SP 2024
+# 🗳️👍🏻✅ Projeto Guiado II - Eleicoes SP 2024 
 
 ## 📚 Descrição da Atividade
 
@@ -6,7 +6,7 @@ Exercicio da semana 13 para casa. Utilize o dataset proposto em aula ou selecion
 
 ## 📈 Introdução
 
-As bases de dados escolhidas foram obtidas no site do Tribunal Superior Eleitoral (TSE) de São Paulo [TSE](https://dadosabertos.tse.jus.br/dataset/candidatos-2024), e são referentes às eleições de 2024 para os cargos de prefeito, vice-prefeito e vereador. A escolha desse dataset foi motivada pelo atual cenário político brasileiro, marcado por incertezas e debates sobre o futuro político e administrativo do estado de São Paulo. Analisar esses dados é crucial, pois as eleições municipais têm um impacto direto nas políticas públicas que afetam a vida dos cidadãos, e entender os padrões e tendências pode fornecer insights valiosos para prever possíveis desdobramentos e influências no cenário político local.
+As bases de dados escolhidas foram obtidas no site do Tribunal Superior Eleitoral ([TSE](https://dadosabertos.tse.jus.br/dataset/candidatos-2024)) de São Paulo, e são referentes às eleições de 2024 para os cargos de prefeito, vice-prefeito e vereador. A escolha desse dataset foi motivada pelo atual cenário político brasileiro, marcado por incertezas e debates sobre o futuro político e administrativo do estado de São Paulo. Analisar esses dados é crucial, pois as eleições municipais têm um impacto direto nas políticas públicas que afetam a vida dos cidadãos, e entender os padrões e tendências pode fornecer insights valiosos para prever possíveis desdobramentos e influências no cenário político local.
 
 O que chamou a atenção nesses dados foi a riqueza de detalhes disponíveis, como informações sobre candidaturas, despesas de campanha, distribuição por gênero, idade, e partido. Esses aspectos são fundamentais para entender melhor o perfil dos candidatos, as estratégias eleitorais adotadas e como esses fatores podem influenciar os resultados eleitorais. Acredita-se que essa análise pode gerar bons insights, como identificar tendências de investimento em campanhas, padrões de participação feminina nas eleições, e a relação entre gasto de campanha e sucesso eleitoral.
 
