@@ -289,7 +289,7 @@ O que chamou a atenção nesses dados foi a riqueza de detalhes disponíveis, co
  
             plt.show()             
 
-## ✅ HIPOTESE COMFIRMADA! Após analise podemos concluir que é muito provável que as ocupações estejam associadas a diferentes médias de despesas de campanha, confirmando que há uma relação significativa entre a ocupação e as despesas de campanha dos candidatos. 
+## ✅ HIPOTESE CONFIRMADA! Após analise podemos concluir que é muito provável que as ocupações estejam associadas a diferentes médias de despesas de campanha, confirmando que há uma relação significativa entre a ocupação e as despesas de campanha dos candidatos. 
 
 ![gráfico](https://github.com/CarolyneS14/on33-python-s13-projeto-guiado-II/blob/main/Carolyne-Oliveira/Graficos/gr%C3%A1fico%20de%20barras%20inclinadas.png)
 
