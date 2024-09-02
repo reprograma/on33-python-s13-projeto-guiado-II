@@ -25,6 +25,9 @@ O que chamou a atenção nesses dados foi a riqueza de detalhes disponíveis, co
             import numpy as np
             import plotly.express as px
             from scipy import stats
+            from scipy.stats import f_oneway
+            import statsmodels.stats.multicomp as mc
+            from scipy.stats import kruskal
 
 ## 🟦 Escolha do Dataset:
 
@@ -32,13 +35,19 @@ O que chamou a atenção nesses dados foi a riqueza de detalhes disponíveis, co
  ### - Substituir ";"
  ### - 'on_bad_lines' indica o que fazer em linhas com erros e 'skip' irá pular linhas que causam erros:
             
-            candidato = pd.read_csv('/content/drive/MyDrive/REPROGRAMA/on33-python-s13-projeto-guiado-II/Projeto Guiado/consulta_cand_2024/consulta_cand_2024_SP.csv', encoding='ISO-8859-1', sep=';', on_bad_lines='skip')
+            candidato = pd.read_csv('/content/drive/MyDrive/
+            REPROGRAMA/on33-python-s13-projeto-guiado-II/
+            Projeto Guiado/consulta_cand_2024/consulta_cand_2024_SP.csv', 
+            encoding='ISO-8859-1', sep=';', on_bad_lines='skip')
 
  ### - Abrir arquivo csv
  ### - Substituir ";"
  ### - 'on_bad_lines' indica o que fazer em linhas com erros e 'skip' irá pular linhas que causam erros:
 
-            complemento = pd.read_csv('/content/drive/MyDrive/REPROGRAMA/on33-python-s13-projeto-guiado-II/Projeto Guiado/consulta_cand_complementar_2024/consulta_cand_complementar_2024_SP.csv', encoding='ISO-8859-1', sep=';', on_bad_lines='skip')            
+            complemento = pd.read_csv('/content/drive/MyDrive/
+            REPROGRAMA/on33-python-s13-projeto-guiado-II/
+            Projeto Guiado/consulta_cand_complementar_2024/consulta_cand_complementar_2024_SP.csv',
+            encoding='ISO-8859-1', sep=';', on_bad_lines='skip')            
 
  ### - Verificar as colunas na base de dados:
 
@@ -102,7 +111,9 @@ O que chamou a atenção nesses dados foi a riqueza de detalhes disponíveis, co
 
  ### - Realizar o JOIN com as colunas renomeadas
 
-            eleicao = pd.read_sql_query('SELECT * FROM candidato JOIN complemento ON candidato.SQ_CANDIDATO_Candidato = complemento.SQ_CANDIDATO_Complemento', conn)
+            eleicao = pd.read_sql_query
+            ('SELECT * FROM candidato JOIN complemento ON 
+            candidato.SQ_CANDIDATO_Candidato = complemento.SQ_CANDIDATO_Complemento', conn)
 
  ### - Fechar a conexão:
 
@@ -126,7 +137,7 @@ O que chamou a atenção nesses dados foi a riqueza de detalhes disponíveis, co
 
 ## 🟦 Visualizações Gráficas:
 
- ### - 1 Distribuição de Gênero: Analisar a proporção de candidatos por gênero.
+ ### 1️⃣ Distribuição de Gênero: Analisar a proporção de candidatos por gênero.
 
   ### Configurações para gráficos
 
@@ -149,9 +160,9 @@ O que chamou a atenção nesses dados foi a riqueza de detalhes disponíveis, co
 
             plt.show()
 
-  # IMAGEM (gráfico de barras Distribuicao de genero)            
+![gráfico](https://github.com/CarolyneS14/on33-python-s13-projeto-guiado-II/blob/main/Carolyne-Oliveira/Graficos/gr%C3%A1fico%20de%20barras%20Distribuicao%20de%20genero.png)             
 
- ### - 2 Idade dos Candidatos: Distribuição de idade dos candidatos.
+ ### 2️⃣ Idade dos Candidatos: Distribuição de idade dos candidatos.
 
   ### Configurações para gráficos
 
@@ -166,7 +177,8 @@ O que chamou a atenção nesses dados foi a riqueza de detalhes disponíveis, co
 
             def calcular_idade(data_nascimento):
                 hoje = datetime.today()
-                idade = hoje.year - data_nascimento.year - ((hoje.month, hoje.day) < (data_nascimento.month, data_nascimento.day))
+                idade = hoje.year - data_nascimento.year - ((hoje.month, hoje.day) 
+                < (data_nascimento.month, data_nascimento.day))
                 return idade
 
   ### Aplicar a função para calcular a idade
@@ -185,9 +197,9 @@ O que chamou a atenção nesses dados foi a riqueza de detalhes disponíveis, co
   
             plt.show()  
 
-   # IMAGEM (gráfico de histograma idades)             
+![gráfico](https://github.com/CarolyneS14/on33-python-s13-projeto-guiado-II/blob/main/Carolyne-Oliveira/Graficos/gr%C3%A1fico%20de%20histograma%20idades.png)                
 
- ### - 3 Comparação por Escolaridade: Comparar os candidatos com diferentes níveis de escolaridade.
+ ### 3️⃣ Comparação por Escolaridade: Comparar os candidatos com diferentes níveis de escolaridade.
 
   ### Configurações para gráficos
 
@@ -205,7 +217,9 @@ O que chamou a atenção nesses dados foi a riqueza de detalhes disponíveis, co
 
   ### Criar o gráfico de barras
 
-            ax = sns.barplot(x='Número de Candidatos', y='Grau de Instrução', data=df_escolaridade, hue='Grau de Instrução', dodge=False, palette='viridis', legend=False)
+            ax = sns.barplot(x='Número de Candidatos', 
+            y='Grau de Instrução', data=df_escolaridade, 
+            hue='Grau de Instrução', dodge=False, palette='viridis', legend=False)
 
             plt.title('Número de Candidatos por Nível de Escolaridade')
             plt.xlabel('Número de Candidatos')
@@ -214,15 +228,16 @@ O que chamou a atenção nesses dados foi a riqueza de detalhes disponíveis, co
   ### Adicionar rótulos às barras
 
             for index, row in df_escolaridade.iterrows():
-                ax.annotate(f"{row['Número de Candidatos']}", xy=(row['Número de Candidatos'], index), ha='left', va='center')
+                ax.annotate(f"{row['Número de Candidatos']}", 
+                xy=(row['Número de Candidatos'], index), ha='left', va='center')
 
   ### Mostrar o gráfico
 
             plt.show()
 
-   # IMAGEM (gráfico de barras inclinadas, escolaridade)                
+![gráfico](https://github.com/CarolyneS14/on33-python-s13-projeto-guiado-II/blob/main/Carolyne-Oliveira/Graficos/gr%C3%A1fico%20de%20barras%20inclinadas%2C%20escolaridade.png)                  
 
- ### - 4 Diversidade Racial: Analisar a distribuição de candidatos por raça/cor.
+ ### 4️⃣ Diversidade Racial: Analisar a distribuição de candidatos por raça/cor.
 
   ### Contar o número de candidatos por raça/cor
 
@@ -235,15 +250,15 @@ O que chamou a atenção nesses dados foi a riqueza de detalhes disponíveis, co
 
   ### Criar o gráfico de barras com a plotly
 
-            fig = px.bar(df_cor_raca, x='Número de Candidatos', y='Cor/Raça', color='Cor/Raça', title='Número de Candidatos por Cor/Raça') 
+            fig = px.bar(df_cor_raca, x='Número de Candidatos', y='Cor/Raça', 
+            color='Cor/Raça', title='Número de Candidatos por Cor/Raça') 
             fig.update_layout(xaxis_title='Número de Candidatos', yaxis_title='Cor/Raça')
 
   ### Mostrar o gráfico
 
             fig.show()    
 
-# IMAGEM (gráfico de barras inclinadas, raca e cor)
-[![gráfico](/capa.jpg)]                             
+![gráfico](https://github.com/CarolyneS14/on33-python-s13-projeto-guiado-II/blob/main/Carolyne-Oliveira/Graficos/gr%C3%A1fico%20de%20barras%20inclinadas%2C%20raca%20e%20cor.png)                             
 
 ## 🟦 Hipóteses:
 
@@ -251,12 +266,15 @@ O que chamou a atenção nesses dados foi a riqueza de detalhes disponíveis, co
 
   ### - Calcular a média das despesas por ocupação
 
-            despesa_por_ocupacao = eleicao.groupby('DS_OCUPACAO')['VR_DESPESA_MAX_CAMPANHA'].mean().sort_values(ascending=False).head(15)
+            despesa_por_ocupacao = eleicao.groupby('DS_OCUPACAO')
+            ['VR_DESPESA_MAX_CAMPANHA'].mean().sort_values(ascending=False).head(15)
 
   ### - Plotar um gráfico de barras
 
             plt.figure(figsize=(14, 8))
-            ax = sns.barplot(x=despesa_por_ocupacao.values, y=despesa_por_ocupacao.index, hue=despesa_por_ocupacao.index, palette='viridis', dodge=False, legend=False)
+            ax = sns.barplot(x=despesa_por_ocupacao.values, 
+            y=despesa_por_ocupacao.index, hue=despesa_por_ocupacao.index, 
+            palette='viridis', dodge=False, legend=False)
 
   ### - Adicionar rótulos às barras
 
@@ -273,7 +291,7 @@ O que chamou a atenção nesses dados foi a riqueza de detalhes disponíveis, co
 
 ## ✅ HIPOTESE COMFIRMADA! Após analise podemos concluir que é muito provável que as ocupações estejam associadas a diferentes médias de despesas de campanha, confirmando que há uma relação significativa entre a ocupação e as despesas de campanha dos candidatos. 
 
-# IMAGEM (gráfico de barras inclinadas)
+![gráfico](https://github.com/CarolyneS14/on33-python-s13-projeto-guiado-II/blob/main/Carolyne-Oliveira/Graficos/gr%C3%A1fico%20de%20barras%20inclinadas.png)
 
 ## Hipótese 2: A média das despesas de campanha é diferente entre gêneros.
 
@@ -301,7 +319,7 @@ O que chamou a atenção nesses dados foi a riqueza de detalhes disponíveis, co
 
 ## ❌ HIPOTESE REFULTADA! Após analise podemos concluir que não há uma diferença significativa nas despesas de campanha entre os gêneros masculino e feminino, sendo essa diferenca de apenas 4,8% conforme mostra o gráfico de pizza!
 
-# IMAGEN (gráfico de pizza)
+![gráfico](https://github.com/CarolyneS14/on33-python-s13-projeto-guiado-II/blob/main/Carolyne-Oliveira/Graficos/gr%C3%A1fico%20de%20pizza.png)
 
 ## 👩🏻‍🏫 Professora Stefany Gracy.
 Professora [Stefany Gracy](https://github.com/Stesilva16 "Stefany Gracy")
